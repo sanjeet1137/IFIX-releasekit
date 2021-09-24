@@ -1,0 +1,1614 @@
+[{
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "Continue",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_COMMON_LOGIN",
+		"message": "Login",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "LOGIN_PHONE_NO",
+		"message": "Phone Number",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+
+	{
+		"code": "CORE_LOGIN_PASSWORD",
+		"message": "Password",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_COMMON_FORGOT_PASSWORD",
+		"message": "Forgot Password?",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "Continue",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "Phone number does not exist",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "Phone number and password do not match",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+
+	{
+
+		"code": "UPDATE_PASSWORD",
+		"message": "Update Password",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "INVITED_TO_GRAMA_SEVA",
+		"message": "You have been invited to mGramSeva application of the following Gram Panchayat(s)",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "GP_NUMBER",
+		"message": "GP code",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_COMMON_NEW_PASSWORD",
+		"message": "Enter a New Password",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CONTINUE_TO_LOGIN",
+		"message": "Continue To Login",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "Non_Metered",
+		"message": "Non Metered",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "Metered",
+		"message": "Metered",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CONSUMER_DETAILS_LABEL",
+		"message": "Consumer Details",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CONSUMER_DETAILS_SUB_LABEL",
+		"message": "Consumer Details",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+
+		"code": "CREATE_CONSUMER_NAME",
+		"message": "Consumer's Name",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_FATHER_SPOUSE_NAME",
+		"message": "Father / Spouse Name",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_OLD_CONNECTION_ID",
+		"message": "Old Connection ID",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_DOOR_NO",
+		"message": "Door Number",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_STREETNUM_STREETNAME",
+		"message": "Street Name/Number",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_WARD_LABEL",
+		"message": "Ward Name/Number",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "CONSUMER_PROPERTY_TYPE",
+		"message": "Property Type",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "CONSUMER_SERVICE_TYPE",
+		"message": "Service Type",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "CONSUMER_METER_NUMBER",
+		"message": "Meter Number",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "CONSUMER_PREV_METER_READING_DATE",
+		"message": "Previous Meter Reading Date",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_ARREARS",
+		"message": "Arrears",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_COMMON_BUTTON_SUBMIT",
+		"message": "Submit",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONSUMER_REGISTER_SUCCESS_LABEL",
+		"message": "Consumer Creation Successful",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_EXPENSE_DETAILS",
+		"message": "Expense Details",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_EXPENSE_PROVIDE_INFO_TO_CREATE_EXPENSE",
+		"message": "Create a new expense record.",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
+		"message": "Type of Expense",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "ELECTRICITY_BILL",
+		"message": "Electricity Bill",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "OM",
+		"message": "Operations and Maintenance",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+
+		"code": "SALARY",
+		"message": "Salary",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MISC ",
+		"message": "Miscellaneous ",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_VENDOR_NAME",
+		"message": "Vendor Name",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_AMOUNT",
+		"message": "Amount",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_BILL_DATE",
+		"message": "Bill Date",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_PAYMENT_DATE",
+		"message": "Payment Date",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "ATTACH_BILL",
+		"message": "Attach Bill",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "NO_FILE_UPLOADED",
+		"message": "No File Selected",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_COMMON_BUTTON_SUBMIT",
+		"message": "Submit",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "ENTER_VALID_AMOUNT",
+		"message": "Enter a valid Amount",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "BILL_DATE_CANNOT_BEFORE_PART_DATE",
+		"message": "Bill Date cannot be before Party Bill Date",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "BILL_DATE_CANNOT_GREATER_THAN_TODAY",
+		"message": "Bill Date cannot be greater than today",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PARTY_BILL_DATE_CANNOT_GREATER_THAN_TODAY",
+		"message": "Party Bill Date cannot be greater than today",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PAYMENT_DATE_CANNOT_GREATER_THAN_TODAY",
+		"message": "Payment Date  cannot be greater than today",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PAYMENT_DATE_CANNOT_BEFORE_PARTY_DATE",
+		"message": "Payment Date cannot be before Party Bill Date",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_EXPENDITURE_SUCESS",
+		"message": "Expenditure Entry Successful",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "EXPENDITURE_SUCESS",
+		"message": "Expenditure entry has been made against <Vendor> under <type of expense> category for Rs. <Amount>",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_COMMON_BACK_HOME_BUTTON",
+		"message": "Back to Home",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "ADD_NEW_EXPENSE",
+		"message": "Add new expense",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "SEARCH_EXPENSE_BILL",
+		"message": "Search Expense Bills",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "ENTER_VENDOR_BILL_EXPENSE",
+		"message": "Enter the Vendor Name or Expenditure type or Bill ID to get more details. Please enter only one.",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_VENDOR_NAME",
+		"message": "Vendor Name",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
+		"message": "Type of Expense",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "ELECTRICITY_HINT",
+		"message": "Eg. Electricity",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "BILL_ID",
+		"message": "Bill ID",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "BILL_HINT",
+		"message": "Eg. EB-2021-22/08/21/0123",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+
+		"code": "SHOW_LESS",
+		"message": "Show Less",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "SEARCH",
+		"message": "Search",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NO_EXPENSES_FOUND",
+		"message": "No Bills matched with the search criteria",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "SEARCH_CONSUMER_RECORDS",
+		"message": "Search consumer records",
+		"module": "mgramseva-dashboard",
+		"locale": "en_IN"
+	},
+	{
+		"code": "SEARCH_NAME_CONNECTION ",
+		"message": "Search by Connection ID",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "SEARCH_BY_BILL_OR_VENDOR",
+		"message": "Search by Bill Id / Vendor",
+		"module": "mgramseva-dashboard",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "AMOUNT",
+		"message": "Amount",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NO_RECORDS_MSG",
+		"message": "No Records Found",
+		"module": "mgramseva-dashboard",
+		"locale": "en_IN"
+	},
+	{
+		"code": "GENERATE_DEMAND_BILLING_YEAR_LABEL",
+		"message": "Billing Year",
+		"module": "mgramseva-bill",
+		"locale": "en_IN"
+	},
+	{
+		"code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL",
+		"message": "Billing Cycle",
+		"module": "mgramseva-bill",
+		"locale": "en_IN"
+	},
+	{
+		"code": "WS_10101",
+		"message": "Current Charges",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "WS_10102",
+		"message": "Arrears",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "ELECTRICITY_BILL",
+		"message": "Electricity Bill",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CORE_COMMON_MOBILE_NUMBER",
+		"message": "Mobile Number",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVITED_TO_SINGLE_GP",
+		"message": "You have been invited to mGramSeva application of the following Gram Panchayat",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_SEARCH_USER_PROP_NOT_FOUND",
+		"message": "User Not found",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "SHARE_BILL_LINK",
+		"message": "Dear <user>}, water bill for <cycle> has been generated for consumer id <new consumer id> for Rs. <Amount>. Click <link> to download latest bill.",
+		"module": "mgramseva-bill",
+		"locale": "en_IN"
+	},
+	{
+		"code": "JAN",
+		"message": "January",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "FEB",
+		"message": "February",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "MAR",
+		"message": "March",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+
+		"code": "APR",
+		"message": "April",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+	},
+	{
+		"code": "MAY",
+		"message": "May",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "JUN",
+		"message": "June",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+	},
+	{
+		"code": "JULY",
+		"message": "July",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "AUG",
+		"message": "August",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "SEP",
+		"message": "September",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "OCT",
+		"message": "October",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NOV",
+		"message": "November",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "DEC",
+		"message": "December",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NEW_BULK_DEMAND_EVENT",
+		"message": "Demand for {billing cycle has been generated. {X bills have been raised and sent to {X/X+Y households. {Y bills have to be raised. Click here to see details",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NEW_BULK_DEMAND_EVENT_M",
+		"message": "New billing cycle will start today. {Y bills have to be raised for last month. Click here to see details.",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NEW_BULK_DEMAND_EVENT_NM",
+		"message": "Demand for {billing cycle has been generated. {X bills have been raised and sent to {X/X households. Click here to see details.",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "OF",
+		"message": "of",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CONSUMER_UPDATED_SUCCESS_LABEL",
+		"message": "Consumer Updated successfully",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "BL_10101",
+		"message": "Water Charges",
+		"module": "mgramseva-payments",
+		"locale": "en_IN"
+	},
+	{
+		"code": "BL_10102",
+		"message": "ਪਾਣੀ ਦੇ ਖਰਚੇ-ਬਕਾਏ",
+		"module": "mgramseva-payments",
+		"locale": "pn_IN"
+	},
+	{
+		"code": "WS_10101",
+		"message": "Current Charges",
+		"module": "mgramseva-payments",
+		"locale": "en_IN"
+	},
+	{
+		"code": "FEEDBACK_PARSE_ERROR",
+		"message": "Failed to parse additionalDetail object",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "CONNECTION_DETAILS_PARSE_ERROR",
+		"message": "The additionalDetail json cannot be parsed of Connection :",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "WATER_CALCULATION_EXCEPTION",
+		"message": "Calculation response can not parsed!!!",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "IDGEN_ERROR",
+		"message": "The Id of WaterConnection returned by IdGen is not equal to number of WaterConnection",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "IDGEN_NOTFOUND_ERROR",
+		"message": "No ids returned from idgen Service",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "ID_MISMATCH_ERROR_CONNECTION",
+		"message": "The Id of WaterConnection returned by IdGen is not equal to number of WaterConnection",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "OWNER_SEARCH_ERROR",
+		"message": "The owner of the water application { is not coming in user search",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "MDMS_ERROR_FOR_BILLING_FREQUENCY",
+		"message": "ERROR IN FETCHING THE BILLING FREQUENCY",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "MDMS_ERROR_FOR_CHECKLIST",
+		"message": "ERROR IN FETCHING THE CHECKList",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_RECEIPT",
+		"message": "No waterConnection found for the consumer code {}",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "MULTI_RECEIPT_ERROR",
+		"message": "More than one application found on consumer code {",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_SEARCH_ON_USER",
+		"message": "No user found on given criteria!!!",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "NO_ESTIMATION_FOUND",
+		"message": "Estimation not found!!!",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "EMPTY_FILESTORE_IDS_FROM_PDF_SERVICE",
+		"message": "NO file store id found from pdf service",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "WATER_FILESTORE_PDF_EXCEPTION",
+		"message": "PDF response can not parsed!!!",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_USER_RESPONSE",
+		"message": "The user create has failed for the mobileNumber : {}",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_USER_UPDATE",
+		"message": "The user updated has uuid as null",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INCORRECT_PROPERTY_ID",
+		"message": "Incorrect Property Id. Water Connection cannot be created.",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "PROPERTY_PARSING_ERROR",
+		"message": "The property json cannot be parsed",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_UPDATE",
+		"message": "Id of waterConnection cannot be null",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_CONNECTION_TYPE",
+		"message": "INVALID_CONNECTION_TYPE",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "MDMS_DATA_ERROR",
+		"message": "Unable to fetch { codes from MDMS",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_CONNECTION_HOLDER_TYPE",
+		"message": "The Connection holder type '{ does not exists",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_CHECKLIST",
+		"message": "Mandatory feedback is not provided!",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_CHECKLIST_TYPE",
+		"message": "Feedback answer type is invalid",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_CHECKLIST_ANS",
+		"message": "Value provided is not feedback options.",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+	},
+	{
+		"code": "INVALID_PROPERTY",
+		"message": "WaterConnection cannot be updated without property Id",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "INVALID_PROPERTY_STATUS",
+		"message": "Please enter a valid property ID",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "INVALID_PROPERTY_USAGE_TYPE",
+		"message": "Water connection cannot be enriched without property usage type",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "INVALID_PROPERTY_ENRICH",
+		"message": "Water connection cannot be enriched without PropertyId",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "CONNECTION_NOT_FOUND",
+		"message": "The application number from search: { and from update does not match",
+		"module": "mgramseva-consumer",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "EXP_PAYMENT_PARSING_ERROR",
+		"message": "Unable to parse payment response",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "BILLING_SERVICE_ERROR",
+		"message": "Failed to fetch bill}, unknown error occurred",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "EXP_INVALID_REQUEST",
+		"message": "The request for calculation cannot be empty or null",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "EXP_CAL_ERROR",
+		"message": "Failed to parse response of calculate",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "EXP_FIN_NOT_FOUND",
+		"message": "Financial year not found:",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "EXP_INVALID_VENDOR",
+		"message": "Vendor with uuid does not exists",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "INVALID_TAXHEAD_code_DETAILS",
+		"message": "mandaotry Taxhead codes details are not present in request or in mdms records for provided business servic",
+		"module": "mgramseva-expenses",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.User.Invitation",
+		"message": "Dear {USER}, You've been invited to mGramSeva Application of Punjab. Please login using {LINK. Username: {PHNO Password: {PASSWORD}",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.Reset.Password",
+		"message": "OTP to reset password on mGramSeva is {otp}",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.Reset.Password",
+		"message": "OTP to reset password on mGramSeva is {otp",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
+		"message": "Dear {user}, Rs. {PREVIOUS_MONTH_COLLECTION has been collected in {PREVIOUS_MONTH against water charges & Rs. {PREVIOUS_MONTH_EXPENSE has been spent as expenditure for {GPWSC. Click {link to see more details",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
+		"message": "Please enter new expenditure bills online for {GPWSC. Click {NEW_EXP_LINK to make an expense entry now",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+		"message": "Expenditure bills for {GPWSC are awaiting payment confirmation. Please click {EXP_MRK_LINK and mark them as paid}, if paid already",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.baruwal",
+		"message": "BARUWAL",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.dabourlower",
+		"message": "DABOUR  LOWER",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.dabourupper",
+		"message": "DABOUR  UPPER",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.massewal",
+		"message": "MASSEWAL",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.lodhipur",
+		"message": "LODHIPUR",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.sukhsal",
+		"message": "Sukhsal",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.balewal",
+		"message": "BALEWAL",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.lalpur",
+		"message": "LALPUR",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "pb.batarla",
+		"message": "BATARLA",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_ACTUAL_COLLECTIONS",
+		"message": "Actual Collections",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_ACTUAL_PAYMENTS",
+		"message": "Actual Payments",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_ADEQUATE_WATER_SUPPLY",
+		"message": "Adequate water supply",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
+		"message": "Amount(in words)",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_ARREARS",
+		"message": "Arrears",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_CONNECTION_ID",
+		"message": "Connnection ID",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_MOBILE_NO",
+		"message": "Consumer Mobile No.",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_NAME",
+		"message": "Consumer Name",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_ID",
+		"message": "Bill ID",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_ISSUE_DATE",
+		"message": "Bill Issue Date",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_PERIOD",
+		"message": "Bill Period",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BREAKUP_PENDING_WATERCHARGES",
+		"message": "Below is the breakup of pending water charges for connection",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_CHARGES",
+		"message": "Water Charges",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_CHARGES_BILL",
+		"message": "WATER CHARGES BILL",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_COLLECTIONS",
+		"message": "Collections",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_CONSUMER_ADDRESS",
+		"message": "Consumer Address",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_CUSTOMER_RATING",
+		"message": "Customer Rating",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_EXPENDITURE",
+		"message": "Expenditure",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_GPWSC_NAME",
+		"message": "Name of GPWSC",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_GP_WATER_SUPPLY_SANITATION",
+		"message": "Gram Panchayat Water Supply and Sanitation",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_ID",
+		"message": "ID",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_METER_NUMBER",
+		"message": "Meter No.",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_METER_READING",
+		"message": "Meter Reading",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_METER_READING_DATE",
+		"message": "Meter Reading Date",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_MONTH_SUMMARY",
+		"message": "Previous Billing Cycle Summary",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_NEW_DEMAND",
+		"message": "New Demand",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_NEW_EXPENDITURE",
+		"message": "New Expenditure",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY",
+		"message": "Previous Billing Cycle Summary",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_QUALITY_WATER_SUPPLY",
+		"message": "Quality water Supply",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_SERVICE_TYPE",
+		"message": "Service Type",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_SUMMARY_OF",
+		"message": "summary of",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_DUE",
+		"message": "Total Amount Due",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_COLLECTIONS",
+		"message": "Total Pending Collections (Cumulative)",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_EXPENDITURE",
+		"message": "Total Pending Expenditure (Cumulative)",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_USER_FEEDBACK",
+		"message": "Below is the Feedback",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
+		"message": "Amount(in words)",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_BUSINESS_SERVICE_WS",
+		"message": "Water Charges",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY_NM",
+		"message": "Last Month Summary",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_CHARGES_RECEIPT",
+		"message": "WATER CHARGES RECEIPT",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_RECEIPT_ID",
+		"message": "Receipt Id",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_RECEIPT_PERIOD",
+		"message": "Receipt Period",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_BILL_RECEIPT_DATE",
+		"message": "Receipt Date",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_PAYMODE_CASH",
+		"message": "Cash",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PAID",
+		"message": "Total Amount Paid",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "PDF_STATIC_LABEL_WATER_DUE_ASON",
+		"message": "Due Amount(as on",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.Reset.Password",
+		"message": "OTP to reset password on mGramSeva is {otp}",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.Reset.Password",
+		"message": "OTP to reset password on mGramSeva is {otp",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.User.Invitation",
+		"message": "Dear {USER}, You've been invited to mGramSeva Application of Punjab. Please login using {LINK. Username: {PHNO Password: {PASSWORD",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
+		"message": "Dear {user}, Rs. {PREVIOUS_MONTH_COLLECTION has been collected in {PREVIOUS_MONTH against water charges & Rs. {PREVIOUS_MONTH_EXPENSE has been spent as expenditure for {GPWSC. Click {link to see more details",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
+		"message": "Please enter new expenditure bills online for {GPWSC. Click {NEW_EXP_LINK to make an expense entry now",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+		"message": "Expenditure bills for {GPWSC are awaiting payment confirmation. Please click {EXP_MRK_LINK and mark them as paid}, if paid already",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.NewBill.N",
+		"message": "Dear {ownername}, New water bill for period{billingcycle has been generated for consumer id {consumerno for Rs. {billmaount. Click {BILL_LINK to download latest bill. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.PayOnline.N",
+		"message": "Dear {ownername}, Pending amount for water charges for consumer id {connectionno is Rs. {billamount. Click {PAY_LINK to pay online. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.DownloadReceipt.N",
+		"message": "Dear {ownername}, Rs. {amountpaid  has been paid for water charges for consumer id {consumer code. Pending Amount is Rs.{pendingamount.  Click {RECEIPT_LINK to download receipt EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.TakeSurvey.N",
+		"message": "Dear {ownername}, Thank you for paying water charges. Please take this short survey and help us know more about water supply at {GPWSC. click {SURVEY_LINK to take survey. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "INVALID_METER_READING_BILLING_PERIOD",
+		"message": "Billing Period Already Exists",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+	},
+	{
+		"code": "WS_NON_METERED",
+		"message": "Non Metered",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "WS_METERED",
+		"message": "Metered",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.Reset.Password",
+		"message": "OTP to reset password on mGramSeva is {otp}",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.Reset.Password",
+		"message": "OTP to reset password on mGramSeva is {otp}",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MGram.User.Invitation",
+		"message": "Dear {USER}, You've been invited to mGramSeva Application of Punjab. Please login using {LINK. Username: {PHNO Password: {PASSWORD}",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
+		"message": "Dear {user}, Rs. {PREVIOUS_MONTH_COLLECTION has been collected in {PREVIOUS_MONTH against water charges & Rs. {PREVIOUS_MONTH_EXPENSE has been spent as expenditure for {GPWSC. Click {link to see more details",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
+		"message": "Please enter new expenditure bills online for {GPWSC. Click {NEW_EXP_LINK to make an expense entry now",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+		"message": "Expenditure bills for {GPWSC are awaiting payment confirmation. Please click {EXP_MRK_LINK and mark them as paid}, if paid already",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.NewBill.N",
+		"message": "Dear {ownername}, New water bill for period{billingcycle has been generated for consumer id {consumerno for Rs. {billmaount. Click {BILL_LINK to download latest bill. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.PayOnline.N",
+		"message": "Dear {ownername}, Pending amount for water charges for consumer id {connectionno is Rs. {billamount. Click {PAY_LINK to pay online. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.DownloadReceipt.N",
+		"message": "Dear {ownername}, Rs. {amountpaid  has been paid for water charges for consumer id {consumercode. Pending Amount is Rs. {pendingamount.  Click {RECEIPT_LINK to download receipt EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	},
+	{
+		"code": "mGram.Consumer.TakeSurvey.N",
+		"message": "Dear {ownername}, Thank you for paying water charges. Please take this short survey and help us know more about water supply at {GPWSC. click {SURVEY_LINK to take survey. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "en_IN"
+
+
+	}
+]

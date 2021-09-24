@@ -1,0 +1,2942 @@
+[{
+
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "जारी रखें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CORE_COMMON_LOGIN",
+		"message": "लॉग इन करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "LOGIN_PHONE_NO",
+		"message": "फ़ोन नंबर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_LOGIN_PASSWORD",
+		"message": "पासवर्ड",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_FORGOT_PASSWORD",
+		"message": "पासवर्ड भूल गए?",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "Login Screen",
+		"message": "जारी रखें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "फ़ोन नंबर मौजूद नहीं है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_CONTINUE",
+		"message": "फ़ोन नंबर और पासवर्ड मेल नहीं खाते",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "UPDATE_PASSWORD",
+		"message": "पासवर्ड अपडेट करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVITED_TO_GRAMA_SEVA",
+		"message": " आपको निम्नलिखित ग्राम पंचायतों के एम.ग्राम-सेवा आवेदन के लिए आमंत्रित किया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GP_NUMBER",
+		"message": "जी.पी कोड",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_RESET_PASSWORD",
+		"message": "पासवर्ड रीसेट करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONTINUE_TO_LOGIN",
+		"message": "लॉग इन करना जारी रखें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "HOUSEHOLD_REGISTER_MSG",
+		"message": "घर-परिवार रजिस्टर में सभी उपभोक्ताओं और उनकी बकाया राशि की सूची होती है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "COLLECT_PAYMENTS_MSG",
+		"message": "उपभोक्ता को खोजने और पानी के शुल्क का भुगतान लेने के लिए यहां क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "DOWNLOAD_BILLS_AND_RECEIPTS_MSG",
+		"message": "उपभोक्ता के जल शुल्क के बिल और रसीदें खोजने और डाउनलोड करने के लिए यहां क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ADD_EXPENSE_RECORD_MSG",
+		"message": "बिजली, रखरखाव, इत्यादि जैसे नए व्यय बिल जोड़ने के लिए यहां क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "UPDATE_EXPENSE_MSG",
+		"message": "पहले दर्ज किए गए बिलों में परिवर्तन करने के लिए यहां क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_MSG",
+		"message": "नए बिलिंग चक्र के लिए मैन्युअल रूप से मांग उत्पन्न करने के लिए यहां क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CREATE_CONSUMER_MSG",
+		"message": "विवरण जोड़कर यहां नए उपभोक्ता रिकॉर्ड बनाएं।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "UPDATE_CONSUMER_DETAILS_MSG",
+		"message": "पहले दर्ज किए गए उपभोक्ता रिकॉर्ड में परिवर्तन करने के लिए यहां क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GPWSC_DASHBOARD_MSG",
+		"message": "डैशबोर्ड GPWSC की प्राप्तियों और व्यय का मासिक और वार्षिक सारांश देता है।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_LABEL",
+		"message": "उपभोक्ता खोजें",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_SUBLABEL",
+		"message": "अधिक विवरण प्राप्त करने के लिए उपभोक्ता का मोबाइल नंबर या नाम या कनेक्शन आई.डी दर्ज करें। कृपया सिर्फ एक ही दर्ज करें।",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_OWNER_MOB_NUM",
+		"message": "उपभोक्ता का मोबाइल नंबर",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_NAME_OF_CONSUMER",
+		"message": "उपभोक्ता का नाम",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NAME_OF_CONSUMER_HINT",
+		"message": "(उदहारण के लिए 'हरप्रीत सिंह')",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_OLD_CONNECTION_ID",
+		"message": "पुराना कनेक्शन आई.डी",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_NEW_CONNECTION_ID",
+		"message": "नई कनेक्शन आई.डी",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OR",
+		"message": "या",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH",
+		"message": "खोज",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "NO_CONNECTION_FOUND",
+		"message": "कोई कनेक्शन नहीं मिला",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONNECTION_FOUND",
+		"message": "उपभोक्ता मिला",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONNECTION_CRITERIA",
+		"message": "निम्नलिखित उपभोक्ता के साथ के रूप में खोज मानदंड से मेल खाते हैं",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_CONNECTION_ID",
+		"message": "कनेक्शन आईडी:",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_CONSUMER_NAME",
+		"message": "उपभोक्ता का नाम",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SERACH_CONNECTION_PHONE_NUMBER",
+		"message": "फ़ोन नंबर",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONNECTION_ADDRESS",
+		"message": "पता",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PROPERTY_TYPE",
+		"message": "संपत्ति के प्रकार",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "Non_Metered",
+		"message": "बगैर मीटर के",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "Metered",
+		"message": "मीटर किए गए",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_BILL_LABEL",
+		"message": "बिल जनरेट करें",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "GENERATE_DEMAND_SERVICE_CATEGORY_LABEL",
+		"message": "सेवा श्रेणी",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "GENERATE_DEMAND_PROPERTY_TYPE_LABEL",
+		"message": "संपत्ति की श्रेणी",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+
+
+	{
+
+		"code": "GENERATE_DEMAND_SERVICE_TYPE_LABEL",
+		"message": "सेवा की श्रेणी",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "GENERATE_DEMAND_METER_NUMBER_LABEL",
+		"message": "मीटर संख्या",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_PREV_METER_READING_LABEL",
+		"message": "पिछला मीटर रीडिंग",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_NEW_METER_READING_LABEL",
+		"message": "नया मीटर रीडिंग",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_METER_READING_DATE",
+		"message": "मीटर रीडिंग तिथि",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_GEN_BILL_BUTTON",
+		"message": "बिल जनरेट करें",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OLD_METER_READING_INVALID_MSG",
+		"message": "पुराना मीटर रीडिंग अमान्य दर्ज किया गया",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NEW_METER_READING_INVALID_MSG",
+		"message": "नया मीटर रीडिंग अमान्य दर्ज किया गया",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_DETAILS_LABEL",
+		"message": "उपभोक्ता विवरण",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_DETAILS_SUB_LABEL",
+		"message": "एक नया उपभोक्ता रिकॉर्ड बनाएं",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CREATE_CONSUMER_NAME",
+		"message": "उपभोक्ता का नाम",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_FATHER_SPOUSE_NAME",
+		"message": "पिता का नाम",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CONSUMER_OLD_CONNECTION_ID",
+		"message": "Old Connection ID",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_DOOR_NO",
+		"message": "द्वार संख्या",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_STREETNUM_STREETNAME",
+		"message": "गली का नाम/संख्या",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_WARD_LABEL",
+		"message": "वार्ड का नाम/नंबर",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CONSUMER_PROPERTY_TYPE",
+		"message": "संपत्ति के प्रकार",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_SERVICE_TYPE",
+		"message": "सेवा की श्रेणी",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_METER_NUMBER",
+		"message": "मीटर संख्या",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_PREV_METER_READING_DATE",
+		"message": "पिछला मीटर रीडिंग की तिथि",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_ARREARS",
+		"message": "बकाया राशि",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_BUTTON_SUBMIT",
+		"message": "प्रस्तुत करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_REGISTER_SUCCESS_LABEL",
+		"message": "प्रस्तुत करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_NAME_MSG",
+		"message": "उपभोक्ता का नाम दर्ज करके उपभोक्ता रिकॉर्ड बनाना शुरू करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_GENDER_MSG",
+		"message": "उपभोक्ता का लिंग चुनें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_FATHER_MSG",
+		"message": "उपभोक्ता के पिता का नाम जोड़ें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_MOBILE_MSG",
+		"message": "उपभोक्ता का मोबाइल नंबर दर्ज करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_OLD_ID_MSG",
+		"message": "पुराना कनेक्शन आई.डी नंबर दर्ज करें। (जैसे 105)",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_WARD_MSG",
+		"message": "उस वार्ड का चयन करें जहां उपभोक्ता रहता है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_PROPERTY_TYPE_MSG",
+		"message": "आवासीय/वाणिज्यिक प्रकार की संपत्ति में से किसी एक का चयन करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_SERVICE_TYPE_MSG",
+		"message": "चुनें कि क्या कनेक्शन मीटर्ड या नॉन-मीटर्ड है।",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_ARREARS_MSG",
+		"message": "वह राशि जोड़ें जो उपभोक्ता को <दिनांक> तक चुकानी है।",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CONSUMER_EDIT_DETAILS_LABEL",
+		"message": "उपभोक्ता विवरण संपादित करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_EDIT_DETAILS_SUB_LABEL",
+		"message": "कृपया उपभोक्ता विवरण संपादित करें और विवरण सफलतापूर्वक सहेजने के लिए 'सबमिट' पर क्लिक करें।",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MARK_AS_INACTIVE",
+		"message": "इस कनेक्शन को निष्क्रिय के रूप में चिह्नित करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_EXPENSE_DETAILS",
+		"message": "व्यय विवरण",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_PROVIDE_INFO_TO_CREATE_EXPENSE",
+		"message": "एक नया व्यय रिकॉर्ड बनाएं।",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
+		"message": "व्यय का प्रकार",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ELECTRICITY_BILL",
+		"message": "बिजली का बिल",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OM",
+		"message": "संचालन और रखरखाव",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SALARY",
+		"message": "वेतन",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MISC",
+		"message": "विविध",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_VENDOR_NAME",
+		"message": "विक्रेता का नाम",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_AMOUNT",
+		"message": "राशि",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_BILL_DATE",
+		"message": "बिल की तिथि",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_PART_BILL_DATE",
+		"message": "पार्टी के बिल की तिथि",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_PAYMENT_DATE",
+		"message": "भुगतान तिथि",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ATTACH_BILL",
+		"message": "बिल संलग्न करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NO_FILE_UPLOADED",
+		"message": "कोई फ़ाइल नहीं चुना गया",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_BUTTON_SUBMIT",
+		"message": "प्रस्तुत करना (सबमिट करें )",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ENTER_VALID_AMOUNT",
+		"message": "एक मान्य राशि दर्ज करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_DATE_CANNOT_BEFORE_PART_DATE",
+		"message": "बिल तिथि पार्टी के बिल-तिथि से पहले की नहीं हो सकती",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_DATE_CANNOT_GREATER_THAN_TODAY",
+		"message": "बिल की तिथि आज की तिथि से बड़ी नहीं हो सकती",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PARTY_BILL_DATE_CANNOT_GREATER_THAN_TODAY",
+		"message": "पार्टी बिल-तिथि आज की तिथि से अधिक नहीं हो सकती",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PAYMENT_DATE_CANNOT_GREATER_THAN_TODAY",
+		"message": "भुगतान तिथि आज की तिथि से अधिक नहीं हो सकती",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PAYMENT_DATE_CANNOT_BEFORE_PARTY_DATE",
+		"message": "भुगतान तिथि पार्टी बिल तिथि से पहले की नहीं हो सकती",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSE_TYPE_MSG",
+		"message": "व्यय की श्रेणी का चयन करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSE_VENDOR_NAME_MSG",
+		"message": "बिल जमा करने वाले विक्रेता का नाम बताएं",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSE_AMOUNT_MSG",
+		"message": "बिल में बताई गई राशि",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSE_BILL_DATE_MSG",
+		"message": "जिस तिथि को बिल रिकॉर्ड में दर्ज किया गया है उसे जोड़ें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSE_PARTY_BILL_DATE_MSG",
+		"message": "उस तिथि को जोड़ें जिस दिन बिल पेश किया गया है",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSE_ATTACH_BILL_MSG",
+		"message": "बिल के जे.पी.ई.जी/पी.डी.एफ प्रारूप यहां संलग्न करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "DATE_BILL_ENTERED_IN_RECORDS",
+		"message": "जिस तिथि को बिल रिकॉर्ड में दर्ज किया गया है उसे जोड़ें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ATTACH_FORMATS",
+		"message": "बिल के जे.पी.ई.जी/पी.डी.एफ प्रारूप यहां संलग्न करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CORE_EXPENSE_EXPENDITURE_SUCESS",
+		"message": "व्यय प्रविष्टि सफल",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENDITURE_SUCESS",
+		"message": "<विक्रेता> के लिये <व्यय के प्रकार> श्रेणी के तहत रुपये <राशि> के लिए व्यय प्रविष्टि की गई है।",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_BACK_HOME_BUTTON",
+		"message": "गृह-पृष्ठ पर वापस जाएँ",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ADD_NEW_EXPENSE",
+		"message": "नया व्यय जोड़ें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_EXPENSE_BILL",
+		"message": "व्यय बिल खोजें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ENTER_VENDOR_BILL_EXPENSE",
+		"message": "अधिक विवरण प्राप्त करने के लिए विक्रेता का नाम या व्यय प्रकार या बिल आई.डी दर्ज करें। कृपया सिर्फ एक ही दर्ज करें।",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_VENDOR_NAME",
+		"message": "विक्रेता का नाम",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
+		"message": "व्यय का प्रकार",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ELECTRICITY_HINT",
+		"message": "उदहारण : बिजली",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_ID",
+		"message": "बिल आई.डी",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_HINT",
+		"message": "उदहारण : ई.बी-2021-22/08/21/0123",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SHOW_MORE",
+		"message": "और दिखाएं",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SHOW_LESS",
+		"message": "कम दिखाएं",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH",
+		"message": "खोज (खोजें)",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NO_EXPENSES_FOUND",
+		"message": "कोई भी बिल खोज के लिए दिए गए मापदंड से मेल नहीं खाता",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EDIT_EXPENSE_BILL",
+		"message": "व्यय बिल संपादित करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "UPDATE_SUBMIT_EXPENDITURE",
+		"message": "व्यय बिल को संशोधित करने के लिए अपडेट करें और सबमिट पर क्लिक करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MARK_BILL_HAS_CANCELLED",
+		"message": "इस बिल को रद्द के रूप में चिह्नित करें",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MODIFIED_EXPENDITURE_SUCCESSFULLY",
+		"message": "व्यय बिल आई.डी <बिल आईडी> संशोधित किया गया है।",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "DASHBOARD",
+		"message": "डैशबोर्ड",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "COLLECTIONS",
+		"message": "संग्रह",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENDITURE",
+		"message": "व्यय",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_CONSUMER_RECORDS",
+		"message": "उपभोक्ता रिकॉर्ड खोजें",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_NAME_CONNECTION",
+		"message": " कनेक्शन आई.डी द्वारा खोजें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ALL",
+		"message": "सभी",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "RESIDENTIAL",
+		"message": "आवासीय",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "COMMERCIAL",
+		"message": "व्यावसायिक",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONNECTION_ID",
+		"message": "कनेक्शन आई.डी",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NAME",
+		"message": "नाम",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEARCH_BY_BILL_OR_VENDOR",
+		"message": "बिल आई.डी / विक्रेता से खोजें",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "AMOUNT",
+		"message": "राशि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NO_RECORDS_MSG",
+		"message": "कोई रिकॉर्ड नहीं मिला",
+		"module": "mgramseva-dashboard",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OTP.UNKNOWN_MOBILE_NUMBER",
+		"message": "मोबाइल नंबर अज्ञात है।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OTP.VALIDATION_UNSUCCESSFUL",
+		"message": "ओटीपी सत्यापन असफल",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_BILLING_CYCLE_REQUIRED",
+		"message": "उपभोक्ता बिलिंग चक्र आवश्यक",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CREATE_CONSUMER_NAME_REQUIRED",
+		"message": "उपभोक्ता का नाम आवश्यक है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
+		"message": "पिता का नाम आवश्यक है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CORE_COMMON_PHONE_NUMBER_REQUIRED",
+		"message": "फ़ोन नंबर आवश्यक है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CONSUMER_PROPERTY_TYPE_REQUIRED",
+		"message": "संपत्ति का प्रकार आवश्यक है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_SERVICE_TYPE_REQUIRED",
+		"message": "सेवा प्रकार आवश्यक है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_GP_NAME",
+		"message": "ग्राम पंचायत का नाम",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "ENTER_MOBILE_NUMBER",
+		"message": "मोबाइल नंबर दर्ज करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_LOGIN_PASSWORD_REQUIRED",
+		"message": "जारी रखने के लिए पासवर्ड दर्ज करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "MOBILE_NUMBER_SHOULD_BE_10_DIGIT",
+		"message": "मोबाइल नंबर 10 अंकों का होना चाहिए",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "OLD_CONNECTION_HINT",
+		"message": "उदा. 17238437",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NEW_CONNECTION_HINT",
+		"message": "उदा. WS-1234-12",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "CORE_CHANGEPASSWORD_EXISTINGPASSWORD_REQUIRED",
+		"message": "वर्तमान पासवर्ड आवश्यक है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NEW_PASSWORD_ENTER",
+		"message": "कृपया नया पासवर्ड दर्ज करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONFIRM_PASSWORD_ENTER",
+		"message": "कृपया पासवर्ड की पुष्टि करें दर्ज करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "BILL_ID_NO",
+		"message": "बिल आईडी नं.",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "FEE_ESTIMATE",
+		"message": "शुल्क अनुमान",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_ID_NUMBER",
+		"message": "बिल आईडी नंबर",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CUSTOM_AMOUNT_REQUIRED",
+		"message": "कस्टम राशि आवश्यक है",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_DETAILS",
+		"message": "बिल विवरण",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "WS_CHARGE",
+		"message": "जल शुल्क",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXPENSES_FOUND",
+		"message": "खर्चे मिले",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "RECEIPT_DOWNLOAD",
+		"message": "रसीद डाउनलोड करें",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILL_DOWNLOAD",
+		"message": "बिल डाउनलोड करें",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "HOUSE_DETAILS_VIEW",
+		"message": "उपभोक्ता विवरण देखें",
+		"module": "mgramseva-water-connection",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_EMAIL_FORMAT",
+		"message": "अमान्य ईमेल प्रारूप,example@mail.com",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "SERVICE_DETAILS_HEADER",
+		"message": "सेवा विवरण",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_BILLING_YEAR_LABEL",
+		"message": "बिलिंग वर्ष",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL",
+		"message": "बिलिंग चक्र",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "GENERATE_DEMAND_BUTTON",
+		"message": "मांग उत्पन्न करें",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SKIP",
+		"message": "छोड़ें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NEXT",
+		"message": "अगला",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "END",
+		"message": "समाप्त",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BACK",
+		"message": "वापस",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INFO",
+		"message": "जानकारी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INFO_TEXT",
+		"message": "भुगतान एकत्र करना शुरू करने के लिए एक नया बिल बनाएं",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "DEAR",
+		"message": "प्रिय",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "WS_10101",
+		"message": "वर्तमान शुल्क",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "WS_10102",
+		"message": "बकाया राशि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_PREV_METER_READING_DATE_REQUIRED",
+		"message": "पिछली मीटर रीडिंग तिथि आवश्यक है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_METER_NUMBER_REQUIRED",
+		"message": "मीटर नंबर आवश्यक है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CORE_COMMON_MOBILE_NUMBER",
+		"message": "मोबाइल नंबर",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVITED_TO_SINGLE_GP",
+		"message": "आपको निम्नलिखित ग्राम पंचायत के एम ग्राम सेवा आवेदन के लिए आमंत्रित किया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "VENDOR_ALREADY_EXISTS",
+		"message": "विक्रेता पहले से मौजूद है",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_SEARCH_USER_PROP_NOT_FOUND",
+		"message": "उपयोगकर्ता नहीं मिला",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SHARE_BILL_LINK",
+		"message": "प्रिय <user>, उपभोक्ता आईडी <cycle> के लिए <new consumer id> के लिए पानी का बिल रु।  <Amount>  नवीनतम बिल डाउनलोड करने के लिए  <link> पर क्लिक करें।",
+		"module": "mgramseva-bill",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SHARE_RECEIPT_LINK",
+		"message": "प्रिय <user>, रु. उपभोक्ता आईडी <new consumer id> के लिए पानी शुल्क के लिए <Amount>का भुगतान किया गया है। लंबित राशि रु. <Amount>. रसीद डाउनलोड करने के लिए <link> पर क्लिक करें",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "JAN",
+		"message": "जनवरी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "FEB",
+		"message": "फ़रवरी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MAR",
+		"message": "जुलूस",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "APR",
+		"message": "अप्रैल",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MAY",
+		"message": "मई",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "JUN",
+		"message": "जून",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "JULY",
+		"message": "जुलाई",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "AUG",
+		"message": "अगस्त",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "SEP",
+		"message": "सितंबर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OCT",
+		"message": "अक्टूबर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NOV",
+		"message": "नवंबर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "DEC",
+		"message": "दिसंबर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONSUMER_UPDATED_SUCCESS_LABEL",
+		"message": "उपभोक्ता सफलतापूर्वक अपडेट किया गया",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NOTIFICATIONS",
+		"message": "सूचनाएं",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BL_10101",
+		"message": "जल शुल्क",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "BL_10102",
+		"message": "जल शुल्क-बकाया",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "WS_10101",
+		"message": "वर्तमान शुल्क",
+		"module": "mgramseva-payments",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.Reset.Password",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है <OTP>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "RESET_PASSWORD_FIRST_TIME_OTP",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "RESET_PASSWORD_OTP",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "RESET_PASSWORD_FIRST_TIME_OTP",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "RESET_PASSWORD_OTP",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "MGram.Reset.Password",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "TODAY_COLLECTION_FROM_CASH",
+		"message": "प्रिय {ownername}, आज {date} को {GPWSC} के लिए जल शुल्क के रूप  में {no} उपभोक्ताओं से रु.{amount} नकद स्वरुप एकत्र किया गया है. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "TODAY_COLLECTION_FROM_ONLINE",
+		"message": "प्रिय {ownername}, आज {date} को {GPWSC} के लिए जल शुल्क के रूप  में {no} उपभोक्ताओं से रु.{amount}  ऑनलाइन द्वारा एकत्र किया गया है. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.User.Invitation",
+		"message": "प्रिय {USER}, आपको पंजाब के mGramSeva एप्लिकेशन में आमंत्रित किया गया है। कृपया {LINK} का उपयोग करके लॉगिन करें। उपयोगकर्ता नाम: {PHNO} पासवर्ड: {PASSWORD}. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GP.MonthlyDemandGenerated",
+		"message": "प्रिय {ownername}, {GPWSC} के लिए बिलिंग साइकिल {billingcycle} की मांग उत्पन्न की गई है। कृपया इस अवधि के लिए जल प्रभारों के संग्रहण की योजना बनाएं। {LINK} EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PENDING_COLLECTION_SMS_EN_REMINDER",
+		"message": "प्रिय {ownername}, आज {Date} तक {GPWSC} पर जल शुल्क के हेतु  रु.{amount} संग्रह लंबित है। अधिक विवरण देखने के लिए {PENDING_COL_LINK} पर क्लिक करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.CollectionReminder",
+		"message": "प्रिय {ownername}, आज {Date} तक {GPWSC} पर जल शुल्क के हेतु  रु.{amount} संग्रह लंबित है। अधिक विवरण देखने के लिए {PENDING_COL_LINK} पर क्लिक करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.PreviousMonthSummary",
+		"message": "प्रिय {user}, {PREVIOUS_MONTH} में जल शुल्क के रूप में रु.{PREVIOUS_MONTH_COLLECTION} एकत्र किया गया है और  {GPWSC} के लिए व्यय के रूप में रु.{PREVIOUS_MONTH_EXPENSE} खर्च किया गया है। अधिक विवरण देखने के लिए {LINK} पर क्लिक करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+
+	{
+
+		"code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
+		"message": "प्रिय {user}, {PREVIOUS_MONTH} में जल शुल्क के रूप में रु.{PREVIOUS_MONTH_COLLECTION} एकत्र किया गया है और  {GPWSC} के लिए व्यय के रूप में रु.{PREVIOUS_MONTH_EXPENSE} खर्च किया गया है। अधिक विवरण देखने के लिए {LINK} पर क्लिक करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
+		"message": "कृपया {GPWSC} के लिए नए व्यय बिल ऑनलाइन दर्ज करें। अभी व्यय प्रविष्टि करने के लिए {NEW_EXP_LINK} पर क्लिक करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.EnterExpense",
+		"message": "कृपया {GPWSC} के लिए नए व्यय बिल ऑनलाइन दर्ज करें। अभी व्यय प्रविष्टि करने के लिए {NEW_EXP_LINK} पर क्लिक करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.MarkExpense",
+		"message": {GPWSC} के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया {EXP_MRK_LINK} पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+		"message": {GPWSC} के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया {EXP_MRK_LINK} पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.NewBill",
+		"message": "प्रिय {ownername}, उपभोक्ता आईडी {consumerno} के लिए अवधि {Period} के लिए रुपये {bilamount} के लिए नया जल शुल्क बिल उत्पन्न किया गया है। नवीनतम बिल डाउनलोड करने के लिए {BILL_LINK} पर क्लिक करें। EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.PayOnline.N",
+		"message": "प्रिय {ownername}, उपभोक्ता आईडी {connectionno} के लिए जल शुल्क के लिए लंबित राशि रु. {billamount} है. ऑनलाइन भुगतान करने के लिए {PAY_LINK} पर क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.DownloadReceipt",
+		"message": "प्रिय {ownername}, उपभोक्ता आईडी {consumercode} के लिए जल शुल्क के लिए रु.{amountpaid} का भुगतान किया गया है। लंबित राशि रु.{pendingamount} रसीद डाउनलोड करने के लिए {RECEIPT_LINK} पर क्लिक करें EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.TakeSurvey",
+		"message": "प्रिय {ownername}, जल शुल्क का भुगतान करने के लिए धन्यवाद। कृपया इस संक्षिप्त सर्वेक्षण {SURVEY_LINK} में भाग लें और {GPWSC} द्वारा की जा रही जल आपूर्ति के बारे में अधिक जानने में हमारी सहायता करें. EGOVS",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "FEEDBACK_PARSE_ERROR",
+		"message": "अतिरिक्त ऑब्जेक्ट के विवरण को पार्स करने में विफल",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONNECTION_DETAILS_PARSE_ERROR",
+		"message": "अतिरिक्त जैसौन विवरण को कनेक्शन से पार्स नहीं किया जा सकता है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "WATER_CALCULATION_EXCEPTION",
+		"message": "गणना प्रतिक्रिया को पार्स नहीं किया जा सकता",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "IDGEN_ERROR",
+		"message": "IdGen द्वारा लौटाए गए जल कनेक्शन की आई.डी जल कनेक्शन की संख्या के बराबर नहीं है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "IDGEN_NOTFOUND_ERROR",
+		"message": "idgen सेवा से उत्तर के रूप में कोई भी आई.डी प्राप्त नहीं हुई",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "ID_MISMATCH_ERROR_CONNECTION",
+		"message": "IdGen द्वारा लौटाए गए जल कनेक्शन की आई.डी, जल कनेक्शन की कुल संख्या के बराबर नहीं है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "OWNER_SEARCH_ERROR",
+		"message": "उपयोगकर्ता द्वारा किये गए खोज के परिणाम में जल-के आवेदन { } का स्वामी प्राप्त होने में त्रुटि",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MDMS_ERROR_FOR_BILLING_FREQUENCY",
+		"message": "बिलिंग की फ्रीक्वेंसी प्राप्त करने में त्रुटि",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MDMS_ERROR_FOR_CHECKLIST",
+		"message": "चेकलिस्ट प्राप्त करने में त्रुटि",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_RECEIPT",
+		"message": "उपभोक्ता कोड  {} के लिए जल का कोई भी कनेक्शन नहीं मिला",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MULTI_RECEIPT_ERROR",
+		"message": "उपभोक्ता कोड {} पर एक से अधिक आवेदन मिले",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_SEARCH_ON_USER",
+		"message": "दिए गए मापदंड पर कोई उपयोगकर्ता नहीं मिला !!!",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NO_ESTIMATION_FOUND",
+		"message": "आकलन नहीं मिला !!!",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EMPTY_FILESTORE_IDS_FROM_PDF_SERVICE",
+		"message": "पी.डी.एफ सेवा से कोई भी फाइल-स्टोर-आई.डी नहीं मिली",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "WATER_FILESTORE_PDF_EXCEPTION",
+		"message": "पी.डी.एफ प्रतिक्रिया पार्स नहीं की जा सकती !!!",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_USER_RESPONSE",
+		"message": "मोबाइल नंबर {} के लिए एक उपयोगकर्ता बनाना विफल हो गया है:",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_USER_UPDATE",
+		"message": "अपडेट किए गए उपयोगकर्ता के uuid  कुछ नहीं (शून्य ) है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "INCORRECT_PROPERTY_ID",
+		"message": "संपत्ति आई.डी गलत है। जल का कनेक्शन नहीं बन पा रहा है।",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PROPERTY_PARSING_ERROR",
+		"message": "संपत्ति जैसौन को पार्स नहीं किया जा सकता है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_UPDATE",
+		"message": "वॉटर कनेक्शन की आई.डी रिक्त नहीं हो सकती",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_CONNECTION_TYPE",
+		"message": "कनेक्शन  का प्रकार अमान्य है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MDMS_DATA_ERROR",
+		"message": "एम.डी.एम.एस से कोड { } प्राप्त करने में असमर्थ",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_CONNECTION_HOLDER_TYPE",
+		"message": "कनेक्शन धारक  का प्रकार '{ } मौजूद नहीं है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_CHECKLIST",
+		"message": "अनिवार्य प्रतिक्रिया प्रदान नहीं की गयी है!",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_CHECKLIST_TYPE",
+		"message": "प्रतिक्रिया उत्तर के प्रकार अमान्य है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_CHECKLIST_ANS",
+		"message": "जो मान (value ) प्रदान किया गया, वह एक प्रतिक्रिया-विकल्प नहीं है।",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "INVALID_PROPERTY",
+		"message": "संपत्ति आई.डी के बिना वाटर-कनेक्शन को अपडेट नहीं किया जा सकता है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_PROPERTY_STATUS",
+		"message": "कृपया एक मान्य प्रॉपर्टी आई.डी दर्ज करें",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_PROPERTY_USAGE_TYPE",
+		"message": "संपत्ति उपयोग-प्रकार के बिना  जल-कनेक्शन को और आगे नहीं बढ़ाया जा सकता है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_PROPERTY_ENRICH",
+		"message": "संपत्ति Id के बिना जल-कनेक्शन को और आगे नहीं बढ़ाया जा सकता है",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "CONNECTION_NOT_FOUND",
+		"message": "खोज के लिए दिए गए आवेदन संख्या: { } और जो अपडेट के लिए हैं, वे मेल नहीं खाते",
+		"module": "mgramseva-consumer",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXP_PAYMENT_PARSING_ERROR",
+		"message": "भुगतान प्राप्ति-प्रतिक्रिया पार्स करने में असमर्थ",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "BILLING_SERVICE_ERROR",
+		"message": "बिल प्राप्त करने में विफल, कोई अज्ञात त्रुटि हुई",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXP_INVALID_REQUEST",
+		"message": "गणना के लिए अनुरोध रिक्त या अमान्य नहीं हो सकता",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "EXP_CAL_ERROR",
+		"message": "गणना की प्रतिक्रिया को पार्स करने में विफल",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "EXP_FIN_NOT_FOUND",
+		"message": "वित्तीय वर्ष नहीं मिला:",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "Vendor with uuid does not exists",
+		"message": "यूयूआईडी वाला विक्रेता मौजूद नहीं है",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_TAXHEAD_CODE_DETAILS",
+		"message": "प्रदान की गई व्यावसायिक सेवा के लिए अनिवार्य टैक्स हेड कोड विवरण न तो अनुरोध में ना ही एम.डी.एम.एस रिकॉर्ड में मौजूद हैं",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.User.Invitation",
+		"message": "प्रिय <उपयोगकर्ता>, आपको पंजाब के mGramSeva एप्लिकेशन में आमंत्रित किया गया है। कृपया <लिंक> का उपयोग करके लॉगिन करें। उपयोगकर्ता नाम: <फ़ोन नंबर> पासवर्ड: <पासवर्ड>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.Reset.Password",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है <OTP>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.Reset.Password",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है <OTP>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
+		"message": "प्रिय <उपयोगकर्ता>, <पिछले महीने> में जल शुल्क के रूप  में रु. <राशि>   एकत्र किया गया है और  <जीपीडब्ल्यूएससी> के लिए व्यय के रूप में रु.  <राशि> खर्च किया गया है। अधिक विवरण देखने के लिए <लिंक> पर क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
+		"message": "कृपया <GPWSC> के लिए नए व्यय बिल ऑनलाइन दर्ज करें। अभी व्यय प्रविष्टि करने के लिए <लिंक> पर क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+		"message": "<GPWSC> के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया <लिंक> पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.baruwal",
+		"message": "बरुवाल",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.dabourlower",
+		"message": "डाबर लोअर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.dabourupper",
+		"message": "डाबर अपर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.massewal",
+		"message": "मस्सेवाल",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.lodhipur",
+		"message": "लोधीपुर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.sukhsal",
+		"message": "सुखसाल",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.balewal",
+		"message": "बालेवाल",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "pb.lalpur",
+		"message": "लालपुर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "pb.batarla",
+		"message": "बटारला",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_ACTUAL_COLLECTIONS",
+		"message": "वास्तविक संग्रह",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_ACTUAL_PAYMENTS",
+		"message": "वास्तविक भुगतान",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_ADEQUATE_WATER_SUPPLY",
+		"message": "पर्याप्त जल आपूर्ति",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
+		"message": "राशि (शब्दों में)",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_ARREARS",
+		"message": "बकाया राशि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_CONNECTION_ID",
+		"message": "कनेक्शन आई.डी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_MOBILE_NO",
+		"message": "उपभोक्ता मोबाइल नंबर",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_NAME",
+		"message": "उपभोक्ता का नाम",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_ID",
+		"message": "बिल आई.डी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_ISSUE_DATE",
+		"message": "बिल जारी करने की तिथि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_PERIOD",
+		"message": "बिल अवधि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BREAKUP_PENDING_WATERCHARGES",
+		"message": "कनेक्शन आई.डी <नया कनेक्शन आई.डी> के लिए लंबित जल शुल्क का विवरण नीचे दिया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_CHARGES",
+		"message": "जल शुल्क <बिलिंग चक्र>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_CHARGES_BILL",
+		"message": "जल शुल्क बिल्स",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_COLLECTIONS",
+		"message": "संग्रह",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_CONSUMER_ADDRESS",
+		"message": "उपभोक्ता का पता",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_CUSTOMER_RATING",
+		"message": "उपभोक्ता रेटिंग",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_EXPENDITURE",
+		"message": "व्यय",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_GPWSC_NAME",
+		"message": "व्जी.पी.डब्ल्यू.एस.सी. का नाम",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_GP_WATER_SUPPLY_SANITATION",
+		"message": "ग्राम पंचायत जलापूर्ति एवं स्वच्छता",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_ID",
+		"message": "आई.डी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_METER_NUMBER",
+		"message": "मीटर संख्या",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_METER_READING",
+		"message": "मीटर रीडिंग",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_METER_READING_DATE",
+		"message": "मीटर रीडिंग तिथि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_MONTH_SUMMARY",
+		"message": "पिछला बिलिंग चक्र सारांश",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_NEW_DEMAND",
+		"message": "नई मांग",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_NEW_EXPENDITURE",
+		"message": "नया व्यय",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY",
+		"message": "पिछला बिलिंग चक्र सारांश",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_QUALITY_WATER_SUPPLY",
+		"message": "उत्तम जल आपूर्ति",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_SERVICE_TYPE",
+		"message": "सेवा श्रेणी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_SUMMARY_OF",
+		"message": "का सारांश",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_DUE",
+		"message": "कुल शेष राशि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_COLLECTIONS",
+		"message": "कुल लंबित संग्रह (संचयी)",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_EXPENDITURE",
+		"message": "कुल लंबित व्यय (संचयी)",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_USER_FEEDBACK",
+		"message": "नीचे प्रतिक्रिया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
+		"message": "राशि (शब्दों में)",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_BUSINESS_SERVICE_WS",
+		"message": "जल शुल्क बिल्स",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY_NM",
+		"message": "पिछले महीने का सारांश",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_CHARGES_RECEIPT",
+		"message": "जल शुल्क रसीद",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_RECEIPT_ID",
+		"message": "रसीद आई.डी",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_RECEIPT_PERIOD",
+		"message": "प्राप्ति अवधि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_BILL_RECEIPT_DATE",
+		"message": "रसीद तारीख",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+		"code": "PDF_PAYMODE_CASH",
+		"message": "नकद",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PAID",
+		"message": "भुगतान की गई कुल राशि",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+
+	{
+
+		"code": "MGram.Reset.Password",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है <OTP>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.Reset.Password",
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है <OTP>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.CollectionDay",
+		"message": "प्रिय {ownername}, आज {date} को {GPWSC} के लिए जल शुल्क के रूप में {no} उपभोक्ताओं से रु. {amount}  नकद स्वरुप एकत्र किया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.CollectionDay",
+		"message": "प्रिय {ownername}, आज {Date} को {GPWSC} के लिए जल शुल्क के रूप  में {No} उपभोक्ताओं से रु.{amount} ऑनलाइन द्वारा एकत्र किया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MGram.User.Invitation",
+		"message": "प्रिय <उपयोगकर्ता>, आपको पंजाब के mGramSeva एप्लिकेशन में आमंत्रित किया गया है। कृपया <लिंक> का उपयोग करके लॉगिन करें। उपयोगकर्ता नाम: <फ़ोन नंबर> पासवर्ड: <पासवर्ड>",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GP.MonthlyDemandGenerated.N",
+		"message": "प्रिय {ownername}, {GPWSC} के लिए बिलिंग साइकिल {billingcycle} की मांग उत्पन्न की गई है। कृपया इस अवधि के लिए जल प्रभारों के संग्रहण की योजना बनाएं। {LINK},,
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.CollectionReminder.N",
+		"message": "प्रिय {ownername}, आज {Date} तक {GPWSC} पर जल शुल्क के हेतु  रु.{amount}  संग्रह लंबित है। अधिक विवरण देखने के लिए {PENDING_COL_LINK} पर क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.PreviousMonthSummary.MONTHLY_SUMMARY_SMS_EN_REMINDER",
+		"message": "प्रिय <user>, <पिछले महीने> में जल शुल्क के रूप  में रु. <Amount>   एकत्र किया गया है और  <GPWSC> के लिए व्यय के रूप में रु.  {PREVIOUS_MONTH_EXPENSE} खर्च किया गया है। अधिक विवरण देखने के लिए {link} पर क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.GPUser.EnterExpense.NNEW_ENPENDITURE_SMS_EN_REMINDER",
+		"message": "कृपया {GPWSC} के लिए नए व्यय बिल ऑनलाइन दर्ज करें। अभी व्यय प्रविष्टि करने के लिए {NEW_EXP_LINK} पर क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+		"message": "<GPWSC> के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया <लिंक> पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.NewBill.N",
+		"message": "प्रिय {ownername}, उपभोक्ता आईडी {consumerno} के लिए अवधि {billingcycle} के लिए रुपये {Amount}.के लिए नया जल शुल्क बिल उत्पन्न किया गया है।  नवीनतम बिल डाउनलोड करने के लिए {BILL_LINK}  पर क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.PayOnline.N",
+		"message": "प्रिय {ownername}, उपभोक्ता आईडी {connectionno} के लिए जल शुल्क के लिए लंबित राशि रु. {billamount} है. ऑनलाइन भुगतान करने के लिए {PAY_LINK} पर क्लिक करें।",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.DownloadReceipt.N",
+		"message": "प्रिय {ownername}, उपभोक्ता आईडी {consumercode} के लिए जल शुल्क के लिए रु. {amountpaid} का भुगतान किया गया है। लंबित राशि रु. {pendingamount}. रसीद डाउनलोड करने के लिए {RECEIPT_LINK} पर क्लिक करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "mGram.Consumer.TakeSurvey.N",
+		"message": "प्रिय {ownername}, जल शुल्क का भुगतान करने के लिए धन्यवाद। कृपया इस संक्षिप्त सर्वेक्षण में भाग लें और {GPWSC} द्वारा की जा रही जल आपूर्ति के बारे में अधिक जानने में हमारी सहायता करें",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "INVALID_METER_READING_BILLING_PERIOD",
+		"message": "बिलिंग अवधि पहले से मौजूद है",
+		"module": "mgramseva-expenses",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "WS_NON_METERED",
+		"message": "बगैर मीटर के",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+		"code": "WS_METERED",
+		"message": "मीटर किए गए",
+		"module": "mgramseva-common",
+		"locale": "hi_IN"
+
+	},
+	{
+
+            "code": "HOUSE_DETAILS_EDIT",
+            "message": "उपभोक्ता विवरण संपादित करें",
+            "module": "mgramseva-consumer",
+            "locale": "hi_IN"
+
+    ]
+},
+{
+    
+            "code": "CONSUMER_DETAILS_EDIT_SUB_LABEL",
+            "message": "कृपया उपभोक्ता जानकारी संपादित करें और सफलतापूर्वक विवरण सहेजने के लिए 'सबमिट' पर क्लिक करें",
+            "module": "mgramseva-consumer",
+            "locale": "hi_IN"
+
+    ]
+},
+{
+    
+            "code": "NO_FIELDS_FILLED",
+            "message": "कोई फ़ील्ड नहीं भरा",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+
+    ]
+},
+{
+  
+        {
+            "code": "PDF_STATIC_LABEL_WATER_CHARGES",
+            "message": "जल प्रभार",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+    ]
+},
+{
+    
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BREAKUP_PENDING_WATERCHARGES",
+            "message": "कनेक्शन के लिए लंबित जल शुल्क का विवरण नीचे दिया गया है",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},,
+   
+        {
+            "code": "NEW_BULK_DEMAND_EVENT",
+            "message": "{billing cycle} की देयक मांग उत्पन्न हुई है। {X} बिल तैयार किए गए हैं और {X/X+Y} घर-परिवारों को भेजे दिए गए हैं। {Y} बिलों को अभी तैयार करना है। विवरण देखने के लिए यहां क्लिक करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "NEW_BULK_DEMAND_EVENT_NM",
+            "message": "{billing cycle} की देयक मांग उत्पन्न हुई है। {X} बिल तैयार किए गए हैं और {X/X} घर-परिवारों को भेजे दिए गए हैं। विवरण देखने के लिए यहां क्लिक करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "NEW_BULK_DEMAND_EVENT_NM",
+            "message": "नया बिलिंग चक्र",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "NEW_BULK_DEMAND_EVENT_M",
+            "message": "आज से नया बिलिंग चक्र शुरू होगा। {Y}  बिलों को पिछले महीने के लिए तैयार करना है। विवरण देखने के लिए यहां क्लिक करें ।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "NEW_BULK_DEMAND_EVENT_M",
+            "message": "लंबित संग्रह",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "PENDING_COLLECTION_EN_REMINDER",
+            "message": "{TODAY DATE} के अनुसार {X} रुपये का संग्रह लंबित है। डैशबोर्ड देखने के लिए यहां क्लिक करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "PENDING_COLLECTION_EN_REMINDER",
+            "message": "आज का संग्रह",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "TODAY_COLLECTION_AS_CASH_SMS",
+            "message": "रु.{amount} जल प्रभार के लिए आज {number} उपभोक्‍ताओं से नगद में प्राप्त किया गया है।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "TODAY_COLLECTION_FROM_ONLINE_SMS",
+            "message": "रु. {amount} जल प्रभार के लिए आज {number} उपभोक्‍ताओं से ऑनलाइन भुगतान द्वारा प्राप्त किया गया है।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "TODAY_COLLECTION_FROM_ONLINE_SMS",
+            "message": "महीने का सारांश",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "MONTHLY_SUMMARY_EN_REMINDER",
+            "message": "रु. {PREVIOUS_MONTH_COLLECTION} को {PREVIOUS_MONTH} में पानी के शुल्क के रूप में एकत्र किया गया और रुपये {PREVIOUS_MONTH_EXPENSE} को व्यय के रूप में खर्च किया गया है। अधिक ब्योरा देखने के लिए यहां क्लिक करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "MONTHLY_SUMMARY_EN_REMINDER",
+            "message": "एक नया व्यय दर्ज करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "NEW_ENPENDITURE_EN_REMINDER",
+            "message": "कृपया नए व्यय बिल ऑनलाइन दर्ज करें। व्यय प्रविष्टि दर्ज करने के लिए अब यहां क्लिक करें।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "NEW_ENPENDITURE_EN_REMINDER",
+            "message": "भुगतान किये गए व्यय बिलों को चिह्नित करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "MARK_PAID_BILL_EN_REMINDER",
+            "message": "{BILL_COUNT_AWAIT} व्यय बिल भुगतान हो जाने की पुष्टि की प्रतीक्षा कर रहे हैं। खोजने और भुगतान हो गया है के रूप में चिह्नित करने के लिए यहां क्लिक करें, यदि पहले से भुगतान कर दिया गया है तो।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "MARK_PAID_BILL_EN_REMINDER",
+            "message": "देयक मांग उत्पन्न करें।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+        {
+            "code": "MARK_PAID_BILL_EN_REMINDER",
+            "message": "इस {biling cycle} के लिए पानी की मांग उत्पन्न करने के लिए । यहाँ क्लिक करें।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+}
+
+]
