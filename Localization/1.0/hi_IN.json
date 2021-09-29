@@ -1683,7 +1683,7 @@
 	{
 
 		"code": "RESET_PASSWORD_FIRST_TIME_OTP",
-		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp}",
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -1692,7 +1692,7 @@
 	{
 
 		"code": "RESET_PASSWORD_OTP",
-		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp}",
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -1700,7 +1700,7 @@
 	{
 
 		"code": "RESET_PASSWORD_FIRST_TIME_OTP",
-		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp}",
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -1709,7 +1709,7 @@
 	{
 
 		"code": "RESET_PASSWORD_OTP",
-		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp}",
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -1718,7 +1718,7 @@
 	{
 
 		"code": "MGram.Reset.Password",
-		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},,
+		"message": "mGramSeva पर पासवर्ड रीसेट करने के लिए OTP है {otp},
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -1809,7 +1809,7 @@
 	{
 
 		"code": "mGram.GPUser.MarkExpense",
-		"message": {GPWSC} के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया {EXP_MRK_LINK} पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है EGOVS",
+		"message":"{GPWSC} के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया {EXP_MRK_LINK} पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है EGOVS",
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -1818,7 +1818,7 @@
 	{
 
 		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
-		"message": {GPWSC} के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया {EXP_MRK_LINK} पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है EGOVS",
+		"message":"{GPWSC} के व्यय बिल, भुगतान की पुष्टि की प्रतीक्षा कर रहे हैं। कृपया {EXP_MRK_LINK} पर क्लिक करें और उन्हें भुगतान के रूप में चिह्नित करें, यदि पहले से ही भुगतान किया गया है EGOVS",
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -2681,7 +2681,7 @@
 	{
 
 		"code": "mGram.GP.MonthlyDemandGenerated.N",
-		"message": "प्रिय {ownername}, {GPWSC} के लिए बिलिंग साइकिल {billingcycle} की मांग उत्पन्न की गई है। कृपया इस अवधि के लिए जल प्रभारों के संग्रहण की योजना बनाएं। {LINK},,
+		"message": "प्रिय {ownername}, {GPWSC} के लिए बिलिंग साइकिल {billingcycle} की मांग उत्पन्न की गई है। कृपया इस अवधि के लिए जल प्रभारों के संग्रहण की योजना बनाएं। {LINK},
 		"module": "mgramseva-common",
 		"locale": "hi_IN"
 
@@ -2818,7 +2818,7 @@
             "message": "कनेक्शन के लिए लंबित जल शुल्क का विवरण नीचे दिया गया है",
             "module": "mgramseva-common",
             "locale": "hi_IN"
-},,
+},
    
         {
             "code": "NEW_BULK_DEMAND_EVENT",
@@ -2937,6 +2937,244 @@
             "message": "इस {biling cycle} के लिए पानी की मांग उत्पन्न करने के लिए । यहाँ क्लिक करें।",
             "module": "mgramseva-common",
             "locale": "hi_IN"
-}
+},
 
+        {
+            "code": "SURVEY_REQUEST",
+            "message": "प्रिय {उपयोगकर्ता}, अपने पानी के बिल का भुगतान करने के लिए धन्यवाद। {GPWSC} पर जलापूर्ति सुविधाओं को बेहतर बनाने में हमारी सहायता के लिए कृपया इस संक्षिप्त सर्वेक्षण में भाग लें",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "HELP_US_HELP_YOU",
+            "message": "प्हमारी मदद करें आपकी मदद करें",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "HAPPY_WITH_WATER_SUPPLY",
+            "message": "क्या आप पानी की आपूर्ति से खुश हैं?",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "IS_WATER_SUPPLY_REGULAR",
+            "message": "क्या पानी की आपूर्ति नियमित है?",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "IS_WATER_QUALITY_GOOD",
+            "message": "क्या पानी की गुणवत्ता अच्छी है?",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "FEED_BACK_SUBMITTED_SUCCESSFULLY",
+            "message": "फ़ीडबैक सफलतापूर्वक सबमिट किया गया  है।",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "FEEDBACK_RESPONSE_SUBMITTED_SUCCESSFULLY",
+            "message": "प्रतिक्रिया देने के लिए धन्यवाद। आपकी प्रतिक्रिया सफलतापूर्वक सबमिट कर दी गई है।",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "PAID_DATE",
+            "message": "प्भुगतान तिथि",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "ROWS_PER_PAGE",
+            "message": "प्रति पृष्ठ पंक्तियाँ",
+            "module": "mgramseva-feedback",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_CHANGEPASSWORD_PASSWORD_HINT",
+            "message": "प्पासवर्ड संकेत",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_MIN_SIX_DIGITS",
+            "message": "प्न्यूनतम 6 अंक",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_LETTER",
+            "message": "कम से कम १ अक्षर",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_NUMBER",
+            "message": "कम से कम 1 नंबर",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_SPECIAL_CHARACTER",
+            "message": "कम से कम 1 विशेष वर्ण",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_COMMON_CHANGE_PASSWORD",
+            "message": "पासवर्ड बदलें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASSWORD_HINT_LABEL",
+            "message": "पासवर्ड संकेत",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_MIN_SIX_DIGITS",
+            "message": "न्यूनतम 6 अंक",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_LETTER",
+            "message": "कम से कम १ अक्षर",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_NUMBER",
+            "message": "कम से कम 1 नंबर",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_SPECIAL_CHARACTER",
+            "message": "कम से कम 1 विशेष वर्ण",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+
+
+        {
+            "code": "CORE_COMMON_RESET_PASSWORD",
+            "message": "पासवर्ड रीसेट करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "CAMERA",
+            "message": "कैमरा",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "FILE_MANAGER",
+            "message": "फ़ाइलें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "FILE_SIZE",
+            "message": "केवल .jpg और .pdf फ़ाइलें। 5MB अधिकतम फ़ाइल आकार",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "CHOOSE_AN_ACTION",
+            "message": "एक क्रिया चुनें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+		{
+            "code": "name",
+            "message": "नाम",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "connectionNumber",
+            "message": "नई कनेक्शन आई.डी",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "oldConnectionNumber",
+            "message": "पुराना कनेक्शन आई.डी",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": " as ",
+            "message": " जैसा ",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+		{
+            "code": "name",
+            "message": "नाम",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "connectionNumber",
+            "message": "नई कनेक्शन आई.डी",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": "oldConnectionNumber",
+            "message": "पुराना कनेक्शन आई.डी",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+},
+{
+            "code": " as ",
+            "message": " जैसा ",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+}
 ]
