@@ -1,2649 +1,3308 @@
-[		"code": "CORE_COMMON_CONTINUE",
-		"message": "ਜਾਰੀ ਰੱਖੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CORE_COMMON_LOGIN",
-		"message": "ਲਾਗਿਨ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "LOGIN_PHONE_NO",
-		"message": "ਫੋਨ ਨੰਬਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_LOGIN_PASSWORD",
-		"message": "ਪਾਸਵਰਡ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_FORGOT_PASSWORD",
-		"message": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_CONTINUE",
-		"message": "ਜਾਰੀ ਰੱਖੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_CONTINUE",
-		"message": "ਫ਼ੋਨ ਨੰਬਰ ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_CONTINUE",
-		"message": "ਫ਼ੋਨ ਨੰਬਰ ਅਤੇ ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-
-			"code": "UPDATE_PASSWORD",
-		"message": "ਪਾਸਵਰਡ ਅਪਡੇਟ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "INVITED_TO_GRAMA_SEVA",
-		"message": "ਤੁਹਾਨੂੰ ਹੇਠਲੀ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਅਰਜ਼ੀ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "GP_NUMBER",
-		"message": "ਜੀਪੀ ਕੋਡ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CORE_COMMON_RESET_PASSWORD",
-		"message": "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-
-			"code": "CONTINUE_TO_LOGIN",
-		"message": "ਲੌਗਇਨ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-			"code": "SEARCH_CONNECTION_LABEL",
-		"message": "ਖਪਤਕਾਰ ਦੀ ਖੋਜ ਕਰੋ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONNECTION_SUBLABEL",
-		"message": "ਵਧੇਰੇ ਵੇਰਵੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਉਪਭੋਗਤਾ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ ਜਾਂ ਨਾਮ ਜਾਂ ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਦਰਜ ਕਰੋ. ਕਿਰਪਾ ਕਰਕੇ ਸਿਰਫ ਇੱਕ ਦਾਖਲ ਕਰੋ.",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONNECTION_OWNER_MOB_NUM",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONNECTION_NAME_OF_CONSUMER",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "NAME_OF_CONSUMER_HINT",
-		"message": "ਜਿਵੇਂ ਕਿ ਹਰਪ੍ਰੀਤ ਸਿੰਘ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONNECTION_OLD_CONNECTION_ID",
-		"message": "ਪੁਰਾਣੀ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONNECTION_NEW_CONNECTION_ID",
-		"message": "ਨਵੀਂ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "OR",
-		"message": "ਜਾਂ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH",
-		"message": "ਖੋਜ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "NO_CONNECTION_FOUND",
-		"message": "ਕੋਈ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਮਿਲੇ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONNECTION_FOUND",
-		"message": "ਖਪਤਕਾਰ ਮਿਲੇ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "CONNECTION_CRITERIA",
-		"message": "ਹੇਠਾਂ ਦਿੱਤੇ ਖਪਤਕਾਰ <ਮਾਪਦੰਡ> ਦੇ ਨਾਲ <ਟੈਕਸਟ ਇਨਪੁਟ> ਦੇ ਰੂਪ ਵਿੱਚ ਖੋਜ ਮਾਪਦੰਡ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਹਨ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-
-
-			"code": "CONSUMER_CONNECTION_ID",
-		"message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ:",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONNECTION_CONSUMER_NAME",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-
-			"code": "SERACH_CONNECTION_PHONE_NUMBER",
-		"message": "ਫੋਨ ਨੰਬਰ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-
-			"code": "SEARCH_CONNECTION_ADDRESS",
-		"message": "ਪਤਾ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "PROPERTY_TYPE",
-		"message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-
-			"code": "Non_Metered",
-		"message": "ਗੈਰ-ਮੀਟਰਡ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "Metered",
-		"message": "ਮੀਟਰ ਕੀਤਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-
-			"code": "GENERATE_BILL_LABEL",
-		"message": "ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-
-			"code": "GENERATE_DEMAND_SERVICE_CATEGORY_LABEL",
-		"message": "ਸੇਵਾ ਸ਼੍ਰੇਣੀ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-
-			"code": "GENERATE_DEMAND_PROPERTY_TYPE_LABEL",
-		"message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-
-			"code": "GENERATE_DEMAND_SERVICE_TYPE_LABEL",
-		"message": "ਸੇਵਾ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-
-			"code": "GENERATE_DEMAND_METER_NUMBER_LABEL",
-		"message": "ਮੀਟਰ ਨੰਬਰ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_PREV_METER_READING_LABEL",
-		"message": "ਪਿਛਲਾ ਮੀਟਰ ਰੀਡਿੰਗ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_NEW_METER_READING_LABEL",
-		"message": "ਨਵਾਂ ਮੀਟਰ ਰੀਡਿੰਗ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_METER_READING_DATE",
-		"message": "ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਤਾਰੀਖ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_GEN_BILL_BUTTON",
-		"message": "ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "OLD_METER_READING_INVALID_MSG",
-		"message": "ਪੁਰਾਣੀ ਮੀਟਰ ਰੀਡਿੰਗ ਅਵੈਧ ਦਾਖਲ ਹੋਈ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "NEW_METER_READING_INVALID_MSG",
-		"message": "ਨਵਾਂ ਮੀਟਰ ਰੀਡਿੰਗ ਅਵੈਧ ਦਾਖਲ ਹੋਇਆ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_DETAILS_LABEL",
-		"message": "ਖਪਤਕਾਰ ਵੇਰਵੇ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_DETAILS_SUB_LABEL",
-		"message": "ਇੱਕ ਨਵਾਂ ਖਪਤਕਾਰ ਰਿਕਾਰਡ ਬਣਾਉ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CREATE_CONSUMER_NAME",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_FATHER_SPOUSE_NAME",
-		"message": "ਪਿਤਾ ਦਾ ਨਾਮ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_OLD_CONNECTION_ID",
-		"message": "ਪੁਰਾਣੀ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_DOOR_NO",
-		"message": "ਦਰਵਾਜ਼ਾ ਨੰਬਰ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_STREETNUM_STREETNAME",
-		"message": "ਗਲੀ ਦਾ ਨਾਮ/ਨੰਬਰ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_WARD_LABEL",
-		"message": "ਵਾਰਡ ਦਾ ਨਾਮ/ਨੰਬਰ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_PROPERTY_TYPE",
-		"message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_PROPERTY_TYPE",
-		"message": "ਰਿਹਾਇਸ਼ੀ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_SERVICE_TYPE",
-		"message": "ਸੇਵਾ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_METER_NUMBER",
-		"message": "ਮੀਟਰ ਨੰਬਰ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_PREV_METER_READING_DATE",
-		"message": "ਪਿਛਲੀ ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਮਿਤੀ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_ARREARS",
-		"message": "ਬਕਾਏ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_BUTTON_SUBMIT",
-		"message": "ਜਮ੍ਹਾਂ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_REGISTER_SUCCESS_LABEL",
-		"message": "ਖਪਤਕਾਰ ਰਚਨਾ ਸਫਲ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_NAME_MSG",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ ਦਰਜ ਕਰਕੇ ਇੱਕ ਖਪਤਕਾਰ ਰਿਕਾਰਡ ਬਣਾਉਣਾ ਅਰੰਭ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_GENDER_MSG",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਲਿੰਗ ਚੁਣੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_FATHER_MSG",
-		"message": "ਖਪਤਕਾਰ ਦੇ ਪਿਤਾ ਦਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_MOBILE_MSG",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_OLD_ID_MSG",
-		"message": "ਪੁਰਾਣਾ ਕੁਨੈਕਸ਼ਨ ਆਈਡੀ ਨੰਬਰ ਦਾਖਲ ਕਰੋ. ਉਦਾਹਰਣ 105",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_WARD_MSG",
-		"message": "ਵਾਰਡ ਦੀ ਚੋਣ ਕਰੋ ਜਿੱਥੇ ਖਪਤਕਾਰ ਰਹਿੰਦਾ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_PROPERTY_TYPE_MSG",
-		"message": "ਰਿਹਾਇਸ਼ੀ / ਵਪਾਰਕ ਕਿਸਮ ਦੀ ਸੰਪਤੀ ਵਿੱਚੋਂ ਇੱਕ ਦੀ ਚੋਣ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_SERVICE_TYPE_MSG",
-		"message": "ਚੁਣੋ ਕਿ ਕੀ ਕੁਨੈਕਸ਼ਨ ਮੀਟਰਡ ਹੈ ਜਾਂ ਨਾਨ-ਮੀਟਰਡ ਹੈ.",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_ARREARS_MSG",
-		"message": "ਖਪਤਕਾਰ ਨੂੰ <ਮਿਤੀ> ਤੱਕ ਭੁਗਤਾਨ ਕਰਨ ਵਾਲੀ ਰਕਮ ਸ਼ਾਮਲ ਕਰੋ.",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CONSUMER_EDIT_DETAILS_LABEL",
-		"message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਸੰਪਾਦਿਤ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_EDIT_DETAILS_SUB_LABEL",
-		"message": "ਕਿਰਪਾ ਕਰਕੇ ਖਪਤਕਾਰਾਂ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੋਧੋ ਅਤੇ ਸਫਲਤਾਪੂਰਵਕ ਵੇਰਵਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ 'ਜਮ੍ਹਾਂ ਕਰੋ' ਤੇ ਕਲਿਕ ਕਰੋ.",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "MARK_AS_INACTIVE",
-		"message": "ਇਸ ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਕਿਰਿਆਸ਼ੀਲ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_EXPENSE_DETAILS",
-		"message": "ਇੱਕ ਨਵਾਂ ਖਰਚਾ ਰਿਕਾਰਡ ਬਣਾਉ.",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_PROVIDE_INFO_TO_CREATE_EXPENSE",
-		"message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
-		"message": "ਬਿਜਲੀ ਦਾ ਬਿੱਲ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "ELECTRICITY_BILL",
-		"message": "ਸੰਚਾਲਨ ਅਤੇ ਰੱਖ -ਰਖਾਵ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "OM",
-		"message": "ਸੰਚਾਲਨ ਅਤੇ ਰੱਖ -ਰਖਾਵ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "SALARY",
-		"message": "ਫੁਟਕਲ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "MISC",
-		"message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_VENDOR_NAME",
-		"message": "ਦੀ ਰਕਮ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_AMOUNT",
-		"message": "ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_BILL_DATE",
-		"message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_PART_BILL_DATE",
-		"message": "ਕੀ ਇਹ ਬਿੱਲ ਅਦਾ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ?",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CORE_EXPENSE_PAYMENT_DATE",
-		"message": "ਬਿਲ ਨੱਥੀ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "ATTACH_BILL",
-		"message": "ਫਾਈਲ ਚੁਣੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NO_FILE_UPLOADED",
-		"message": "ਜਮ੍ਹਾਂ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_BUTTON_SUBMIT",
-		"message": "ਇੱਕ ਵੈਧ ਰਕਮ ਦਾਖਲ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "ENTER_VALID_AMOUNT",
-		"message": "ਬਿੱਲ ਦੀ ਮਿਤੀ ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ ਨਹੀਂ ਹੋ ਸਕਦੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_DATE_CANNOT_BEFORE_PART_DATE",
-		"message": "ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_DATE_CANNOT_GREATER_THAN_TODAY",
-		"message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "PARTY_BILL_DATE_CANNOT_GREATER_THAN_TODAY",
-		"message": "ਭੁਗਤਾਨ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "PAYMENT_DATE_CANNOT_GREATER_THAN_TODAY",
-		"message": "ਭੁਗਤਾਨ ਦੀ ਮਿਤੀ ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "EXPENSE_TYPE_MSG",
-		"message": "ਖਰਚਿਆਂ ਦੀ ਸ਼੍ਰੇਣੀ ਦੀ ਚੋਣ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENSE_VENDOR_NAME_MSG",
-		"message": "ਉਸ ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਜ਼ਿਕਰ ਕਰੋ ਜਿਸਨੇ ਬਿੱਲ ਉਠਾਇਆ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENSE_AMOUNT_MSG",
-		"message": "ਬਿੱਲ ਵਿੱਚ ਦਰਸਾਈ ਗਈ ਰਕਮ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENSE_BILL_DATE_MSG",
-		"message": "ਉਹ ਮਿਤੀ ਸ਼ਾਮਲ ਕਰੋ ਜਿਸ 'ਤੇ ਬਿੱਲ ਰਿਕਾਰਡ ਵਿੱਚ ਦਾਖਲ ਕੀਤਾ ਗਿਆ ਹੈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENSE_PARTY_BILL_DATE_MSG",
-		"message": "ਉਹ ਮਿਤੀ ਸ਼ਾਮਲ ਕਰੋ ਜਿਸ 'ਤੇ ਬਿੱਲ ਉਠਾਇਆ ਗਿਆ ਹੈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENSE_ATTACH_BILL_MSG",
-		"message": "ਬਿੱਲ ਦੇ ਜੇਪੀਈਜੀ/ ਪੀਡੀਐਫ ਫਾਰਮੈਟਾਂ ਨੂੰ ਇੱਥੇ ਨੱਥੀ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "DATE_BILL_ENTERED_IN_RECORDS",
-		"message": "ਉਹ ਮਿਤੀ ਸ਼ਾਮਲ ਕਰੋ ਜਿਸ 'ਤੇ ਬਿੱਲ ਰਿਕਾਰਡ ਵਿੱਚ ਦਾਖਲ ਕੀਤਾ ਗਿਆ ਹੈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "CORE_EXPENSE_EXPENDITURE_SUCESS",
-		"message": "ਖਰਚਾ ਪ੍ਰਵੇਸ਼ ਸਫਲਤਾਪੂਰਵਕ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENDITURE_SUCESS",
-		"message": "ਖਰਚ ਦੀ ਐਂਟਰੀ <ਵੈਂਡਰ> ਦੇ ਵਿਰੁੱਧ <ਕਿਸਮ ਦੇ ਖਰਚਿਆਂ> ਸ਼੍ਰੇਣੀ ਦੇ ਅਧੀਨ ਰੁਪਏ ਲਈ ਕੀਤੀ ਗਈ ਹੈ. <ਮਾਤਰਾ>",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_BACK_HOME_BUTTON",
-		"message": "ਘਰ ਵਾਪਸ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "ADD_NEW_EXPENSE",
-		"message": "ਨਵਾਂ ਖਰਚਾ ਸ਼ਾਮਲ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "SEARCH_EXPENSE_BILL",
-		"message": "ਖਰਚੇ ਦੇ ਬਿੱਲ ਖੋਜੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "ENTER_VENDOR_BILL_EXPENSE",
-		"message": "ਵਧੇਰੇ ਵੇਰਵੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ ਜਾਂ ਖਰਚੇ ਦੀ ਕਿਸਮ ਜਾਂ ਬਿੱਲ ਆਈਡੀ ਦਾਖਲ ਕਰੋ. ਕਿਰਪਾ ਕਰਕੇ ਸਿਰਫ ਇੱਕ ਦਾਖਲ ਕਰੋ.",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_VENDOR_NAME",
-		"message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
-		"message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "ELECTRICITY_HINT",
-		"message": "ਜਿਵੇਂ ਕਿ ਬਿਜਲੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_ID",
-		"message": "ਬਿੱਲ ਆਈ.ਡੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_HINT",
-		"message": "ਜਿਵੇਂ ਕਿ ਈਬੀ -2021-22/08/21/0123",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "SHOW_MORE",
-		"message": "ਹੋਰ ਦਿਖਾਓ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "SHOW_LESS",
-		"message": "ਘੱਟ ਦਿਖਾਓ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH",
-		"message": "ਖੋਜ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "NO_EXPENSES_FOUND",
-		"message": "ਕੋਈ ਵੀ ਬਿਲ ਖੋਜ ਮਾਪਦੰਡ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "FOLLOWING_EXPENDITURE_BILL_MATCH",
-		"message": "ਹੇਠ ਲਿਖੇ ਖਰਚੇ ਦੇ ਬਿੱਲ <ਲੇਬਲ ਖੋਜ ਸ਼ਬਦ> ਨਾਲ ਖੋਜ ਮਾਪਦੰਡ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਹਨ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "STATUS",
-		"message": "ਸਥਿਤੀ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "UN_PAID",
-		"message": "ਅਦਾਇਗੀਯੋਗ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "PAID",
-		"message": "ਦਾ ਭੁਗਤਾਨ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "UPDATE_EXPENDITURE",
-		"message": "ਖਰਚਾ ਅਪਡੇਟ ਕਰੋ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "EDIT_EXPENSE_BILL",
-		"message": "ਖਰਚਾ ਬਿਲ ਸੋਧੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "UPDATE_SUBMIT_EXPENDITURE",
-		"message": "ਅਪਡੇਟ ਕਰੋ ਅਤੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਨੂੰ ਸੋਧਣ ਲਈ ਸਬਮਿਟ ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "MARK_BILL_HAS_CANCELLED",
-		"message": "ਇਸ ਬਿੱਲ ਨੂੰ ਰੱਦ ਹੋਣ ਵਜੋਂ ਮਾਰਕ ਕਰੋ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "MODIFIED_EXPENDITURE_SUCCESSFULLY",
-		"message": "ਸੋਧੇ ਹੋਏ ਖਰਚੇ ਸਫਲਤਾਪੂਰਵਕ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-			"code": "DASHBOARD",
-		"message": "ਡੈਸ਼ਬੋਰਡ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "COLLECTIONS",
-		"message": "ਸੰਗ੍ਰਹਿ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENDITURE",
-		"message": "ਖਰਚਾ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_CONSUMER_RECORDS",
-		"message": "ਖਪਤਕਾਰਾਂ ਦੇ ਰਿਕਾਰਡ ਖੋਜੋ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_NAME_CONNECTION",
-		"message": "ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਦੁਆਰਾ ਖੋਜ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "ALL",
-		"message": "ਸਾਰੇ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "RESIDENTIAL",
-		"message": "ਰਿਹਾਇਸ਼ੀ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "COMMERCIAL",
-		"message": "ਵਪਾਰਕ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "CONNECTION_ID",
-		"message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "NAME",
-		"message": "ਨਾਮ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "SEARCH_BY_BILL_OR_VENDOR",
-		"message": "ਬਿੱਲ ਆਈਡੀ / ਵਿਕਰੇਤਾ ਦੁਆਰਾ ਖੋਜ ਕਰੋ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "PENDING",
-		"message": "ਬਕਾਇਆ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_ID_VENDOR",
-		"message": "ਬਿੱਲ ਆਈਡੀ - ਵਿਕਰੇਤਾ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-
-			"code": "AMOUNT",
-		"message": "ਦੀ ਰਕਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NO_RECORDS_MSG",
-		"message": "ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ",
-		"module": "mgramseva-dashboard",
-		"locale": "pn_IN"
-
-},
-			"code": "OTP.UNKNOWN_MOBILE_NUMBER",
-		"message": "ਮੋਬਾਈਲ ਨੰਬਰ ਅਣਜਾਣ ਹੈ.",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "OTP.VALIDATION_UNSUCCESSFUL",
-		"message": "OTP ਪ੍ਰਮਾਣਿਕਤਾ ਅਸਫਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_BILLING_CYCLE_REQUIRED",
-		"message": "ਖਪਤਕਾਰ ਬਿਲਿੰਗ ਸਾਈਕਲ ਦੀ ਲੋੜ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CREATE_CONSUMER_NAME_REQUIRED",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
-		"message": "ਪਿਤਾ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_PHONE_NUMBER_REQUIRED",
-		"message": "ਫ਼ੋਨ ਨੰਬਰ ਜ਼ਰੂਰੀ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_PROPERTY_TYPE_REQUIRED",
-		"message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ ਲੋੜੀਂਦੀ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_SERVICE_TYPE_REQUIRED",
-		"message": "ਸੇਵਾ ਦੀ ਕਿਸਮ ਲੋੜੀਂਦੀ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_GP_NAME",
-		"message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦਾ ਨਾਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "ENTER_MOBILE_NUMBER",
-		"message": "ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_LOGIN_PASSWORD_REQUIRED",
-		"message": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "MOBILE_NUMBER_SHOULD_BE_10_DIGIT",
-		"message": "ਮੋਬਾਈਲ ਨੰਬਰ 10 ਅੰਕਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "OLD_CONNECTION_HINT",
-		"message": "ਜਿਵੇਂ ਕਿ 17238437",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "NEW_CONNECTION_HINT",
-		"message": "ਜਿਵੇਂ ਕਿ WS-1234-12",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_CHANGEPASSWORD_EXISTINGPASSWORD_REQUIRED",
-		"message": "ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਲੋੜੀਂਦਾ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NEW_PASSWORD_ENTER",
-		"message": "ਕਿਰਪਾ ਕਰਕੇ ਨਵਾਂ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONFIRM_PASSWORD_ENTER",
-		"message": "ਕਿਰਪਾ ਕਰਕੇ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_ID_NO",
-		"message": "ਬਿੱਲ ਆਈਡੀ ਨੰ.",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "FEE_ESTIMATE",
-		"message": "ਫੀਸ ਦਾ ਅਨੁਮਾਨ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_ID_NUMBER",
-		"message": "ਬਿੱਲ ਆਈਡੀ ਨੰਬਰ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-},
-			"code": "CUSTOM_AMOUNT_REQUIRED",
-		"message": "ਪਸੰਦੀਦਾ ਰਕਮ ਲੋੜੀਂਦੀ ਹੈ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_DETAILS",
-		"message": "ਬਿੱਲ ਵੇਰਵੇ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-},
-			"code": "WS_CHARGE",
-		"message": "ਪਾਣੀ ਦੇ ਖਰਚੇ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "EXPENSES_FOUND",
-		"message": "ਖਰਚੇ ਮਿਲੇ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "RECEIPT_DOWNLOAD",
-		"message": "ਰਸੀਦ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "BILL_DOWNLOAD",
-		"message": "ਬਿੱਲ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "HOUSE_DETAILS_VIEW",
-		"message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਵੇਖੋ",
-		"module": "mgramseva-water-connection",
-		"locale": "pn_IN"
-
-},
-			"code": "INVALID_EMAIL_FORMAT",
-		"message": "ਅਵੈਧ ਈਮੇਲ ਫਾਰਮੈਟ, example@mail.com",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "SERVICE_DETAILS_HEADER",
-		"message": "ਸੇਵਾ ਵੇਰਵੇ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_BILLING_YEAR_LABEL",
-		"message": "ਬਿਲਿੰਗ ਸਾਲ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL",
-		"message": "ਬਿਲਿੰਗ ਸਾਈਕਲ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "GENERATE_DEMAND_BUTTON",
-		"message": "ਮੰਗ ਪੈਦਾ ਕਰੋ",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "SKIP",
-		"message": "ਛੱਡੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NEXT",
-		"message": "ਅਗਲਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "END",
-		"message": "ਸਮਾਪਤ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "BACK",
-		"message": "ਵਾਪਸ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "INFO",
-		"message": "ਜਾਣਕਾਰੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "INFO_TEXT",
-		"message": "ਭੁਗਤਾਨਾਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇੱਕ ਨਵਾਂ ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "DEAR",
-		"message": "ਪਾਪਿਆਰੇ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "WS_10101",
-		"message": "ਮੌਜੂਦਾ ਖਰਚੇ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "WS_10102",
-		"message": "ਬਕਾਏ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_PREV_METER_READING_DATE_REQUIRED",
-		"message": "ਪਿਛਲੀ ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਤਾਰੀਖ ਲੋੜੀਂਦੀ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_METER_NUMBER_REQUIRED",
-		"message": "ਮੀਟਰ ਨੰਬਰ ਲੋੜੀਂਦਾ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-			"code": "CORE_COMMON_MOBILE_NUMBER",
-		"message": "ਮੋਬਾਈਲ ਨੰਬਰ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "INVITED_TO_SINGLE_GP",
-		"message": "ਤੁਹਾਨੂੰ ਹੇਠ ਦਿੱਤੀ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਅਰਜ਼ੀ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "VENDOR_ALREADY_EXISTS",
-		"message": "ਵਿਕਰੇਤਾ ਪਹਿਲਾਂ ਹੀ ਬਾਹਰ ਹੈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "SHARE_BILL_LINK",
-		"message": "ਪਿਆਰੇ <user>, ਖਪਤਕਾਰ ਆਈਡੀ <cycle> ਲਈ ਰੁਪਏ ਦੇ ਲਈ <new consumer id> ਲਈ ਪਾਣੀ ਦਾ ਬਿੱਲ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ. <Amount>. ਨਵੀਨਤਮ ਬਿੱਲ ਡਾ downloadਨਲੋਡ ਕਰਨ ਲਈ <link> ਤੇ ਕਲਿਕ ਕਰੋ.",
-		"module": "mgramseva-bill",
-		"locale": "pn_IN"
-
-},
-			"code": "SHARE_RECEIPT_LINK",
-		"message": "ਪਿਆਰੇ <user>, ਰੁਪਏ. ਖਪਤਕਾਰ ਆਈਡੀ <new consumer id> ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ <Amount> ਦਾ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ. ਬਕਾਇਆ ਰਾਸ਼ੀ ਰੁਪਏ ਹੈ <Amount>. ਰਸੀਦ ਡਾ downloadਨਲੋਡ ਕਰਨ ਲਈ <link> ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-},
-			"code": "JAN",
-		"message": "ਜਨਵਰੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "FEB",
-		"message": "ਫਰਵਰੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "MAR",
-		"message": "ਮਾਰਚ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "APR",
-		"message": "ਅਪ੍ਰੈਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "MAY",
-		"message": "ਮਈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "JUN",
-		"message": "ਜੂਨ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "JULY",
-		"message": "ਜੁਲਾਈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "AUG",
-		"message": "ਅਗਸਤ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "SEP",
-		"message": "ਸਤੰਬਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "OCT",
-		"message": "ਅਕਤੂਬਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NOV",
-		"message": "ਨਵੰਬਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "DEC",
-		"message": "ਦਸੰਬਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "CONSUMER_UPDATED_SUCCESS_LABEL",
-		"message": "ਖਪਤਕਾਰ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NOTIFICATIONS",
-		"message": "ਸੂਚਨਾਵਾਂ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "BL_10101",
-		"message": "ਪਾਣੀ ਦੇ ਖਰਚੇ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-},
-
-	{
-		"code": "BL_10102",
-		"message": "Water Charges-Arrears",
-		"module": "mgramseva-payments",
-		"locale": "en_IN"
-},
-
-			"code": "WS_10101",
-		"message": "ਮੌਜੂਦਾ ਖਰਚੇ",
-		"module": "mgramseva-payments",
-		"locale": "pn_IN"
-
-}, 		"code": "PARTIAL_AMT_OUT_OF_RANGE",
-		"message": "Amount exceeding total due amount",
-		"module": "mgramseva-payments",
-		"locale": "en_IN"
-
-},
-	
-		"code": "FEEDBACK_PARSE_ERROR",
-		"message": "ਵਾਧੂ ਵੇਰਵੇ ਵਸਤੂ ਨੂੰ ਪਾਰਸ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "CONNECTION_DETAILS_PARSE_ERROR",
-		"message": "ਵਧੀਕ ਵੇਰਵਾ ਜੇਸਨ ਨੂੰ ਕਨੈਕਸ਼ਨ ਦਾ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ:",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "WATER_CALCULATION_EXCEPTION",
-		"message": "ਗਣਨਾ ਪ੍ਰਤੀਕਿਰਿਆ ਪਾਰਸ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ !!!",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "IDGEN_ERROR",
-		"message": "ਆਈਡਜੈਨ ਦੁਆਰਾ ਵਾਪਸ ਕੀਤੇ ਗਏ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਆਈਡੀ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਸੰਖਿਆ ਦੇ ਬਰਾਬਰ ਨਹੀਂ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "IDGEN_NOTFOUND_ERROR",
-		"message": "ਆਈਡੀ ਜੀਨ ਸਰਵਿਸ ਤੋਂ ਕੋਈ ਆਈਡੀ ਵਾਪਸ ਨਹੀਂ ਆਈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "ID_MISMATCH_ERROR_CONNECTION",
-		"message": "ਆਈਡਜੈਨ ਦੁਆਰਾ ਵਾਪਸ ਕੀਤੇ ਗਏ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਆਈਡੀ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਸੰਖਿਆ ਦੇ ਬਰਾਬਰ ਨਹੀਂ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "OWNER_SEARCH_ERROR",
-		"message": "ਵਾਟਰ ਐਪਲੀਕੇਸ਼ਨ {},, ਦਾ ਮਾਲਕ ਉਪਭੋਗਤਾ ਖੋਜ ਵਿੱਚ ਨਹੀਂ ਆ ਰਿਹਾ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "MDMS_ERROR_FOR_BILLING_FREQUENCY",
-		"message": "ਬਿਲਿੰਗ ਫ੍ਰੀਕੁਐਂਸੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "MDMS_ERROR_FOR_CHECKLIST",
-		"message": "ਜਾਂਚ ਸੂਚੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_RECEIPT",
-		"message": "ਖਪਤਕਾਰ ਕੋਡ {},, ਲਈ ਕੋਈ ਪਾਣੀ ਦਾ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਮਿਲਿਆ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "MULTI_RECEIPT_ERROR",
-		"message": "ਖਪਤਕਾਰ ਕੋਡ {},, 'ਤੇ ਇੱਕ ਤੋਂ ਵੱਧ ਅਰਜ਼ੀਆਂ ਮਿਲੀਆਂ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_SEARCH_ON_USER",
-		"message": "ਦਿੱਤੇ ਗਏ ਮਾਪਦੰਡਾਂ 'ਤੇ ਕੋਈ ਉਪਭੋਗਤਾ ਨਹੀਂ ਮਿਲਿਆ !!!",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "NO_ESTIMATION_FOUND",
-		"message": "ਅਨੁਮਾਨ ਨਹੀਂ ਮਿਲਿਆ !!!",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 		"code": "EMPTY_FILESTORE_IDS_FROM_PDF_SERVICE",
-		"message": "ਪੀਡੀਐਫ ਸੇਵਾ ਤੋਂ ਕੋਈ ਫਾਈਲ ਸਟੋਰ ਆਈਡੀ ਨਹੀਂ ਮਿਲੀ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "WATER_FILESTORE_PDF_EXCEPTION",
-		"message": "ਪੀ ਡੀਐਫ ਦੇ ਜਵਾਬ ਨੂੰ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ !!!",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_USER_RESPONSE",
-		"message": "ਮੋਬਾਈਲ ਨੰਬਰ ਲਈ ਉਪਭੋਗਤਾ ਬਣਾਉਣਾ ਅਸਫਲ ਰਿਹਾ ਹੈ: {},,",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_USER_UPDATE",
-		"message": "ਅਪਡੇਟ ਕੀਤੇ ਉਪਭੋਗਤਾ ਕੋਲ ਯੂਯੂਆਈਡੀ ਨਲ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INCORRECT_PROPERTY_ID",
-		"message": "ਗਲਤ ਆਈਡੀ ਨਾਲ ਪਾਣੀ ਦਾ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PROPERTY_PARSING_ERROR",
-		"message": "ਸੰਪਤੀ ਜੇਸਨ ਨੂੰ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_UPDATE",
-		"message": "ਵਾਟਰ ਕਨੈਕਸ਼ਨ ਦੀ ਆਈਡੀ ਨੂੰ ਰੱਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_CONNECTION_TYPE",
-		"message": "ਅਵੈਧ_ਕਨੈਕਸ਼ਨ_ ਕਿਸਮ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "MDMS_DATA_ERROR",
-		"message": "ਐਮ ਡੀ ਐਮ ਐਸ ਤੋਂ {},, ਕੋਡ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_CONNECTION_HOLDER_TYPE",
-		"message": "ਕਨੈਕਸ਼ਨ ਹੋਲਡਰ ਕਿਸਮ '{},, ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_CHECKLIST",
-		"message": "ਲਾਜ਼ਮੀ ਫੀਡਬੈਕ ਪ੍ਰਦਾਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ!",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_CHECKLIST_TYPE",
-		"message": "ਫੀਡਬੈਕ ਉੱਤਰ ਕਿਸਮ ਅਵੈਧ ਹੈ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 		"code": "INVALID_CHECKLIST_ANS",
-		"message": "ਦਿੱਤਾ ਗਿਆ ਮੁੱਲ ਫੀਡਬੈਕ ਵਿਕਲਪ ਨਹੀਂ ਹੈ.",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "INVALID_PROPERTY",
-		"message": "ਪ੍ਰਾਪਰਟੀ ਆਈਡੀ ਤੋਂ ਬਿਨਾਂ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਨੂੰ ਅਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_PROPERTY_STATUS",
-		"message": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਸੰਪਤੀ ਆਈਡੀ ਦਾਖਲ ਕਰੋ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_PROPERTY_USAGE_TYPE",
-		"message": "ਸੰਪਤੀ ਦੀ ਵਰਤੋਂ ਦੀ ਕਿਸਮ ਤੋਂ ਬਿਨਾਂ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਨੂੰ ਬਿਹਤਰ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_PROPERTY_ENRICH",
-		"message": "ਪ੍ਰਾਪਰਟੀ ਆਈਡੀ ਤੋਂ ਬਿਨਾਂ ਪਾਣੀ ਦਾ ਕੁਨੈਕਸ਼ਨ ਬਿਹਤਰ ਨਹੀਂ ਹੋ ਸਕਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "CONNECTION_NOT_FOUND",
-		"message": "ਖੋਜ ਤੋਂ ਅਰਜ਼ੀ ਨੰਬਰ: {},, ਅਤੇ ਅਪਡੇਟ ਤੋਂ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ",
-		"module": "mgramseva-consumer",
-		"locale": "pn_IN"
-
-}, 
-		"code": "EXP_PAYMENT_PARSING_ERROR",
-		"message": "ਖੋਜ ਤੋਂ ਅਰਜ਼ੀ ਨੰਬਰ: {},, ਅਤੇ ਅਪਡੇਟ ਤੋਂ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-}, 		"code": "BILLING_SERVICE_ERROR",
-		"message": "ਬਿੱਲ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ, ਅਗਿਆਤ ਗੜਬੜ ਹੋ ਗਈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-}, 
-		"code": "EXP_INVALID_REQUEST",
-		"message": "ਗਣਨਾ ਦੀ ਬੇਨਤੀ ਖਾਲੀ ਜਾਂ ਰੱਦ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-}, 
-		"code": "EXP_CAL_ERROR",
-		"message": "ਗਣਨਾ ਦੇ ਜਵਾਬ ਨੂੰ ਪਾਰਸ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "EXP_FIN_NOT_FOUND",
-		"message": "ਵਿੱਤੀ ਸਾਲ ਨਹੀਂ ਮਿਲਿਆ:",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-}, 
-		"code": "EXP_INVALID_VENDOR",
-		"message": "ਯੂ ਆਈਡੀ ਵਾਲਾ ਵਿਕਰੇਤਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-}, 
-		"code": "INVALID_TAXHEAD_CODE_DETAILS",
-		"message": "ਅਧਿਕਾਰਤ ਟੈਕਸਹੈਡ ਕੋਡਾਂ ਦੇ ਵੇਰਵੇ ਬੇਨਤੀ ਵਿੱਚ ਜਾਂ ਮੁਹੱਈਆ ਕੀਤੇ ਗਏ ਕਾਰੋਬਾਰੀ ਸੇਵਾ ਲਈ ਐਮਡੀਐਮਐਸ ਰਿਕਾਰਡ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹਨ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "pb.baruwal",
-		"message": "ਬੜੂਵਾਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "pb.dabourlower",
-		"message": "ਡਾਬਰ ਘੱਟ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "pb.dabourupper",
-		"message": "ਡਾਬਰ ਉੱਚ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "pb.massewal",
-		"message": "ਮੈਸੇਵਾਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "pb.lodhipur",
-		"message": "ਲੋਧੀਪੁਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "pb.sukhsal",
-		"message": "ਸੁਖਸਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "pb.balewal",
-		"message": "ਬਾਲੇਵਾਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "pb.lalpur",
-		"message": "ਲਾਲਪੁਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "pb.batarla",
-		"message": "ਬਟਾਰਲਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "PDF_STATIC_LABEL_WATER_ACTUAL_COLLECTIONS",
-		"message": "ਅਸਲ ਸੰਗ੍ਰਹਿ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_ACTUAL_PAYMENTS",
-		"message": "ਅਸਲ ਭੁਗਤਾਨ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_ADEQUATE_WATER_SUPPLY",
-		"message": "ਲੋੜੀਂਦੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
-		"message": "ਮਾਤਰਾ (ਸ਼ਬਦਾਂ ਵਿੱਚ)",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_ARREARS",
-		"message": "ਬਕਾਏ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_CONNECTION_ID",
-		"message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_MOBILE_NO",
-		"message": "ਖਪਤਕਾਰ ਮੋਬਾਈਲ ਨੰਬਰ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_NAME",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_ID",
-		"message": "ਬਿੱਲ ਆਈ.ਡੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_ISSUE_DATE",
-		"message": "ਬਿੱਲ ਜਾਰੀ ਕਰਨ ਦੀ ਤਾਰੀਖ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_PERIOD",
-		"message": "ਬਿੱਲ ਦੀ ਮਿਆਦ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BREAKUP_PENDING_WATERCHARGES",
-		"message": "ਹੇਠਾਂ ਕੁਨੈਕਸ਼ਨ ਆਈਡੀ <ਨਵੇਂ ਕੁਨੈਕਸ਼ਨ ਆਈਡੀ> ਲਈ ਬਕਾਇਆ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦਾ ਵਿਛੋੜਾ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_CHARGES",
-		"message": "ਪਾਣੀ ਦੇ ਖਰਚੇ <ਬਿਲਿੰਗ ਸਾਈਕਲ>",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_CHARGES_BILL",
-		"message": "ਵਾਟਰ ਚਾਰਜ ਬਿਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_COLLECTIONS",
-		"message": "ਸੰਗ੍ਰਹਿ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_CONSUMER_ADDRESS",
-		"message": "ਖਪਤਕਾਰ ਦਾ ਪਤਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_CUSTOMER_RATING",
-		"message": "ਖਪਤਕਾਰ ਰੇਟਿੰਗ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_EXPENDITURE",
-		"message": "ਖਰਚਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_GPWSC_NAME",
-		"message": "ਜੀਪੀ ਡਬਲਯੂਐਸਸੀ ਦਾ ਨਾਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_GP_WATER_SUPPLY_SANITATION",
-		"message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਜਲ ਸਪਲਾਈ ਅਤੇ ਸੈਨੀਟੇਸ਼ਨ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_ID",
-		"message": "ਆਈ.ਡੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_METER_NUMBER",
-		"message": "ਮੀਟਰ ਨੰ.",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_METER_READING",
-		"message": "ਮੀਟਰ ਰੀਡਿੰਗ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_METER_READING_DATE",
-		"message": "ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਤਾਰੀਖ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_MONTH_SUMMARY",
-		"message": "ਪਿਛਲਾ ਬਿਲਿੰਗ ਸਾਈਕਲ ਸੰਖੇਪ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_NEW_DEMAND",
-		"message": "ਨਵੀਂ ਮੰਗ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_NEW_EXPENDITURE",
-		"message": "ਨਵਾਂ ਖਰਚਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY",
-		"message": "ਪਿਛਲਾ ਬਿਲਿੰਗ ਸਾਈਕਲ ਸੰਖੇਪ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_QUALITY_WATER_SUPPLY",
-		"message": "ਗੁਣਵੱਤਾ ਵਾਲੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_SERVICE_TYPE",
-		"message": "ਸੇਵਾ ਦੀ ਕਿਸਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_SUMMARY_OF",
-		"message": "ਦਾ ਸੰਖੇਪ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_TOTAL_DUE",
-		"message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_COLLECTIONS",
-		"message": "ਕੁੱਲ ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ (ਸੰਚਤ)",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_EXPENDITURE",
-		"message": "ਕੁੱਲ ਬਕਾਇਆ ਖਰਚਾ (ਸੰਚਤ)",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_USER_FEEDBACK",
-		"message": "ਹੇਠਾਂ ਫੀਡਬੈਕ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
-		"message": "ਮਾਤਰਾ (ਸ਼ਬਦਾਂ ਵਿੱਚ)",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_BUSINESS_SERVICE_WS",
-		"message": "ਵਾਟਰ ਚਾਰਜ ਬਿਲ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY_NM",
-		"message": "ਪਿਛਲੇ ਮਹੀਨੇ ਦਾ ਸੰਖੇਪ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_CHARGES_RECEIPT",
-		"message": "ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੀ ਰਸੀਦ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_RECEIPT_ID",
-		"message": "ਰਸੀਦ ਆਈ.ਡੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_RECEIPT_PERIOD",
-		"message": "ਰਸੀਦ ਦੀ ਮਿਆਦ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_BILL_RECEIPT_DATE",
-		"message": "ਰਸੀਦ ਦੀ ਮਿਤੀ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-			"code": "PDF_PAYMODE_CASH",
-		"message": "ਨਕਦ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "PDF_STATIC_LABEL_WATER_TOTAL_PAID",
-		"message": "ਭੁਗਤਾਨ ਕੀਤੀ ਕੁੱਲ ਰਕਮ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "MGram.Reset.Password RESET_PASSWORD_FIRST_TIME_OTP",
-		"message": "ਐਮ ਗ੍ਰਾਮਸੇਵਾ 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ {otp},, ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "MGram.Reset.Password RESET_PASSWORD_OTP",
-		"message": "ਐਮ ਗ੍ਰਾਮਸੇਵਾ 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ {otp},, ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "mGram.GPUser.CollectionDay",
-		"message": "ਪਿਆਰੇ {ownername},, ਰੁਪਏ. {amount},, ਅੱਜ {date},, {GPWSC},, ਲਈ ਨਕਦ ਵਿੱਚ {no},, ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ.",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 
-		"code": "mGram.GPUser.CollectionDayOnline",
-		"message": "ਪਿਆਰੇ {ownername},, ਰੁਪਏ.{amount},, ਅੱਜ {date},, {GPWSC},, ਲਈ {no},, ਖਪਤਕਾਰਾਂ ਦੀ ਐਨਲਾਈਨ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-}, 		"code": "MGram.User.Invitation",
-		"message": "ਪਿਆਰੇ <ਉਪਭੋਗਤਾ>, ਤੁਹਾਨੂੰ ਪੰਜਾਬ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ <ਲਿੰਕ> ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ. ਉਪਯੋਗਕਰਤਾ ਨਾਂ: <ਫ਼ੋਨ ਨੰਬਰ> ਪਾਸਵਰਡ: <ਪਾਸਵਰਡ>",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.GP.MonthlyDemandGenerated.N",
-		"message": "ਪਿਆਰੇ {ownername},, ਬਿਲਿੰਗ ਸਾਈਕਲ {billingcycle},, ਦੀ ਮੰਗ {GPWSC},, ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਮਿਆਦ ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਉ. {LINK},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.GPUser.CollectionReminder.N",
-		"message": "ਪਿਆਰੇ {ownername},, ਰੁਪਏ. {amount},, {GPWSC},, ਤੇ {Date},, ਦੇ ਅਨੁਸਾਰ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਉਗਰਾਹੀ ਬਕਾਇਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.GPUser.PreviousMonthSummary.N MONTHLY_SUMMARY_SMS_EN_REMINDER",
-		"message": "ਪਿਆਰੇ {user},, ਰੁਪਏ. {PREVIOUS_MONTH_COLLECTION},, {PREVIOUS_MONTH},, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਅਤੇ ਰੁਪਏ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ. {PREVIOUS_MONTH_EXPENSE},, ਨੂੰ {GPWSC},, ਲਈ ਖਰਚੇ ਵਜੋਂ ਖਰਚ ਕੀਤਾ ਗਿਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {link},, ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
-		"message": "ਪਿਆਰੇ <ਉਪਭੋਗਤਾ>, ਰੁਪਏ. <ਰਕਮ> <ਪਿਛਲੇ ਮਹੀਨੇ> ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਅਤੇ ਰੁਪਏ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ. <ਰਕਮ> ਨੂੰ <ਜੀਪੀਡਬਲਯੂਐਸਸੀ> ਲਈ ਖਰਚੇ ਵਜੋਂ ਖਰਚ ਕੀਤਾ ਗਿਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ <ਲਿੰਕ> ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-			"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
-		"message": "<ਜੀਪੀ ਡਬਲਯੂਐਸਸੀ> ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹਨ. ਕਿਰਪਾ ਕਰਕੇ <ਲਿੰਕ> ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਅਦਾਇਗੀ ਵਜੋਂ ਮਾਰਕ ਕਰੋ, ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.Consumer.NewBill.N",
-		"message": "ਪਿਆਰੇ {ownername},, ਅਵਧੀ {billingcycle},, ਲਈ ਨਵਾਂ ਪਾਣੀ ਦਾ ਬਿੱਲ ਖਪਤਕਾਰ ਆਈਡੀ {consumerno},, ਰੁਪਏ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ. {billmaount},,. ਨਵੀਨਤਮ ਬਿੱਲ ਨੂੰ ਡਾਨਲੋਡ ਕਰਨ ਲਈ {BILL_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "INVALID_METER_READING_BILLING_PERIOD",
-		"message": "ਬਿਲਿੰਗ ਪੀਰੀਅਡ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ",
-		"module": "mgramseva-expenses",
-		"locale": "pn_IN"
-
-},
-			"code": "WS_NON_METERED",
-		"message": "ਗੈਰ-ਮੀਟਰਡ ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "WS_METERED",
-		"message": "ਮੀਟਰ ਕੀਤਾ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "RESET_PASSWORD_FIRST_TIME_OTP",
-		"message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "RESET_PASSWORD_FIRST_TIME_OTP",
-		"message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "MGram.Reset.Password",
-		"message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "MGram.Reset.Password RESET_PASSWORD_OTP",
-		"message": "ਐਮ ਗ੍ਰਾਮਸੇਵਾ 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ {otp},, ਹੈ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "MGram.Reset.Password",
-		"message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "RESET_PASSWORD_OTP",
-		"message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "TODAY_COLLECTION_FROM_CASH",
-		"message": "ਪਿਆਰੇ {ownername},, {GPWSC},, ਲਈ ਨਕਦ ਵਿੱਚ {no},, ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਅੱਜ {date},, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ।",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "TODAY_COLLECTION_FROM_ONLINE",
-		"message": "ਪਿਆਰੇ {ownername},, {GPWSC},, ਲਈ ਔਨਲਾਈਨ {no},, ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਅੱਜ {date},, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ।",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "MGram.User.Invitation",
-		"message": "ਪਿਆਰੇ {USER},, ਤੁਹਾਨੂੰ ਪੰਜਾਬ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ {LINK},, ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ। ਉਪਯੋਗਕਰਤਾ ਨਾਮ: {PHNO},,  ਪਾਸਵਰਡ: {PASSWORD},,",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.GP.MonthlyDemandGenerated",
-		"message": "ਪਿਆਰੇ {ownername},, {villagename},, ਲਈ ਬਿਲਿੰਗ ਸਾਈਕਲ {billingcycle},, ਦੀ ਮੰਗ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਮਿਆਦ ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਉ। {LINK},, ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "PENDING_COLLECTION_SMS_EN_REMINDER",
-		"message": "ਪਿਆਰੇ {ownername},, {Date},, ਤੇ {GPWSC},, ਵਿਖੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਰੁਪਏ {amount},, ਦੀ ਉਗਰਾਹੀ ਬਾਕੀ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "mGram.GPUser.CollectionReminder",
-		"message": "ਪਿਆਰੇ {ownername},, {Date},, ਤੇ {GPWSC},, ਵਿਖੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਰੁਪਏ {amount},, ਦੀ ਉਗਰਾਹੀ ਬਾਕੀ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.GPUser.PreviousMonthSummary.N MONTHLY_SUMMARY_SMS_EN_REMINDER",
-		"message": "ਪਿਆਰੇ {user},, ਰੁਪਏ. {PREVIOUS_MONTH_COLLECTION},, {PREVIOUS_MONTH},, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਅਤੇ ਰੁਪਏ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ. {PREVIOUS_MONTH_EXPENSE},, ਨੂੰ {GPWSC},, ਲਈ ਖਰਚੇ ਵਜੋਂ ਖਰਚ ਕੀਤਾ ਗਿਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {link},, ਤੇ ਕਲਿਕ ਕਰੋ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
-		"message": "ਪਿਆਰੇ {user},, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ {PREVIOUS_MONTH},, ਵਿੱਚ {PREVIOUS_MONTH_COLLECTION},, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ, ਅਤੇ {GPWSC},, ਦੇ ਖਰਚੇ ਵਜੋਂ {PREVIOUS_MONTH_EXPENSE},, ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {LINK},, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
-		"message": "ਕਿਰਪਾ ਕਰਕੇ {GPWSC},, ਲਈ ਨਵੇਂ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲ ਆਨਲਾਈਨ ਦਾਖਲ ਕਰੋ। ਹੁਣੇ ਖਰਚੇ ਦੀ ਐਂਟਰੀ ਕਰਨ ਲਈ {NEW_EXP_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "mGram.GPUser.EnterExpense",
-		"message": "ਕਿਰਪਾ ਕਰਕੇ {GPWSC},, ਲਈ ਨਵੇਂ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲ ਆਨਲਾਈਨ ਦਾਖਲ ਕਰੋ। ਹੁਣੇ ਖਰਚੇ ਦੀ ਐਂਟਰੀ ਕਰਨ ਲਈ {NEW_EXP_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.GPUser.MarkExpense",
-		"message": "GPWSC},, ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੈ। ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ {EXP_MRK_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਦੀ  ਅਦਾਇਗੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ।  ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "MARK_PAID_BILL_SMS_EN_REMINDER",
-		"message": "GPWSC},, ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੈ। ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ {EXP_MRK_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਦੀ  ਅਦਾਇਗੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ।  ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.Consumer.NewBill",
-		"message": "ਪਿਆਰੇ {ownername},, ਬਿਲਿੰਗ ਸਾਈਕਲ {Period},, ਲਈ ਨਵਾਂ ਪਾਣੀ ਦਾ ਬਿੱਲ ਖਪਤਕਾਰ ਆਈਡੀ {consumerno},, ਲਈ {billamount},, ਰੁਪਏ ਦਾ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਨਵੀਨਤਮ ਬਿੱਲ ਡਾ ਦਾਊਂਲੋੜ ਕਰਨ ਲਈ {BILL_LINK},, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-
-	
-		"code": "mGram.Consumer.DownloadReceipt",
-		"message": "ਪਿਆਰੇ {ownername},, ਰੁਪਏ {Amountpaid},, ਦਾ ਭੁਗਤਾਨ ਖਪਤਕਾਰ ਆਈਡੀ {consumercode},, ਦੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ ਕੀਤਾ ਗਿਆ ਹੈ। ਬਕਾਇਆ ਰਾਸ਼ੀ ਰੁਪਏ {pendingamount},, ਹੈ।  ਰਸੀਦ ਡਾ ਦਾਊਂਲੋੜ ਕਰਨ ਲਈ {RECEIPT_LINK},, 'ਤੇ ਕਲਿਕ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
-	
-		"code": "mGram.Consumer.TakeSurvey",
-		"message": "ਪਿਆਰੇ {ownername},, ਪਾਣੀ ਦੇ ਖਰਚੇ ਅਦਾ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਛੋਟਾ ਸਰਵੇਖਣ {SURVEY_LINK},, ਲਓ ਅਤੇ {GPWSC},, ਤੇ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਬਾਰੇ ਹੋਰ ਜਾਣਨ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ। ",
-		"module": "mgramseva-common",
-		"locale": "pn_IN"
-
-},
+[
         {
-            "code": "CORE_EXPENSE_EXPENSE_DETAILS",
-            "message": "ਖਰਚੇ ਦੇ ਵੇਰਵੇ",
+            "code": " as ",
+            "message": " ਜਿਵੇਂ ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "10101",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ADD_EXPENSES_RECORD",
+            "message": "ਖਰਚੇ ਦਾ ਰਿਕਾਰਡ ਸ਼ਾਮਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ADD_EXPENSE_RECORD_MSG",
+            "message": "ਇੱਕ ਨਵਾਂ ਖਰਚਾ ਬਿੱਲ ਜਿਵੇਂ ਬਿਜਲੀ, ਰੱਖ -ਰਖਾਵ ਆਦਿ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ADD_NEW_EXPENSE",
+            "message": "ਨਵਾਂ ਖਰਚਾ ਸ਼ਾਮਲ ਕਰੋ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "CORE_EXPENSE_PROVIDE_INFO_TO_CREATE_EXPENSE",
-            "message": "ਇੱਕ ਨਵਾਂ ਖਰਚਾ ਰਿਕਾਰਡ ਬਣਾਉ.",
-            "module": "mgramseva-expenses",
+            "code": "ALL",
+            "message": "ਸਾਰੇ",
+            "module": "mgramseva-dashboard",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
-            "message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
-            "module": "mgramseva-expenses",
+            "code": "ALL_NOTIFICATIONS",
+            "message": "ਸਾਰੀਆਂ ਸੂਚਨਾਵਾਂ",
+            "module": "mgramseva-common",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "ELECTRICITY_BILL",
-            "message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
-        {
-            "code": "OM",
-            "message": "ਸੰਚਾਲਨ ਅਤੇ ਰੱਖ -ਰਖਾਵ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
-        {
-            "code": "SALARY",
-            "message": "ਤਨਖਾਹ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
-        {
-            "code": "MISC",
-            "message": "ਫੁਟਕਲ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
-        {
-            "code": "CORE_EXPENSE_VENDOR_NAME",
-            "message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
-        {
-            "code": "CORE_EXPENSE_AMOUNT",
+            "code": "AMOUNT",
             "message": "ਦੀ ਰਕਮ",
-            "module": "mgramseva-expenses",
+            "module": "mgramseva-common",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "CORE_EXPENSE_BILL_DATE",
-            "message": "ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
+            "code": "AMOUNT_MENTIONED_IN_THE_BILL",
+            "message": "ਬਿੱਲ ਵਿੱਚ ਦਰਸਾਈ ਗਈ ਰਕਮ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "CORE_EXPENSE_PART_BILL_DATE",
-            "message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
-            "module": "mgramseva-expenses",
+            "code": "APR",
+            "message": "ਅਪ੍ਰੈਲ",
+            "module": "mgramseva-common",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "HAS_THIS_BILL_PAID",
-            "message": "ਕੀ ਇਹ ਬਿੱਲ ਅਦਾ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ?",
-            "module": "mgramseva-expenses",
+            "code": "APR ",
+            "message": "ਅਪ੍ਰੈਲ",
+            "module": "mgramseva-common",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "YES",
-            "message": "ਹਾਂ",
-            "module": "mgramseva-expenses",
+            "code": "ARREARS",
+            "message": "ਬਕਾਏ",
+            "module": "mgramseva-payments",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "NO",
-            "message": "ਨਹੀਂ",
-            "module": "mgramseva-expenses",
+            "code": "ARRERS_DUES",
+            "message": "ਬਕਾਏ",
+            "module": "mgramseva-bill",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "CORE_EXPENSE_PAYMENT_DATE",
-            "message": "ਭੁਗਤਾਨ ਦੀ ਮਿਤੀ",
-            "module": "mgramseva-expenses",
+            "code": "AS_OF_DATE",
+            "message": "ਤਾਰੀਖ ਦੇ ਅਨੁਸਾਰ",
+            "module": "mgramseva-common",
             "locale": "pn_IN"
-},,,
-
+        },
         {
             "code": "ATTACH_BILL",
             "message": "ਬਿਲ ਨੱਥੀ ਕਰੋ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
-
+        },
         {
-            "code": "NO_FILE_UPLOADED",
-            "message": "ਕੋਈ ਫ਼ਾਈਲ ਨਹੀਂ ਚੁਣੀ ਗਈ",
+            "code": "ATTACH_BILL",
+            "message": "ਫਾਈਲ ਚੁਣੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "AUG",
+            "message": "ਅਗਸਤ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "AUG ",
+            "message": "ਅਗਸਤ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Apr",
+            "message": "ਅਪ੍ਰੈਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Aug",
+            "message": "ਅਗਸਤ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BACK",
+            "message": "ਵਾਪਸ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILLING_SERVICE_ERROR",
+            "message": "ਬਿੱਲ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ, ਅਗਿਆਤ ਗੜਬੜ ਹੋ ਗਈ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
-        {
-            "code": "CORE_COMMON_BUTTON_SUBMIT",
-            "message": "ਜਮ੍ਹਾਂ ਕਰੋ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
-        {
-            "code": "ENTER_VALID_AMOUNT",
-            "message": "ਇੱਕ ਵੈਧ ਰਕਮ ਦਾਖਲ ਕਰੋ",
-            "module": "mgramseva-expenses",
-            "locale": "pn_IN"
-},,,
-
+        },
         {
             "code": "BILL_DATE_CANNOT_BEFORE_PART_DATE",
             "message": "ਬਿੱਲ ਦੀ ਮਿਤੀ ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ ਨਹੀਂ ਹੋ ਸਕਦੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
             "code": "BILL_DATE_CANNOT_GREATER_THAN_TODAY",
             "message": "ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "PARTY_BILL_DATE_CANNOT_GREATER_THAN_TODAY",
-            "message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "code": "BILL_DETAILS",
+            "message": "ਬਿੱਲ ਵੇਰਵੇ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_DOWNLOAD",
+            "message": "ਬਿੱਲ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_GENERATED_SUCCESSFULLY_LABEL",
+            "message": "ਬਿੱਲ ਸਫਲਤਾਪੂਰਵਕ ਤਿਆਰ ਕੀਤਾ ਗਿਆ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_GENERATED_SUCCESS_SUBTEXT",
+            "message": "ਬਿਲ ਸੰਦਰਭ ਨੰਬਰ ਦੇ ਨਾਲ ਇੱਕ ਐਸਐਮਐਸ ਅਤੇ ਨਲਾਈਨ ਭੁਗਤਾਨ ਦਾ ਲਿੰਕ ਖਪਤਕਾਰਾਂ ਦੇ ਮੋਬਾਈਲ ਨੰਬਰ <number> ਤੇ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_HINT",
+            "message": "ਜਿਵੇਂ ਕਿ ਈਬੀ -2021-22/08/21/0123",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "PAYMENT_DATE_CANNOT_GREATER_THAN_TODAY",
-            "message": "ਭੁਗਤਾਨ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "code": "BILL_ID",
+            "message": "ਬਿੱਲ ਆਈ.ਡੀ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_ID",
+            "message": "ਬਿੱਲ ਆਈ.ਡੀ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_ID",
+            "message": "ਬਿੱਲ ਆਈ.ਡੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "PAYMENT_DATE_CANNOT_BEFORE_PARTY_DATE",
-            "message": "ਭੁਗਤਾਨ ਦੀ ਮਿਤੀ ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "code": "BILL_ID_NO",
+            "message": "ਬਿੱਲ ਆਈਡੀ ਨੰ.",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_ID_NUMBER",
+            "message": "ਬਿੱਲ ਆਈਡੀ ਨੰਬਰ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_ID_VENDOR",
+            "message": "ਬਿੱਲ ਆਈਡੀ - ਵਿਕਰੇਤਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BILL_PERIOD",
+            "message": "ਬਿੱਲ ਦੀ ਮਿਆਦ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BL_10101",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚੇ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BL_10102",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚੇ-ਬਕਾਏ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CAMERA",
+            "message": "ਕੈਮਰਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CASH",
+            "message": "ਨਕਦ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CHANGE_PASSWORD_SUCCESS_LABEL",
+            "message": "ਪਾਸਵਰਡ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CHANGE_PASSWORD_SUCCESS_SUB_TEXT",
+            "message": "ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਫ਼ੋਨ ਨੰਬਰ ਅਤੇ ਨਵੇਂ ਪਾਸਵਰਡ ਨਾਲ ਲੌਗਇਨ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CHOOSE_AN_ACTION",
+            "message": "ਕੋਈ ਕਾਰਵਾਈ ਚੁਣੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CHOOSE_FILE",
+            "message": "ਕੋਈ ਫ਼ਾਈਲ ਨਹੀਂ ਚੁਣੀ ਗਈ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},,,
-
+        },
         {
-            "code": "HOUSE_DETAILS_EDIT",
-            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਸੰਪਾਦਿਤ ਕਰੋ",
+            "code": "COLLECTIONS",
+            "message": "ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "COLLECT_PAYMENT",
+            "message": "ਭੁਗਤਾਨ ਇਕੱਠਾ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "COLLECT_PAYMENT",
+            "message": "ਭੁਗਤਾਨ ਇਕੱਠਾ ਕਰੋ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "COLLECT_PAYMENTS_MSG",
+            "message": "ਇੱਕ ਖਪਤਕਾਰ ਦੀ ਖੋਜ ਕਰਨ ਅਤੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ ਭੁਗਤਾਨ ਇਕੱਠਾ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "COMMERCIAL",
+            "message": "ਵਪਾਰਕ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "COMMERCIAL",
+            "message": "ਵਪਾਰਕ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,,
-
-
+        },
+        {
+            "code": "CONFIRM_PASSWORD_ENTER",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONFIRM_RECONFIRM_SHOULD_SAME",
+            "message": "ਨਵਾਂ ਪਾਸਵਰਡ ਅਤੇ ਪੁਸ਼ਟੀ ਕਰੋ ਪਾਸਵਰਡ ਇਕੋ ਜਿਹਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_CRITERIA",
+            "message": "ਨਿਮਨਲਿਖਤ ਉਪਭੋਗਤਾ ਖੋਜ ਮਾਪਦੰਡ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਹਨ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_DETAILS_PARSE_ERROR",
+            "message": "ਵਧੀਕ ਵੇਰਵਾ ਜੇਸਨ ਨੂੰ ਕਨੈਕਸ਼ਨ ਦਾ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ:",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_FOUND",
+            "message": "ਖਪਤਕਾਰ ਮਿਲੇ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_FOUND_ONE",
+            "message": "ਖਪਤਕਾਰ ਮਿਲਿਆ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_ID",
+            "message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_ID",
+            "message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONNECTION_NOT_FOUND",
+            "message": "ਖੋਜ ਤੋਂ ਅਰਜ਼ੀ ਨੰਬਰ: {} ਅਤੇ ਅਪਡੇਟ ਤੋਂ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_ARREARS",
+            "message": "ਬਕਾਏ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_ARREARS_MSG",
+            "message": "ਖਪਤਕਾਰ ਨੂੰ <ਮਿਤੀ> ਤੱਕ ਭੁਗਤਾਨ ਕਰਨ ਵਾਲੀ ਰਕਮ ਸ਼ਾਮਲ ਕਰੋ.",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_BILLING_CYCLE",
+            "message": "ਆਖਰੀ ਬਿਲ ਕੀਤਾ ਸਾਈਕਲ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_BILLING_CYCLE_REQUIRED",
+            "message": "ਖਪਤਕਾਰ ਬਿਲਿੰਗ ਸਾਈਕਲ ਦੀ ਲੋੜ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_BILL_RECIEPTS_LABEL",
+            "message": "ਖਪਤਕਾਰ ਪ੍ਰਾਪਤੀਆਂ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_BILL_RECIEPT_ID",
+            "message": "ਰਸੀਦ ਆਈ.ਡੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_CONNECTION_ID",
+            "message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ:",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
         {
             "code": "CONSUMER_DETAILS_EDIT_SUB_LABEL",
             "message": "ਕਿਰਪਾ ਕਰਕੇ ਖਪਤਕਾਰਾਂ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੋਧੋ ਅਤੇ ਸਫਲਤਾਪੂਰਵਕ ਵੇਰਵਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ 'ਜਮ੍ਹਾਂ ਕਰੋ' ਤੇ ਕਲਿਕ ਕਰੋ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,,
-
-
+        },
         {
-            "code": "NO_FIELDS_FILLED",
-            "message": "ਕੋਈ ਖੇਤਰ ਨਹੀਂ ਭਰੇ",
-            "module": "mgramseva-expenses",
+            "code": "CONSUMER_DETAILS_LABEL",
+            "message": "ਖਪਤਕਾਰ ਵੇਰਵੇ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-		
-
+        },
         {
-            "code": "RESET_PASSWORD_FIRST_TIME_OTP",
-            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,
-            "module": "mgramseva-common",
+            "code": "CONSUMER_DETAILS_SUB_LABEL",
+            "message": "ਇੱਕ ਨਵਾਂ ਖਪਤਕਾਰ ਰਿਕਾਰਡ ਬਣਾਉ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
-
+        },
         {
-            "code": "RESET_PASSWORD_FIRST_TIME_OTP",
-            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,
-            "module": "mgramseva-common",
+            "code": "CONSUMER_DOOR_NO",
+            "message": "ਦਰਵਾਜ਼ਾ ਨੰਬਰ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
-
+        },
         {
-            "code": "MGram.Reset.Password",
-            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,
-            "module": "mgramseva-common",
+            "code": "CONSUMER_EDIT_DETAILS_LABEL",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਸੰਪਾਦਿਤ ਕਰੋ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "MGram.Reset.Password RESET_PASSWORD_OTP",
-            "message": "ਐਮ ਗ੍ਰਾਮਸੇਵਾ 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ {otp}, ਹੈ",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_EDIT_DETAILS_SUB_LABEL",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਖਪਤਕਾਰਾਂ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੋਧੋ ਅਤੇ ਸਫਲਤਾਪੂਰਵਕ ਵੇਰਵਿਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ 'ਜਮ੍ਹਾਂ ਕਰੋ' ਤੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
-
+        },
         {
-            "code": "MGram.Reset.Password",
-            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,
-            "module": "mgramseva-common",
+            "code": "CONSUMER_FATHER_MSG",
+            "message": "ਖਪਤਕਾਰ ਦੇ ਪਿਤਾ ਦਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
+        },
         {
-            "code": "RESET_PASSWORD_OTP",
-            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp},,
-            "module": "mgramseva-common",
+            "code": "CONSUMER_FATHER_SPOUSE_NAME",
+            "message": "ਜੀਵਨ ਸਾਥੀ/ਮਾਪਿਆਂ ਦਾ ਨਾਮ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "TODAY_COLLECTION_FROM_CASH",
-            "message": "ਪਿਆਰੇ {ownername},, {GPWSC}, ਲਈ ਨਕਦ ਵਿੱਚ {no}, ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਅੱਜ {date}, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ। EGOVS",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
+            "message": "ਜੀਵਨ ਸਾਥੀ/ਮਾਪਿਆਂ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "TODAY_COLLECTION_FROM_ONLINE",
-            "message": "ਪਿਆਰੇ {ownername},, {GPWSC}, ਲਈ ਔਨਲਾਈਨ {no}, ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਅੱਜ {date}, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ। EGOVS",
+            "code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
+            "message": "ਪਿਤਾ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "MGram.User.Invitation",
-            "message": "ਪਿਆਰੇ {USER},, ਤੁਹਾਨੂੰ ਪੰਜਾਬ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ {LINK}, ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ। ਉਪਯੋਗਕਰਤਾ ਨਾਮ: {PHNO},  ਪਾਸਵਰਡ: {PASSWORD}, EGOVS",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_GENDER_MSG",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਲਿੰਗ ਚੁਣੋ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "mGram.GP.MonthlyDemandGenerated",
-            "message": "ਪਿਆਰੇ {ownername},, {villagename}, ਲਈ ਬਿਲਿੰਗ ਸਾਈਕਲ {billingcycle}, ਦੀ ਮੰਗ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਮਿਆਦ ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਉ। {LINK},  EGOVS",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_GP_NAME",
+            "message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦਾ ਨਾਮ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "PENDING_COLLECTION_SMS_EN_REMINDER",
-            "message": "ਪਿਆਰੇ {ownername},, {Date}, ਤੇ {GPWSC}, ਵਿਖੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਰੁਪਏ {amount}, ਦੀ ਉਗਰਾਹੀ ਬਾਕੀ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "code": "CONSUMER_GP_NAME",
+            "message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦਾ ਨਾਮ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},,
-                 
-
-
-
-
+        },
         {
-            "code": "mGram.GPUser.CollectionReminder",
-            "message": "ਪਿਆਰੇ {ownername},, {Date}, ਤੇ {GPWSC}, ਵਿਖੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਰੁਪਏ {amount}, ਦੀ ਉਗਰਾਹੀ ਬਾਕੀ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_METER_NUMBER",
+            "message": "ਮੀਟਰ ਨੰਬਰ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-                                                                                                                                                                                                                                                                                                                    "
-
-
+        },
         {
-            "code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
-            "message": "ਪਿਆਰੇ {user},, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ {PREVIOUS_MONTH}, ਵਿੱਚ {PREVIOUS_MONTH_COLLECTION}, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ, ਅਤੇ {GPWSC}, ਦੇ ਖਰਚੇ ਵਜੋਂ {PREVIOUS_MONTH_EXPENSE}, ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_METER_NUMBER_REQUIRED",
+            "message": "ਮੀਟਰ ਨੰਬਰ ਲੋੜੀਂਦਾ ਹੈ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
-
-
+        },
         {
-            "code": "mGram.GPUser.PreviousMonthSummary",
-            "message": "ਪਿਆਰੇ {user},, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ {PREVIOUS_MONTH}, ਵਿੱਚ {PREVIOUS_MONTH_COLLECTION}, ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ, ਅਤੇ {GPWSC}, ਦੇ ਖਰਚੇ ਵਜੋਂ {PREVIOUS_MONTH_EXPENSE}, ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_MOBILE_MSG",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
-
+        },
         {
-            "code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
-            "message": "ਕਿਰਪਾ ਕਰਕੇ {GPWSC}, ਲਈ ਨਵੇਂ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲ ਆਨਲਾਈਨ ਦਾਖਲ ਕਰੋ। ਹੁਣੇ ਖਰਚੇ ਦੀ ਐਂਟਰੀ ਕਰਨ ਲਈ {NEW_EXP_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_NAME",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
+            "module": "mgramseva-payments",
             "locale": "pn_IN"
-},,
-
-
-
-
+        },
         {
-            "code": "mGram.GPUser.EnterExpense",
-            "message": "ਕਿਰਪਾ ਕਰਕੇ {GPWSC}, ਲਈ ਨਵੇਂ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲ ਆਨਲਾਈਨ ਦਾਖਲ ਕਰੋ। ਹੁਣੇ ਖਰਚੇ ਦੀ ਐਂਟਰੀ ਕਰਨ ਲਈ {NEW_EXP_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। ",
-            "module": "mgramseva-common",
+            "code": "CONSUMER_NAME_MSG",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ ਦਰਜ ਕਰਕੇ ਇੱਕ ਖਪਤਕਾਰ ਰਿਕਾਰਡ ਬਣਾਉਣਾ ਅਰੰਭ ਕਰੋ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},,
-
-
-
+        },
         {
-            "code": "mGram.GPUser.MarkExpense",
-            "message": "GPWSC}, ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੈ। ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ {EXP_MRK_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਦੀ  ਅਦਾਇਗੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ।  EGOVS",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-
-
-
-
-        {
-            "code": "MARK_PAID_BILL_SMS_EN_REMINDER",
-            "message": "GPWSC}, ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੈ। ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ {EXP_MRK_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਦੀ  ਅਦਾਇਗੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ।  EGOVS",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-
-
-
-        {
-            "code": "mGram.Consumer.NewBill",
-            "message": "ਪਿਆਰੇ {ownername},, ਬਿਲਿੰਗ ਸਾਈਕਲ {Period}, ਲਈ ਨਵਾਂ ਪਾਣੀ ਦਾ ਬਿੱਲ ਖਪਤਕਾਰ ਆਈਡੀ {consumerno}, ਲਈ {billamount}, ਰੁਪਏ ਦਾ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਨਵੀਨਤਮ ਬਿੱਲ ਡਾ ਦਾਊਂਲੋੜ ਕਰਨ ਲਈ {BILL_LINK}, ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-
-
-
-
-        {
-            "code": "mGram.Consumer.DownloadReceipt",
-            "message": "ਪਿਆਰੇ {ownername},, ਰੁਪਏ {Amountpaid}, ਦਾ ਭੁਗਤਾਨ ਖਪਤਕਾਰ ਆਈਡੀ {consumercode}, ਦੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ ਕੀਤਾ ਗਿਆ ਹੈ। ਬਕਾਇਆ ਰਾਸ਼ੀ ਰੁਪਏ {pendingamount}, ਹੈ।  ਰਸੀਦ ਡਾ ਦਾਊਂਲੋੜ ਕਰਨ ਲਈ {RECEIPT_LINK}, 'ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-
-
-
-        {
-            "code": "mGram.Consumer.TakeSurvey",
-            "message": "ਪਿਆਰੇ {ownername},, ਪਾਣੀ ਦੇ ਖਰਚੇ ਅਦਾ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਛੋਟਾ ਸਰਵੇਖਣ {SURVEY_LINK}, ਲਓ ਅਤੇ {GPWSC}, ਤੇ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਬਾਰੇ ਹੋਰ ਜਾਣਨ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ। EGOVS",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},
-{
-            "code": "CAMERA",
-            "message": "ਕੈਮਰਾ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-{
-            "code": "FILE_MANAGER",
-            "message": "ਫਾਈਲਾਂ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-{
-            "code": "FILE_SIZE",
-            "message": "ਸਿਰਫ .jpg ਅਤੇ .pdf ਫਾਈਲਾਂ. 5MB ਅਧਿਕਤਮ ਫਾਈਲ ਅਕਾਰ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},,
-{
-            "code": "CHOOSE_AN_ACTION",
-            "message": "ਕੋਈ ਕਾਰਵਾਈ ਚੁਣੋ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},
-{
-            "code": "name",
-            "message": "ਨਾਮ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},
-{
-            "code": "connectionNumber",
-            "message": "ਨਵੀਂ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},
-{
-            "code": "oldConnectionNumber",
+            "code": "CONSUMER_OLD_CONNECTION_ID",
             "message": "ਪੁਰਾਣੀ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_OLD_ID_MSG",
+            "message": "ਪੁਰਾਣਾ ਕੁਨੈਕਸ਼ਨ ਆਈਡੀ ਨੰਬਰ ਦਾਖਲ ਕਰੋ. ਉਦਾਹਰਣ 105",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_PREV_METER_READING_DATE",
+            "message": "ਪਿਛਲੀ ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਮਿਤੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_PREV_METER_READING_DATE_REQUIRED",
+            "message": "ਪਿਛਲੀ ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਤਾਰੀਖ ਲੋੜੀਂਦੀ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_PROPERTY_TYPE",
+            "message": "ਰਿਹਾਇਸ਼ੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_PROPERTY_TYPE_MSG",
+            "message": "ਰਿਹਾਇਸ਼ੀ / ਵਪਾਰਕ ਕਿਸਮ ਦੀ ਸੰਪਤੀ ਵਿੱਚੋਂ ਇੱਕ ਦੀ ਚੋਣ ਕਰੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_PROPERTY_TYPE_REQUIRED",
+            "message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ ਲੋੜੀਂਦੀ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_PROPERTY_TYPE_REQUIRED",
+            "message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ ਲੋੜੀਂਦੀ ਹੈ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-{
-            "code": " as ",
-            "message": " ਜਿਵੇਂ ",
-            "module": "mgramseva-common",
-            "locale": "pn_IN"
-},
+        },
         {
-            "code": "SURVEY_REQUEST",
-            "message": "ਪਿਆਰੇ {ਉਪਭੋਗਤਾ}, ਅਪਣੇ ਪਾਣੀ ਦੇ ਬਿਲ ਦਾ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਧੰਨਵਾਦ। ਕਿਰਪਾ ਕਰਕੇ {GPWSC} ਵਿਖੇ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਦੀ ਸਹੂਲਤਾਂ ਨੂੰ ਬਿਹਤਰ ਬਣਾਂ ਲਈ ਇਕ ਛੋਟਾ ਸਰਵੇ ਦਵੋ।",
-            "module": "mgramseva-feedback",
+            "code": "CONSUMER_RECIEPT_PAID_AMOUNT",
+            "message": "ਦੀ ਰਕਮ",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "HELP_US_HELP_YOU",
-            "message": "ਅਪਣੀ ਮਦਦ ਲਈ ਅਪਣਾ ਸਹਯੋਗ ਦੋ",
-            "module": "mgramseva-feedback",
-            "locale": "pn_IN"
-},
-
-        {
-            "code": "HAPPY_WITH_WATER_SUPPLY",
-            "message": "ਕੀ ਤੁਸੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਤੋਂ ਖੁਸ਼ ਹੋ?",
-            "module": "mgramseva-feedback",
-            "locale": "pn_IN"
-},
-
-        {
-            "code": "IS_WATER_SUPPLY_REGULAR",
-            "message": "ਕੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਨਿਯਮਿਤ ਹੈ?",
-            "module": "mgramseva-feedback",
-            "locale": "pn_IN"
-},
-
-        {
-            "code": "IS_WATER_QUALITY_GOOD",
-            "message": "ਕੀ ਪਾਣੀ ਦੀ ਗੁਣਵੱਤਾ ਚੰਗੀ ਹੈ?",
-            "module": "mgramseva-feedback",
-            "locale": "pn_IN"
-},
-
-        {
-            "code": "FEED_BACK_SUBMITTED_SUCCESSFULLY",
-            "message": "ਫੀਡਬੈਕ ਸਫ਼ਲਤਾਪੂਰਵਕ ਦਿੱਤਾ ਗਿਆ।",
-            "module": "mgramseva-feedback",
-            "locale": "pn_IN"
-},
-
-        {
-            "code": "FEEDBACK_RESPONSE_SUBMITTED_SUCCESSFULLY",
-            "message": "ਫੀਡਬੈਕ ਦੇਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਤੁਹਾਡਾ ਜਵਾਬ ਸਫਲਤਾਪੂਰਵਕ ਸੌੰਪਾ ਗਯਾ।",
-            "module": "mgramseva-feedback",
-            "locale": "pn_IN"
-},
-
-        {
-            "code": "PAID_DATE",
+            "code": "CONSUMER_RECIEPT_PAID_DATE",
             "message": "ਭੁਗਤਾਨ ਦੀ ਤਾਰੀਖ",
-            "module": "mgramseva-feedback",
+            "module": "mgramseva-consumer",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "ROWS_PER_PAGE",
-            "message": "ਕਤਾਰਾਂ ਪ੍ਰਤੀ ਪੰਨਾ",
+            "code": "CONSUMER_RECIEPT_SHARE_RECEIPT",
+            "message": "ਸ਼ੇਅਰ ਰਸੀਦ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_REGISTER_SUCCESS_LABEL",
+            "message": "ਖਪਤਕਾਰ ਰਚਨਾ ਸਫਲ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_SERVICE_TYPE",
+            "message": "ਗੈਰ-ਮੀਟਰਡ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_SERVICE_TYPE_MSG",
+            "message": "ਚੁਣੋ ਕਿ ਕੀ ਕੁਨੈਕਸ਼ਨ ਮੀਟਰਡ ਹੈ ਜਾਂ ਨਾਨ-ਮੀਟਰਡ ਹੈ.",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_SERVICE_TYPE_REQUIRED",
+            "message": "ਸੇਵਾ ਦੀ ਕਿਸਮ ਲੋੜੀਂਦੀ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_SERVICE_TYPE_REQUIRED",
+            "message": "ਸੇਵਾ ਦੀ ਕਿਸਮ ਲੋੜੀਂਦੀ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_STREETNUM_STREETNAME",
+            "message": "ਗਲੀ ਦਾ ਨਾਮ/ਨੰਬਰ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_UPDATED_SUCCESS_LABEL",
+            "message": "ਖਪਤਕਾਰ ਸਫਲਤਾਪੂਰਵਕ ਅਪਡੇਟ ਕੀਤਾ ਗਿਆ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_WARD_LABEL",
+            "message": "ਵਾਰਡ ਦਾ ਨਾਮ/ਨੰਬਰ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_WARD_MSG",
+            "message": "ਵਾਰਡ ਦੀ ਚੋਣ ਕਰੋ ਜਿੱਥੇ ਖਪਤਕਾਰ ਰਹਿੰਦਾ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONTINUE_TO_LOGIN",
+            "message": "ਲੌਗਇਨ ਕਰਨਾ ਜਾਰੀ ਰੱਖੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_CHANGEPASSWORD_EXISTINGPASSWORD",
+            "message": "ਵਰਤਮਾਨ ਪਾਸਵਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_CHANGEPASSWORD_EXISTINGPASSWORD_REQUIRED",
+            "message": "ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਲੋੜੀਂਦਾ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_CHANGEPASSWORD_PASSWORD_HINT",
+            "message": "ਪਾਸਵਰਡ ਸੰਕੇਤ",
             "module": "mgramseva-feedback",
             "locale": "pn_IN"
-},
-
+        },
         {
             "code": "CORE_CHANGEPASSWORD_PASSWORD_HINT",
             "message": "ਪਾਸਵਰਡ ਸੰਕੇਤ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_MIN_SIX_DIGITS",
-            "message": "ਘੱਟੋ ਘੱਟ 6 ਅੰਕ",
+            "code": "CORE_COLLECT_PAYMENTS",
+            "message": "ਭੁਗਤਾਨ ਇਕੱਠੇ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_ATLEAST_ONE_LETTER",
-            "message": "ਘੱਟੋ ਘੱਟ 1 ਅੱਖਰ",
+            "code": "CORE_COMMON_BACK_HOME_BUTTON",
+            "message": "ਘਰ ਵਾਪਸ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_ATLEAST_ONE_NUMBER",
-            "message": "ਘੱਟੋ ਘੱਟ 1 ਨੰਬਰ",
-            "module": "mgramseva-common",
+            "code": "CORE_COMMON_BACK_HOME_BUTTON",
+            "message": "ਘਰ ਵਾਪਸ",
+            "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_ATLEAST_ONE_SPECIAL_CHARACTER",
-            "message": "ਘੱਟੋ ਘੱਟ 1 ਵਿਸ਼ੇਸ਼ ਪਾਤਰ",
-            "module": "mgramseva-common",
+            "code": "CORE_COMMON_BUTTON_SUBMIT",
+            "message": "ਜਮ੍ਹਾਂ ਕਰੋ",
+            "module": "mgramseva-expenses",
             "locale": "pn_IN"
-},
-
+        },
+        {
+            "code": "CORE_COMMON_BUTTON_SUBMIT",
+            "message": "ਜਮ੍ਹਾਂ ਕਰੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
         {
             "code": "CORE_COMMON_CHANGE_PASSWORD",
             "message": "ਪਾਸਵਰਡ ਬਦਲੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASSWORD_HINT_LABEL",
-            "message": "ਪਾਸਵਰਡ ਸੰਕੇਤ",
+            "code": "CORE_COMMON_CONFIRM_NEW_PASSWORD",
+            "message": "ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_MIN_SIX_DIGITS",
-            "message": "ਘੱਟੋ ਘੱਟ 6 ਅੰਕ",
+            "code": "CORE_COMMON_CONTINUE",
+            "message": "ਜਾਰੀ ਰੱਖੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_ATLEAST_ONE_LETTER",
-            "message": "ਘੱਟੋ ਘੱਟ 1 ਅੱਖਰ",
+            "code": "CORE_COMMON_EDIT_PROFILE",
+            "message": "ਸੋਧ ਪ੍ਰੋਫ਼ਾਈਲ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_ATLEAST_ONE_NUMBER",
-            "message": "ਘੱਟੋ ਘੱਟ 1 ਨੰਬਰ",
+            "code": "CORE_COMMON_EMAIL",
+            "message": "ਈਮੇਲ ਆਈਡੀ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
         {
-            "code": "CORE_PASS_HINT_ATLEAST_ONE_SPECIAL_CHARACTER",
-            "message": "ਘੱਟੋ ਘੱਟ 1 ਵਿਸ਼ੇਸ਼ ਪਾਤਰ",
+            "code": "CORE_COMMON_FORGOT_PASSWORD",
+            "message": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-},
-
+        },
+        {
+            "code": "CORE_COMMON_GENDER",
+            "message": "ਲਿੰਗ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_GENDER_FEMALE",
+            "message": "ਰਤ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_GENDER_MALE",
+            "message": "ਮਰਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_GENDER_TRANSGENDER",
+            "message": "ਟਰਾਂਸਜੈਂਡਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_HOME",
+            "message": "ਘਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_HOMEL",
+            "message": "ਘਰ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_HOMEL",
+            "message": "ਘਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_LANGUAGE",
+            "message": "ਭਾਸ਼ਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_LOGIN",
+            "message": "ਲਾਗਿਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_LOGOUT",
+            "message": "ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_MGRAM_SEVA_LABEL",
+            "message": "ਮੀ ਗ੍ਰਾਮ ਸੇਵਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_MOBILE_NUMBER",
+            "message": "ਮੋਬਾਈਲ ਨੰਬਰ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_NAME",
+            "message": "ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_NEW_PASSWORD",
+            "message": "ਨਵਾਂ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_PHONE_NUMBER",
+            "message": "ਫੋਨ ਨੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_PHONE_NUMBER_REQUIRED",
+            "message": "ਫ਼ੋਨ ਨੰਬਰ ਜ਼ਰੂਰੀ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_COMMON_RESEND_OTP",
+            "message": "ਓ ਟੀ ਪੀ ਨੂੰ ਦੁਬਾਰਾ ਭੇਜੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
         {
             "code": "CORE_COMMON_RESET_PASSWORD",
             "message": "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-}
-
-]
+        },
+        {
+            "code": "CORE_COMMON_SAVE",
+            "message": "ਸੰਭਾਲੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_CONSUMER_CREATE",
+            "message": "ਖਪਤਕਾਰ ਬਣਾਉ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_AMOUNT",
+            "message": "ਦੀ ਰਕਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_ATTACH_BILL",
+            "message": "ਫਾਈਲ ਚੁਣੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_ATTACH_BILLE",
+            "message": "ਫਾਈਲ ਚੁਣੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_BILL_DATE",
+            "message": "ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_EXPENDITURE_SUCESS",
+            "message": "ਖਰਚਾ ਪ੍ਰਵੇਸ਼ ਸਫਲਤਾਪੂਰਵਕ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_EXPENSE_DETAILS",
+            "message": "ਖਰਚੇ ਦੇ ਵੇਰਵੇ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_EXPENSE_DETAILS",
+            "message": "ਖਰਚੇ ਦੇ ਵੇਰਵੇ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_PART_BILL_DATE",
+            "message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_PAYMENT_DATE",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਮਿਤੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_PAYMENT_DATE_REQUIRED",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਮਿਤੀ ਦੀ ਲੋੜ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_PROVIDE_INFO_TO_CREATE_EXPENSE",
+            "message": "ਇੱਕ ਨਵਾਂ ਖਰਚਾ ਰਿਕਾਰਡ ਬਣਾਉ.",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_TYPE_OF_EXPENSES",
+            "message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_EXPENSE_VENDOR_NAME",
+            "message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_GENERATE_DEMAND",
+            "message": "ਮੰਗ ਪੈਦਾ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_GPWSC_DASHBOARD",
+            "message": "ਜੀਪੀ ਡਬਲਯੂਐਸਸੀ ਡੈਸ਼ਬੋਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_HOUSEHOLD_REGISTER",
+            "message": "ਘਰੇਲੂ ਰਜਿਸਟਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_LOGIN_CONFIRM_NEW_PASSWORD",
+            "message": "ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_LOGIN_NEW_PASSWORD",
+            "message": "ਨਵਾਂ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_LOGIN_PASSWORD",
+            "message": "ਪਾਸਵਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_LOGIN_PASSWORD_REQUIRED",
+            "message": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_PASSWORD_HINT_LABEL",
+            "message": "ਪਾਸਵਰਡ ਸੰਕੇਤ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_PASSWORD_HINT_LABELL",
+            "message": "Forgot password - password reset",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_LETTER",
+            "message": "ਘੱਟੋ ਘੱਟ 1 ਅੱਖਰ (a-z)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_NUMBER",
+            "message": "ਘੱਟੋ ਘੱਟ 1 ਨੰਬਰ (0-9)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_PASS_HINT_ATLEAST_ONE_SPECIAL_CHARACTER",
+            "message": "ਘੱਟੋ ਘੱਟ 1 ਵਿਸ਼ੇਸ਼ ਪਾਤਰ (!@#%* ਆਦਿ)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_PASS_HINT_MIN_SIX_DIGITS",
+            "message": "ਘੱਟੋ ਘੱਟ 6 ਅੰਕ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_UPDATE_CONSUMER_DETAILS",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਸੰਪਾਦਿਤ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CORE_UPDATE_EXPENSES",
+            "message": "ਖਰਚਿਆਂ ਨੂੰ ਅਪਡੇਟ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CREATE_CONSUMER_MSG",
+            "message": "ਵੇਰਵੇ ਜੋੜ ਕੇ ਇੱਥੇ ਨਵੇਂ ਖਪਤਕਾਰ ਰਿਕਾਰਡ ਬਣਾਉ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CREATE_CONSUMER_NAME",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CREATE_CONSUMER_NAME_REQUIRED",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CREATE_CONSUMER_NAME_REQUIRED",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CURRENT_BILL",
+            "message": "ਮੌਜੂਦਾ ਬਿੱਲ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CUSTOM_AMOUNT",
+            "message": "ਅੰਸ਼ਕ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CUSTOM_AMOUNT_REQUIRED",
+            "message": "ਅੰਸ਼ਕ ਰਕਮ ਲੋੜੀਂਦੀ ਹੈ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD",
+            "message": "ਡੈਸ਼ਬੋਰਡ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DATE_BILL_ENTERED_IN_RECORDS",
+            "message": "ਉਹ ਮਿਤੀ ਸ਼ਾਮਲ ਕਰੋ ਜਿਸ 'ਤੇ ਬਿੱਲ ਰਿਕਾਰਡ ਵਿੱਚ ਦਾਖਲ ਕੀਤਾ ਗਿਆ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DAYS_AGO",
+            "message": " ਦਿਨ ਪਹਿਲਾਂ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DAY_AGO",
+            "message": "ਦਿਨ ਪਹਿਲਾਂ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DEAR",
+            "message": "ਪਾਪਿਆਰੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DEC",
+            "message": "ਦਸੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DEMAND_GENERATED_SUCCESSFULLY_LABEL",
+            "message": "ਮੰਗ ਪੈਦਾ ਹੋਈ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DEMAND_GENERATED_SUCCESS_NEXT_SUBTEXT",
+            "message": "ਲਈ ਮੰਗ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ। ਬਿਲ ਅਤੇ ਭੁਗਤਾਨ ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ ਇੱਕ ਸੂਚਨਾ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੇ ਸਾਰੇ ਨਾਨ-ਮੀਟਰਡ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ ਭੇਜੀ ਜਾਵੇਗੀ.",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DEMAND_GENERATED_SUCCESS_SUBTEXT",
+            "message": "ਬਿਲਿੰਗ ਸਾਈਕਲ <billing cycle> ਲਈ ਮੰਗ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ. ਬਿਲ ਅਤੇ ਭੁਗਤਾਨ ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ ਇੱਕ ਨੋਟੀਫਿਕੇਸ਼ਨ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੇ ਸਾਰੇ ਨਾਨ-ਮੀਟਰਡ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ ਭੇਜਿਆ ਜਾਵੇਗਾ.",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DOWNLOAD",
+            "message": "ਡਾਉਨਲੋਡ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DOWNLOAD",
+            "message": "ਰਸੀਦ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DOWNLOAD_BILLS_AND_RECEIPTS",
+            "message": "ਬਿੱਲ ਅਤੇ ਰਸੀਦਾਂ ਡਾਉਨਲੋਡ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DOWNLOAD_BILLS_AND_RECEIPTS_MSG",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲਾਂ ਅਤੇ ਰਸੀਦਾਂ ਦੀ ਖੋਜ ਅਤੇ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Dec",
+            "message": "ਦਸੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EDIT_EXPENSE_BILL",
+            "message": "ਖਰਚਾ ਬਿਲ ਸੋਧੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EDIT_PROFILE_SUCCESS_LABEL",
+            "message": "ਵੇਰਵੇ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਗਏ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ELECTRICITY_BILL",
+            "message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ELECTRICITY_BILLL",
+            "message": "ਸੰਚਾਲਨ ਅਤੇ ਰੱਖ -ਰਖਾਵ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ELECTRICITY_HINT",
+            "message": "ਜਿਵੇਂ ਕਿ ਬਿਜਲੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EMAIL_HINT",
+            "message": "ਜਿਵੇਂ ਕਿ yourname@example.com",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EMPTY_FILESTORE_IDS_FROM_PDF_SERVICE",
+            "message": "ਪੀਡੀਐਫ ਸੇਵਾ ਤੋਂ ਕੋਈ ਫਾਈਲ ਸਟੋਰ ਆਈਡੀ ਨਹੀਂ ਮਿਲੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "END",
+            "message": "ਸਮਾਪਤ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ENTER_MOBILE_NUMBER",
+            "message": "ਮੋਬਾਈਲ ਨੰਬਰ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ENTER_OTP_SENT_TO",
+            "message": "<ਨੰਬਰ> ਤੇ ਭੇਜੇ ਗਏ ਓ ਟੀ ਪੀ ਨੂੰ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ENTER_VALID_AMOUNT",
+            "message": "ਇੱਕ ਵੈਧ ਰਕਮ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ENTER_VENDOR_BILL_EXPENSE",
+            "message": "ਵਧੇਰੇ ਵੇਰਵੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ ਜਾਂ ਖਰਚੇ ਦੀ ਕਿਸਮ ਜਾਂ ਬਿੱਲ ਆਈਡੀ ਦਾਖਲ ਕਰੋ. ਕਿਰਪਾ ਕਰਕੇ ਸਿਰਫ ਇੱਕ ਦਾਖਲ ਕਰੋ.",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENDITURE",
+            "message": "ਖਰਚਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENDITURE_BILL_ID",
+            "message": "ਆਈਡੀ < Bill ID> ਦੇ ਨਾਲ ਖਰਚੇ ਦਾ ਬਿੱਲ ਸੋਧਿਆ ਗਿਆ ਹੈ.",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENDITURE_SUCESS",
+            "message": "ਖਰਚ ਦੀ ਐਂਟਰੀ <Vendor> ਦੇ ਵਿਰੁੱਧ <type of expense> ਸ਼੍ਰੇਣੀ ਦੇ ਅਧੀਨ ਰੁਪਏ ਲਈ ਕੀਤੀ ਗਈ ਹੈ. <Amount>",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSES_FOUND",
+            "message": "ਖਰਚੇ ਮਿਲੇ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_AMOUNT_MSG",
+            "message": "ਬਿੱਲ ਵਿੱਚ ਦਰਸਾਈ ਗਈ ਰਕਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_ATTACH_BILL_MSG",
+            "message": "ਬਿੱਲ ਦੇ ਜੇਪੀਈਜੀ/ ਪੀਡੀਐਫ ਫਾਰਮੈਟਾਂ ਨੂੰ ਇੱਥੇ ਨੱਥੀ ਕਰੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_BILL_DATE_MSG",
+            "message": "ਉਹ ਮਿਤੀ ਸ਼ਾਮਲ ਕਰੋ ਜਿਸ 'ਤੇ ਬਿੱਲ ਰਿਕਾਰਡ ਵਿੱਚ ਦਾਖਲ ਕੀਤਾ ਗਿਆ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_PARTY_BILL_DATE_MSG",
+            "message": "ਉਹ ਮਿਤੀ ਸ਼ਾਮਲ ਕਰੋ ਜਿਸ 'ਤੇ ਬਿੱਲ ਉਠਾਇਆ ਗਿਆ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_PAYMENT",
+            "message": "ਖਰਚਾ ਭੁਗਤਾਨ ਰੀਮਾਈਂਡਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_TYPE",
+            "message": "ਖਰਚੇ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_TYPE_MSG",
+            "message": "ਖਰਚਿਆਂ ਦੀ ਸ਼੍ਰੇਣੀ ਦੀ ਚੋਣ ਕਰੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_VENDOR_NAME_MSG",
+            "message": "ਉਸ ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਜ਼ਿਕਰ ਕਰੋ ਜਿਸਨੇ ਬਿੱਲ ਉਠਾਇਆ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXP_CAL_ERROR",
+            "message": "ਗਣਨਾ ਦੇ ਜਵਾਬ ਨੂੰ ਪਾਰਸ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXP_FIN_NOT_FOUND",
+            "message": "ਵਿੱਤੀ ਸਾਲ ਨਹੀਂ ਮਿਲਿਆ:",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXP_INVALID_REQUEST",
+            "message": "ਗਣਨਾ ਦੀ ਬੇਨਤੀ ਖਾਲੀ ਜਾਂ ਰੱਦ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXP_INVALID_VENDOR",
+            "message": "ਯੂ ਆਈਡੀ ਵਾਲਾ ਵਿਕਰੇਤਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXP_PAYMENT_PARSING_ERROR",
+            "message": "ਖੋਜ ਤੋਂ ਅਰਜ਼ੀ ਨੰਬਰ: {} ਅਤੇ ਅਪਡੇਟ ਤੋਂ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FEB",
+            "message": "ਫਰਵਰੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FEB ",
+            "message": "ਫਰਵਰੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FEEDBACK_PARSE_ERROR",
+            "message": "ਵਾਧੂ ਵੇਰਵੇ ਵਸਤੂ ਨੂੰ ਪਾਰਸ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FEEDBACK_RESPONSE_SUBMITTED_SUCCESSFULLY",
+            "message": "ਫੀਡਬੈਕ ਦੇਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਤੁਹਾਡਾ ਜਵਾਬ ਸਫਲਤਾਪੂਰਵਕ ਸੌੰਪਾ ਗਯਾ।",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FEED_BACK_SUBMITTED_SUCCESSFULLY",
+            "message": "ਫੀਡਬੈਕ ਸਫ਼ਲਤਾਪੂਰਵਕ ਦਿੱਤਾ ਗਿਆ।",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FEE_ESTIMATE",
+            "message": "ਫੀਸ ਦਾ ਅਨੁਮਾਨ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FILE_MANAGER",
+            "message": "ਫਾਈਲਾਂ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FILE_SIZE",
+            "message": "ਸਿਰਫ .jpg ਅਤੇ .pdf ਫਾਈਲਾਂ. 5MB ਅਧਿਕਤਮ ਫਾਈਲ ਅਕਾਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FOLLOWING_EXPENDITURE_BILL_MATCH",
+            "message": "ਹੇਠਾਂ ਦਿੱਤੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਖੋਜ ਮਾਪਦੰਡ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਹਨ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FULL_AMOUNT",
+            "message": "ਪੂਰੀ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Feb",
+            "message": "ਫਰਵਰੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_BILL_LABEL",
+            "message": "ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_CONSUMER_BILL_HEADER",
+            "message": "ਖਪਤਕਾਰ ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL",
+            "message": "ਬਿਲਿੰਗ ਸਾਈਕਲ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_YEAR_LABEL",
+            "message": "ਬਿਲਿੰਗ ਸਾਲ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BUTTON",
+            "message": "ਮੰਗ ਪੈਦਾ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_EN_REMINDER",
+            "message": "ਪਿਆਰੇ ਉਪਭੋਗਤਾ, <month> ਲਈ ਆਟੋਮੈਟਿਕ ਮੰਗ ਬਣਾਉਣਾ ਅਸਫਲ ਹੋ ਗਿਆ ਹੈ। ਹੱਥੀਂ ਬਣਾਉਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_GEN_BILL_BUTTON",
+            "message": "ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_METER_NUMBER_LABEL",
+            "message": "ਮੀਟਰ ਨੰਬਰ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_METER_READING_DATE",
+            "message": "ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_MSG",
+            "message": "ਨਵੇਂ ਬਿਲਿੰਗ ਚੱਕਰ ਲਈ ਹੱਥੀਂ ਮੰਗ ਪੈਦਾ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_NEW_METER_READING_LABEL",
+            "message": "ਨਵਾਂ ਮੀਟਰ ਰੀਡਿੰਗ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_PREV_METER_READING_LABEL",
+            "message": "ਪਿਛਲਾ ਮੀਟਰ ਰੀਡਿੰਗ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_PROPERTY_TYPE_LABEL",
+            "message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_SERVICE_CATEGORY_LABEL",
+            "message": "ਸੇਵਾ ਸ਼੍ਰੇਣੀ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_SERVICE_TYPE_LABEL",
+            "message": "ਸੇਵਾ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_NEW_BTN_LABEL",
+            "message": "ਨਵਾਂ ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GGENERATE_DEMAND_METER_NUMBER_LABEL",
+            "message": "ਮੀਟਰ ਨੰਬਰ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GPWSC_DASHBOARD_MSG",
+            "message": "ਡੈਸ਼ਬੋਰਡ ਜੀਪੀਡਬਲਯੂਐਸਸੀ ਦੀਆਂ ਪ੍ਰਾਪਤੀਆਂ ਅਤੇ ਖਰਚਿਆਂ ਦਾ ਮਹੀਨਾਵਾਰ ਅਤੇ ਸਾਲਾਨਾ ਸੰਖੇਪ ਦਿੰਦਾ ਹੈ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GP_NUMBER",
+            "message": "ਜੀਪੀ ਕੋਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HAPPY_WITH_WATER_SUPPLY",
+            "message": "ਕੀ ਤੁਸੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਤੋਂ ਖੁਸ਼ ਹੋ? ",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HAS_THIS_BILL_PAID",
+            "message": "ਕੀ ਇਹ ਬਿੱਲ ਅਦਾ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ?",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HELP_US_HELP_YOU",
+            "message": "ਅਪਣੀ ਮਦਦ ਲਈ ਅਪਣਾ ਸਹਯੋਗ ਦੋ",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HIDE_DETAILS",
+            "message": "ਬਿੱਲ ਦੇ ਵੇਰਵੇ ਲੁਕਾਓ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HOUSEHOLD_REGISTER_LABEL",
+            "message": "ਘਰੇਲੂ ਰਜਿਸਟਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HOUSEHOLD_REGISTER_MSG",
+            "message": "ਘਰੇਲੂ ਰਜਿਸਟਰ ਵਿੱਚ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਅਤੇ ਉਹਨਾਂ ਦੀ ਬਕਾਇਆ ਰਕਮਾਂ ਸ਼ਾਮਲ ਹੁੰਦੀਆਂ ਹਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HOUSE_DETAILS_EDIT",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਸੰਪਾਦਿਤ ਕਰੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HOUSE_DETAILS_VIEW",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਵੇਖੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "HOUSE_DETAILS_VIEW",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਵੇਰਵੇ ਵੇਖੋ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "IDGEN_ERROR",
+            "message": "ਆਈਡਜੈਨ ਦੁਆਰਾ ਵਾਪਸ ਕੀਤੇ ਗਏ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਆਈਡੀ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਸੰਖਿਆ ਦੇ ਬਰਾਬਰ ਨਹੀਂ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "IDGEN_NOTFOUND_ERROR",
+            "message": "ਆਈਡੀ ਜੀਨ ਸਰਵਿਸ ਤੋਂ ਕੋਈ ਆਈਡੀ ਵਾਪਸ ਨਹੀਂ ਆਈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ID_MISMATCH_ERROR_CONNECTION",
+            "message": "ਆਈਡਜੈਨ ਦੁਆਰਾ ਵਾਪਸ ਕੀਤੇ ਗਏ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਆਈਡੀ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਸੰਖਿਆ ਦੇ ਬਰਾਬਰ ਨਹੀਂ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INCORRECT_PROPERTY_ID",
+            "message": "ਗਲਤ ਆਈਡੀ ਨਾਲ ਪਾਣੀ ਦਾ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INFO",
+            "message": "ਜਾਣਕਾਰੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INFO_TEXT",
+            "message": "ਭੁਗਤਾਨਾਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇੱਕ ਨਵਾਂ ਬਿੱਲ ਤਿਆਰ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_CHECKLIST",
+            "message": "ਲਾਜ਼ਮੀ ਫੀਡਬੈਕ ਪ੍ਰਦਾਨ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ!",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_CHECKLIST_ANS",
+            "message": "ਦਿੱਤਾ ਗਿਆ ਮੁੱਲ ਫੀਡਬੈਕ ਵਿਕਲਪ ਨਹੀਂ ਹੈ.",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_CHECKLIST_TYPE",
+            "message": "ਫੀਡਬੈਕ ਉੱਤਰ ਕਿਸਮ ਅਵੈਧ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_CONNECTION_HOLDER_TYPE",
+            "message": "ਕਨੈਕਸ਼ਨ ਹੋਲਡਰ ਕਿਸਮ '{} ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_CONNECTION_TYPE",
+            "message": "ਅਵੈਧ_ਕਨੈਕਸ਼ਨ_ ਕਿਸਮ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_EMAIL_FORMAT",
+            "message": "ਅਵੈਧ ਈਮੇਲ ਫਾਰਮੈਟ, example@mail.com",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_FORMAT",
+            "message": "ਅਵੈਧ ਫਾਰਮੈਟ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_METER_READING_BILLING_PERIOD",
+            "message": "ਬਿਲਿੰਗ ਪੀਰੀਅਡ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_PROPERTY",
+            "message": "ਪ੍ਰਾਪਰਟੀ ਆਈਡੀ ਤੋਂ ਬਿਨਾਂ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਨੂੰ ਅਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_PROPERTY_ENRICH",
+            "message": "ਪ੍ਰਾਪਰਟੀ ਆਈਡੀ ਤੋਂ ਬਿਨਾਂ ਪਾਣੀ ਦਾ ਕੁਨੈਕਸ਼ਨ ਬਿਹਤਰ ਨਹੀਂ ਹੋ ਸਕਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_PROPERTY_STATUS",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਸੰਪਤੀ ਆਈਡੀ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_PROPERTY_USAGE_TYPE",
+            "message": "ਸੰਪਤੀ ਦੀ ਵਰਤੋਂ ਦੀ ਕਿਸਮ ਤੋਂ ਬਿਨਾਂ ਪਾਣੀ ਦੇ ਕੁਨੈਕਸ਼ਨ ਨੂੰ ਬਿਹਤਰ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_RECEIPT",
+            "message": "ਖਪਤਕਾਰ ਕੋਡ {} ਲਈ ਕੋਈ ਪਾਣੀ ਦਾ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਮਿਲਿਆ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_SEARCH_ON_USER",
+            "message": "ਦਿੱਤੇ ਗਏ ਮਾਪਦੰਡਾਂ 'ਤੇ ਕੋਈ ਉਪਭੋਗਤਾ ਨਹੀਂ ਮਿਲਿਆ !!!",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_SEARCH_USER_PROP_NOT_FOUND",
+            "message": "ਉਪਭੋਗਤਾ ਨਹੀਂ ਮਿਲਿਆ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_TAXHEAD_CODE_DETAILS",
+            "message": "ਅਧਿਕਾਰਤ ਟੈਕਸਹੈਡ ਕੋਡਾਂ ਦੇ ਵੇਰਵੇ ਬੇਨਤੀ ਵਿੱਚ ਜਾਂ ਮੁਹੱਈਆ ਕੀਤੇ ਗਏ ਕਾਰੋਬਾਰੀ ਸੇਵਾ ਲਈ ਐਮਡੀਐਮਐਸ ਰਿਕਾਰਡ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹਨ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_UPDATE",
+            "message": "ਵਾਟਰ ਕਨੈਕਸ਼ਨ ਦੀ ਆਈਡੀ ਨੂੰ ਰੱਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_USER_RESPONSE",
+            "message": "ਮੋਬਾਈਲ ਨੰਬਰ ਲਈ ਉਪਭੋਗਤਾ ਬਣਾਉਣਾ ਅਸਫਲ ਰਿਹਾ ਹੈ: {}",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVALID_USER_UPDATE",
+            "message": "ਅਪਡੇਟ ਕੀਤੇ ਉਪਭੋਗਤਾ ਕੋਲ ਯੂਯੂਆਈਡੀ ਨਲ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVITED_TO_GRAMA_SEVA",
+            "message": "ਤੁਹਾਨੂੰ ਹੇਠਲੀ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਅਰਜ਼ੀ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "INVITED_TO_SINGLE_GP",
+            "message": "ਤੁਹਾਨੂੰ ਹੇਠ ਦਿੱਤੀ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਅਰਜ਼ੀ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "IS_WATER_QUALITY_GOOD",
+            "message": "ਕੀ ਪਾਣੀ ਦੀ ਗੁਣਵੱਤਾ ਚੰਗੀ ਹੈ?",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "IS_WATER_SUPPLY_REGULAR",
+            "message": "ਕੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਨਿਯਮਿਤ ਹੈ?",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "JAN",
+            "message": "ਜਨਵਰੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "JULY",
+            "message": "ਜੁਲਾਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "JULY ",
+            "message": "ਜੁਲਾਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "JUN",
+            "message": "ਜੂਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "JUN ",
+            "message": "ਜੂਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Jan",
+            "message": "ਜਨਵਰੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "July",
+            "message": "ਜੁਲਾਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Jun",
+            "message": "ਜੂਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "LAST_BILL_GENERATION_DATE",
+            "message": "ਆਖਰੀ ਬਿਲ ਬਣਾਉਣ ਦੀ ਮਿਤੀ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "LOGIN_PHONE_NO",
+            "message": "ਫੋਨ ਨੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MAR",
+            "message": "ਮਾਰਚ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MAR ",
+            "message": "ਮਾਰਚ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MARK_AS_INACTIVE",
+            "message": "ਇਸ ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਕਿਰਿਆਸ਼ੀਲ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MARK_BILL_HAS_CANCELLED",
+            "message": "ਇਸ ਬਿੱਲ ਨੂੰ ਰੱਦ ਹੋਣ ਵਜੋਂ ਮਾਰਕ ਕਰੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MARK_PAID_BILL_EN_REMINDER",
+            "message": "{BILL_COUNT_AWAIT} ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹਨ. ਅਦਾਇਗੀ ਵਜੋਂ ਖੋਜ ਅਤੇ ਨਿਸ਼ਾਨ ਲਗਾਉਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ, ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MARK_PAID_BILL_SMS_EN_REMINDER",
+            "message": "{GPWSC} ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੈ। ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ {EXP_MRK_LINK} ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਦੀ  ਅਦਾਇਗੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MAY",
+            "message": "ਮਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MAY ",
+            "message": "ਮਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MDMS_DATA_ERROR",
+            "message": "ਐਮ ਡੀ ਐਮ ਐਸ ਤੋਂ {} ਕੋਡ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MDMS_ERROR_FOR_BILLING_FREQUENCY",
+            "message": "ਬਿਲਿੰਗ ਫ੍ਰੀਕੁਐਂਸੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MDMS_ERROR_FOR_CHECKLIST",
+            "message": "ਜਾਂਚ ਸੂਚੀ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MENTION_NAME_OF_VENDOR",
+            "message": "ਉਸ ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਜ਼ਿਕਰ ਕਰੋ ਜਿਸਨੇ ਬਿੱਲ ਉਠਾਇਆ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MGram.Reset.Password",
+            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp}",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MGram.Reset.Password RESET_PASSWORD_FIRST_TIME_OTP",
+            "message": "ਐਮ ਗ੍ਰਾਮਸੇਵਾ 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ {otp} ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MGram.Reset.Password RESET_PASSWORD_OTP",
+            "message": "ਐਮ ਗ੍ਰਾਮਸੇਵਾ 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ {otp} ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MGram.User.Invitation",
+            "message": "ਪਿਆਰੇ {USER}, ਤੁਹਾਨੂੰ ਪੰਜਾਬ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ {LINK} ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ। ਉਪਯੋਗਕਰਤਾ ਨਾਮ: {PHNO}  ਪਾਸਵਰਡ: {PASSWORD} EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MISC",
+            "message": "ਫੁਟਕਲ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MISC ",
+            "message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MOBILE_NUMBER_SHOULD_BE_10_DIGIT",
+            "message": "ਮੋਬਾਈਲ ਨੰਬਰ 10 ਅੰਕਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MODIFIED_EXPENDITURE_SUCCESSFULLY",
+            "message": "ਸੋਧੇ ਹੋਏ ਖਰਚੇ ਸਫਲਤਾਪੂਰਵਕ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MONTH",
+            "message": "ਮਹੀਨਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MONTHLY_DEMAND_FAILED",
+            "message": "ਮਾਸਿਕ ਮੰਗ ਪੈਦਾ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MONTHLY_DEMAND_GENERATED",
+            "message": "ਮਹੀਨਾਵਾਰ ਮੰਗ ਪੈਦਾ ਕੀਤੀ ਗਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MONTHLY_SUMMARY",
+            "message": "ਮਹੀਨਾਵਾਰ ਸੰਖੇਪ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MONTHLY_SUMMARY_EN_REMINDER",
+            "message": "ਰੁਪਏ {PREVIOUS_MONTH_COLLECTION} ਪਿਛਲੇ ਮਹੀਨੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਅਤੇ ਰੁਪਏ ਲਈ ਇਕੱਠਾ ਕੀਤਾ ਗਿਆ ਹੈ. {PREVIOUS_MONTH_EXPENSE} ਨੂੰ ਖਰਚੇ ਵਜੋਂ ਖਰਚ ਕੀਤਾ ਗਿਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MONTHLY_SUMMARY_SMS_EN_REMINDER",
+            "message": "ਪਿਆਰੇ {user}, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ {PREVIOUS_MONTH} ਵਿੱਚ {PREVIOUS_MONTH_COLLECTION} ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ, ਅਤੇ {GPWSC} ਦੇ ਖਰਚੇ ਵਜੋਂ {PREVIOUS_MONTH_EXPENSE} ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "MULTI_RECEIPT_ERROR",
+            "message": "ਖਪਤਕਾਰ ਕੋਡ {} 'ਤੇ ਇੱਕ ਤੋਂ ਵੱਧ ਅਰਜ਼ੀਆਂ ਮਿਲੀਆਂ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Mar",
+            "message": "ਮਾਰਚ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "May",
+            "message": "ਮਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Metered",
+            "message": "ਮੀਟਰ ਕੀਤਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NAME",
+            "message": "ਨਾਮ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NAME_GRAM_PANCHAYAT",
+            "message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦਾ ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NAME_OF_CONSUMER_HINT",
+            "message": "ਜਿਵੇਂ ਕਿ ਹਰਪ੍ਰੀਤ ਸਿੰਘ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_BULK_DEMAND_EVENT",
+            "message": "{billing cycle} ਦੀ ਮੰਗ ਪੈਦਾ ਕੀਤੀ ਗਈ ਹੈ. {X} ਬਿੱਲ ਵਧਾਏ ਗਏ ਹਨ ਅਤੇ {X/X+Y} ਘਰਾਂ ਨੂੰ ਭੇਜੇ ਗਏ ਹਨ. {Y} ਬਿੱਲ ਵਧਾਉਣੇ ਪੈਣਗੇ. ਵੇਰਵੇ ਦੇਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_BULK_DEMAND_EVENT_M",
+            "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_BULK_DEMAND_EVENT_NM",
+            "message": "{billing cycle} ਦੀ ਮੰਗ ਪੈਦਾ ਕੀਤੀ ਗਈ ਹੈ. {X} ਬਿੱਲ ਵਧਾਏ ਗਏ ਹਨ ਅਤੇ {X/X} ਘਰਾਂ ਨੂੰ ਭੇਜੇ ਗਏ ਹਨ. ਵੇਰਵੇ ਦੇਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_CONNECTION_HINT",
+            "message": "ਜਿਵੇਂ ਕਿ WS-1234-12",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_CONSUMER_GENERATE_BILL_LABEL",
+            "message": "ਨਵਾਂ ਖਪਤਕਾਰ ਬਿੱਲ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_ENPENDITURE_EN_REMINDER",
+            "message": "ਖਰਚੇ ਦੇ ਬਿੱਲਾਂ ਨੂੰ ਅਦਾਇਗੀ ਵਜੋਂ ਮਾਰਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_ENPENDITURE_SMS_EN_REMINDER",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ {GPWSC} ਲਈ ਨਵੇਂ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲ ਆਨਲਾਈਨ ਦਾਖਲ ਕਰੋ। ਹੁਣੇ ਖਰਚੇ ਦੀ ਐਂਟਰੀ ਕਰਨ ਲਈ {NEW_EXP_LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_EXPENSE_ENTRY",
+            "message": "ਖਰਚਾ ਐਂਟਰੀ ਰੀਮਾਈਂਡਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_METER_READING_INVALID_MSG",
+            "message": "ਨਵਾਂ ਮੀਟਰ ਰੀਡਿੰਗ ਅਵੈਧ ਦਾਖਲ ਹੋਇਆ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEW_PASSWORD_ENTER",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਨਵਾਂ ਪਾਸਵਰਡ ਦਾਖਲ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NEXT",
+            "message": "ਅਗਲਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO",
+            "message": "ਨਹੀਂ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NOTE",
+            "message": "ਨੋਟ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NOTIFICATIONS",
+            "message": "ਸੂਚਨਾਵਾਂ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NOV",
+            "message": "ਨਵੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_CONNECTION_FOUND",
+            "message": "ਕੋਈ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਮਿਲੇ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_DEMAND_PREVIOUS_BILLING_CYCLE",
+            "message": "ਪਿਛਲੇ ਬਿਲਿੰਗ ਚੱਕਰ ਲਈ ਕੋਈ ਮੰਗ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_ESTIMATION_FOUND",
+            "message": "ਅਨੁਮਾਨ ਨਹੀਂ ਮਿਲਿਆ !!!",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_EXPENSES_FOUND",
+            "message": "ਕੋਈ ਵੀ ਬਿਲ ਖੋਜ ਮਾਪਦੰਡ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_FIELDS_FILLED",
+            "message": "ਕੋਈ ਖੇਤਰ ਨਹੀਂ ਭਰੇ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_FILE_UPLOADED",
+            "message": "ਕੋਈ ਫ਼ਾਈਲ ਨਹੀਂ ਚੁਣੀ ਗਈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_OF_RECORDS",
+            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: <n>",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "NO_RECORDS_MSG",
+            "message": "ਕੋਈ ਰਿਕਾਰਡ ਨਹੀਂ ਮਿਲਿਆ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Non-Metered",
+            "message": "ਗੈਰ-ਮੀਟਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Non-Metered",
+            "message": "ਗੈਰ-ਮੀਟਰਡ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Non_Metered",
+            "message": "ਗੈਰ-ਮੀਟਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Nov",
+            "message": "ਨਵੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "O&M",
+            "message": "ਤਨਖਾਹ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OCT",
+            "message": "ਅਕਤੂਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OCT ",
+            "message": "ਅਕਤੂਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OF",
+            "message": "ਦੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OLD_CONNECTION_HINT",
+            "message": "ਜਿਵੇਂ ਕਿ 17238437",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OLD_METER_READING_INVALID_MSG",
+            "message": "ਪੁਰਾਣੀ ਮੀਟਰ ਰੀਡਿੰਗ ਅਵੈਧ ਦਾਖਲ ਹੋਈ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OM",
+            "message": "ਸੰਚਾਲਨ ਅਤੇ ਰੱਖ -ਰਖਾਵ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ONLINE",
+            "message": "Q ਆਰ ਕੋਡ ਆਨਲਾਈਨ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OR",
+            "message": "-(ਜਾਂ)-",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OTP.UNKNOWN_MOBILE_NUMBER",
+            "message": "ਮੋਬਾਈਲ ਨੰਬਰ ਅਣਜਾਣ ਹੈ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OTP.VALIDATION_UNSUCCESSFUL",
+            "message": "OTP ਪ੍ਰਮਾਣਿਕਤਾ ਅਸਫਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "OWNER_SEARCH_ERROR",
+            "message": "ਵਾਟਰ ਐਪਲੀਕੇਸ਼ਨ {} ਦਾ ਮਾਲਕ ਉਪਭੋਗਤਾ ਖੋਜ ਵਿੱਚ ਨਹੀਂ ਆ ਰਿਹਾ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Oct",
+            "message": "ਅਕਤੂਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAID",
+            "message": "ਦਾ ਭੁਗਤਾਨ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAID",
+            "message": "ਦਾ ਭੁਗਤਾਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAID_DATE",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAID_DATE",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PARTIAL_AMOUNT_NOT_MORE_FULL_AMOUNT",
+            "message": "ਅੰਸ਼ਕ ਰਕਮ ਪੂਰੀ ਰਕਮ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PARTIAL_AMT_OUT_OF_RANGE",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ ਤੋਂ ਵੱਧ ਰਕਮ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PARTIAL_AMT_OUT_OF_RANGE",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ ਤੋਂ ਵੱਧ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PARTY_BILL_DATE_CANNOT_GREATER_THAN_TODAY",
+            "message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAYMENT_AMOUNT",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAYMENT_COMPLETE",
+            "message": "ਭੁਗਤਾਨ ਸੰਪੂਰਨ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAYMENT_DATE_CANNOT_BEFORE_PARTY_DATE",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਮਿਤੀ ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAYMENT_DATE_CANNOT_GREATER_THAN_TODAY",
+            "message": "ਭੁਗਤਾਨ ਦੀ ਤਾਰੀਖ ਅੱਜ ਨਾਲੋਂ ਵੱਡੀ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PAYMENT_METHOD",
+            "message": "ਭੁਗਤਾਨੇ ਦੇ ਢੰਗ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_BUSINESS_SERVICE_WS",
+            "message": "ਵਾਟਰ ਚਾਰਜ ਬਿਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_PAYMODE_CASH",
+            "message": "ਨਕਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_ACTUAL_COLLECTIONS",
+            "message": "ਅਸਲ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_ACTUAL_PAYMENTS",
+            "message": "ਅਸਲ ਭੁਗਤਾਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_ADEQUATE_WATER_SUPPLY",
+            "message": "ਲੋੜੀਂਦੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_AMOUNT_INWORDS",
+            "message": "ਮਾਤਰਾ (ਸ਼ਬਦਾਂ ਵਿੱਚ)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_ARREARS",
+            "message": "ਬਕਾਏ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_CONNECTION_ID",
+            "message": "ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_MOBILE_NO",
+            "message": "ਖਪਤਕਾਰ ਮੋਬਾਈਲ ਨੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_CONSUMER_NAME",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_ID",
+            "message": "ਬਿੱਲ ਆਈ.ਡੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_ISSUE_DATE",
+            "message": "ਬਿੱਲ ਜਾਰੀ ਕਰਨ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_PERIOD",
+            "message": "ਬਿੱਲ ਦੀ ਮਿਆਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BILL_RECEIPT_DATE",
+            "message": "ਰਸੀਦ ਦੀ ਮਿਤੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_BREAKUP_PENDING_WATERCHARGES",
+            "message": "ਕੁਨੈਕਸ਼ਨ ਲਈ ਬਕਾਇਆ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦਾ ਵੇਰਵਾ ਹੇਠਾਂ ਦਿੱਤਾ ਗਿਆ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_CHARGES",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_CHARGES_BILL",
+            "message": "ਵਾਟਰ ਚਾਰਜ ਬਿਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_CHARGES_RECEIPT",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੀ ਰਸੀਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_COLLECTIONS",
+            "message": "ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_CONSUMER_ADDRESS",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਪਤਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_CUSTOMER_RATING",
+            "message": "ਖਪਤਕਾਰ ਰੇਟਿੰਗ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_DUE_ASON",
+            "message": "ਬਕਾਇਆ ਰਕਮ (ਜਿਵੇਂ ਕਿ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_EXPENDITURE",
+            "message": "ਖਰਚਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_GPWSC_NAME",
+            "message": "ਜੀਪੀ ਡਬਲਯੂਐਸਸੀ ਦਾ ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_GP_WATER_SUPPLY_SANITATION",
+            "message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਜਲ ਸਪਲਾਈ ਅਤੇ ਸੈਨੀਟੇਸ਼ਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_ID",
+            "message": "ਆਈ.ਡੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_METER_NUMBER",
+            "message": "ਮੀਟਰ ਨੰ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_METER_READING",
+            "message": "ਮੀਟਰ ਰੀਡਿੰਗ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_METER_READING_DATE",
+            "message": "ਮੀਟਰ ਪੜ੍ਹਨ ਦੀ ਤਾਰੀਖ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_MONTH_SUMMARY",
+            "message": "ਪਿਛਲਾ ਬਿਲਿੰਗ ਸਾਈਕਲ ਸੰਖੇਪ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_NEW_DEMAND",
+            "message": "ਨਵੀਂ ਮੰਗ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_NEW_EXPENDITURE",
+            "message": "ਨਵਾਂ ਖਰਚਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY",
+            "message": "ਪਿਛਲਾ ਬਿਲਿੰਗ ਸਾਈਕਲ ਸੰਖੇਪ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_PREVIOUS_MONTH_SUMMARY_NM",
+            "message": "ਪਿਛਲੇ ਮਹੀਨੇ ਦਾ ਸੰਖੇਪ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_QUALITY_WATER_SUPPLY",
+            "message": "ਗੁਣਵੱਤਾ ਵਾਲੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_RECEIPT_ID",
+            "message": "ਰਸੀਦ ਆਈ.ਡੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_RECEIPT_PERIOD",
+            "message": "ਰਸੀਦ ਦੀ ਮਿਆਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_SERVICE_TYPE",
+            "message": "ਸੇਵਾ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_SUMMARY_OF",
+            "message": "ਦਾ ਸੰਖੇਪ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_TOTAL_DUE",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_TOTAL_PAID",
+            "message": "ਭੁਗਤਾਨ ਕੀਤੀ ਕੁੱਲ ਰਕਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_COLLECTIONS",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ (ਸੰਚਤ)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_TOTAL_PENDING_EXPENDITURE",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਖਰਚਾ (ਸੰਚਤ)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WATER_USER_FEEDBACK",
+            "message": "ਹੇਠਾਂ ਫੀਡਬੈਕ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PDF_SUB_TEXT_BELOW_LIST",
+            "message": "ਹੇਠਾਂ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ ਜੋ <selectedTab> ਅਤੇ ਨਾਮ/ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <search> ਸ਼ਾਮਲ ਹੈ, ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਪਾਣੀ ਦੀ ਚਾਰਜਿਜ਼ <date> ਤੱਕ ਦਿਖਾਈ ਦੇ ਰਹੇ ਹਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING",
+            "message": "ਬਕਾਇਆ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING",
+            "message": "ਬਕਾਇਆ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING_AMOUNT",
+            "message": "ਬਕਾਇਆ ਰਕਮ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING_COLLECTIONS",
+            "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ (₹)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING_COLLECTION_EN_REMINDER",
+            "message": "Rs.{X} {TODAY_DATE} ਦੇ ਅਨੁਸਾਰ ਸੰਗ੍ਰਹਿ ਲਈ ਬਕਾਇਆ ਹੈ. ਡੈਸ਼ਬੋਰਡ ਦੇਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING_COLLECTION_SMS_EN_REMINDER",
+            "message": "ਪਿਆਰੇ {ownername}, {Date} ਤੇ {GPWSC} ਵਿਖੇਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਰੁਪਏ {amount} ਦੀ ਉਗਰਾਹੀ ਬਾਕੀ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PENDING_COLLECTION_USEREVENT",
+            "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ ਰੀਮਾਈਂਡਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PREVIOUS_METER_READING",
+            "message": "ਪਿਛਲਾ ਮੀਟਰ ਰੀਡਿੰਗ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PROPERTY_PARSING_ERROR",
+            "message": "ਸੰਪਤੀ ਜੇਸਨ ਨੂੰ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "PROPERTY_TYPE",
+            "message": "ਸੰਪਤੀ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Payment Details ",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Punjab",
+            "message": "ਪੰਜਾਬ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_DOWNLOAD",
+            "message": "ਰਸੀਦ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_NO",
+            "message": "ਰਸੀਦ ਆਈ.ਡੀ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_REFERENCE_WITH_MOBILE_NUMBER",
+            "message": "ਰਸੀਦ ਸੰਦਰਭ ਨੰਬਰ ਅਤੇ ਫੀਡਬੈਕ ਦੇਣ ਲਈ ਲਿੰਕ ਵਾਲਾ ਐਸਐਮਐਸ ਖਪਤਕਾਰ ਦੇ ਮੋਬਾਈਲ ਨੰਬਰ <Number> ਤੇ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ.",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECORDS",
+            "message": "ਰਿਕਾਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RESENT_OTP",
+            "message": "ਓ ਟੀ ਪੀ ਨੂੰ ਦੁਬਾਰਾ ਭੇਜੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RESET_PASSWORD_FIRST_TIME_OTP",
+            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp}",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RESET_PASSWORD_LABEL",
+            "message": "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RESET_PASSWORD_OTP",
+            "message": "mGramSeva 'ਤੇ ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕਰਨ ਲਈ ਓਟੀਪੀ ਹੈ {otp}",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RESIDENTIAL",
+            "message": "ਰਿਹਾਇਸ਼ੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RESIDENTIAL",
+            "message": "ਰਿਹਾਇਸ਼ੀ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ROWS_PER_PAGE",
+            "message": "ਕਤਾਰਾਂ ਪ੍ਰਤੀ ਪੰਨਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "ROWS_PER_PAGE",
+            "message": "ਕਤਾਰਾਂ ਪ੍ਰਤੀ ਪੰਨਾ",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SALARY",
+            "message": "ਤਨਖਾਹ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH",
+            "message": "ਖੋਜ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH",
+            "message": "ਖੋਜ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_BY_BILL_OR_VENDOR",
+            "message": "ਬਿੱਲ ਆਈਡੀ / ਵਿਕਰੇਤਾ ਦੁਆਰਾ ਖੋਜ ਕਰੋ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_ADDRESS",
+            "message": "ਪਤਾ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_CONSUMER_NAME",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_LABEL",
+            "message": "ਖਪਤਕਾਰ ਦੀ ਖੋਜ ਕਰੋ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_NAME_OF_CONSUMER",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_NEW_CONNECTION_ID",
+            "message": "ਨਵੀਂ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_OLD_CONNECTION_ID",
+            "message": "ਪੁਰਾਣੀ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_OWNER_MOB_NUM",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_PHONE_NUMBER",
+            "message": "ਫੋਨ ਨੰਬਰ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONNECTION_SUBLABEL",
+            "message": "ਵਧੇਰੇ ਵੇਰਵੇ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਉਪਭੋਗਤਾ ਦਾ ਮੋਬਾਈਲ ਨੰਬਰ ਜਾਂ ਨਾਮ ਜਾਂ ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਦਰਜ ਕਰੋ. ਕਿਰਪਾ ਕਰਕੇ ਸਿਰਫ ਇੱਕ ਦਾਖਲ ਕਰੋ.",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_CONSUMER_RECORDS",
+            "message": "ਖਪਤਕਾਰਾਂ ਦੇ ਰਿਕਾਰਡ ਖੋਜੋ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_EXPENSE_BILL",
+            "message": "ਖਰਚੇ ਦੇ ਬਿੱਲ ਖੋਜੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_NAME_CONNECTION",
+            "message": "ਨਾਮ / ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਦੁਆਰਾ ਖੋਜ ਕਰੋ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEARCH_NAME_CONNECTION ",
+            "message": "ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਦੁਆਰਾ ਖੋਜ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SELECT_EXPENDITURE_CATEGORY",
+            "message": "ਖਰਚਿਆਂ ਦੀ ਸ਼੍ਰੇਣੀ ਦੀ ਚੋਣ ਕਰੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEP",
+            "message": "ਸਤੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SEP ",
+            "message": "ਸਤੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SERACH_CONNECTION_PHONE_NUMBER",
+            "message": "ਫੋਨ ਨੰਬਰ",
+            "module": "mgramseva-water-connection",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SERVICE_DETAILS_HEADER",
+            "message": "ਸੇਵਾ ਵੇਰਵੇ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHARE",
+            "message": "ਸ਼ੇਅਰ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHARE",
+            "message": "ਸ਼ੇਅਰ ਕਰੋ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHARE_BILL",
+            "message": "ਸ਼ੇਅਰ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHARE_BILL_LINK",
+            "message": "ਪਿਆਰੇ <user>, ਖਪਤਕਾਰ ਆਈਡੀ <cycle> ਲਈ ਰੁਪਏ ਦੇ ਲਈ <new consumer id> ਲਈ ਪਾਣੀ ਦਾ ਬਿੱਲ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ. <Amount>. ਨਵੀਨਤਮ ਬਿੱਲ ਡਾ downloadਨਲੋਡ ਕਰਨ ਲਈ <link> ਤੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHARE_RECEIPT_LINK",
+            "message": "ਪਿਆਰੇ <user>, ਰੁਪਏ. ਖਪਤਕਾਰ ਆਈਡੀ <new consumer id> ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ <Amount> ਦਾ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ. ਬਕਾਇਆ ਰਾਸ਼ੀ ਰੁਪਏ ਹੈ <Amount>. ਰਸੀਦ ਡਾ downloadਨਲੋਡ ਕਰਨ ਲਈ <link> ਤੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHOW_LESS",
+            "message": "ਘੱਟ ਦਿਖਾਓ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SHOW_MORE",
+            "message": "ਹੋਰ ਦਿਖਾਓ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SKIP",
+            "message": "ਛੱਡੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SMS_ON_BOARD_EMPLOYEE",
+            "message": "ਪਿਆਰੇ {USER}, ਤੁਹਾਨੂੰ ਪੰਜਾਬ ਦੀ ਐਮਗ੍ਰਾਮਸੇਵਾ ਐਪਲੀਕੇਸ਼ਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ {LINK} ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਲੌਗਇਨ ਕਰੋ। ਉਪਯੋਗਕਰਤਾ ਨਾਮ: {PHNO}  ਪਾਸਵਰਡ: {PASSWORD} EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "STATUS",
+            "message": "ਸਥਿਤੀ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "SURVEY_REQUEST",
+            "message": "ਪਿਆਰੇ ਉਪਭੋਗਤਾ, {connectionNo} ਦੇ ਵਿਰੁੱਧ ਆਪਣੇ ਪਾਣੀ ਦੇ ਬਿੱਲ ਦਾ ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਕਿਰਪਾ ਕਰਕੇ {GPWSC} 'ਤੇ ਜਲ ਸਪਲਾਈ ਸੁਵਿਧਾਵਾਂ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰਨ ਲਈ ਇਹ ਛੋਟਾ ਸਰਵੇਖਣ ਕਰੋ",
+            "module": "mgramseva-feedback",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "Sep",
+            "message": "ਸਤੰਬਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TODAY",
+            "message": "ਅੱਜ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TODAY_COLLECTION",
+            "message": "ਅੱਜ ਦੇ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TODAY_COLLECTION_AS_CASH_SMS",
+            "message": "ਰੁਪਏ {amount} ਨੂੰ ਅੱਜ ਨਕਦ ਵਿੱਚ {number} ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ ਇਕੱਤਰ ਕੀਤਾ ਗਿਆ ਹੈ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TODAY_COLLECTION_FROM_CASH",
+            "message": "ਪਿਆਰੇ {ownername}, {GPWSC} ਲਈ ਨਕਦ ਵਿੱਚ {no} ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਅੱਜ {date} ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TODAY_COLLECTION_FROM_ONLINE",
+            "message": "ਪਿਆਰੇ {ownername}, {GPWSC} ਲਈ ਔਨਲਾਈਨ {no} ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਅੱਜ {date} ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TODAY_COLLECTION_FROM_ONLINE_SMS",
+            "message": "ਮਹੀਨਾ ਸੰਖੇਪ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TOTAL_AMOUNT",
+            "message": "ਕੁੱਲ ਮਾਤਰਾ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TOTAL_DUE_AMOUNT",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TOTAL_DUE_AMOUNT ",
+            "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UN_PAID",
+            "message": "ਅਦਾਇਗੀਯੋਗ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UPDATE_CONSUMER_DETAILS_MSG",
+            "message": "ਪਹਿਲਾਂ ਦਰਜ ਕੀਤੇ ਖਪਤਕਾਰ ਰਿਕਾਰਡਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UPDATE_EXPENDITURE",
+            "message": "ਖਰਚਾ ਅਪਡੇਟ ਕਰੋ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UPDATE_EXPENSE_MSG",
+            "message": "ਪਹਿਲਾਂ ਦਾਖਲ ਕੀਤੇ ਬਿੱਲਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UPDATE_PASSWORD",
+            "message": "ਪਾਸਵਰਡ ਅਪਡੇਟ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UPDATE_PASSWORD_TO_CONTINUE",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਅਪਡੇਟ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "UPDATE_SUBMIT_EXPENDITURE",
+            "message": "ਅਪਡੇਟ ਕਰੋ ਅਤੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਨੂੰ ਸੋਧਣ ਲਈ ਸਬਮਿਟ ਤੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "VENDOR_ALREADY_EXIST",
+            "message": "ਵਿਕਰੇਤਾ ਪਹਿਲਾਂ ਹੀ ਬਾਹਰ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "VENDOR_ALREADY_EXISTS",
+            "message": "ਵਿਕਰੇਤਾ ਪਹਿਲਾਂ ਹੀ ਬਾਹਰ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "VENDOR_NAME",
+            "message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "VIEW_ALL",
+            "message": "ਸਾਰੇ ਵੇਖੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "VIEW_DETAILS",
+            "message": "ਬਿਲ ਦੇ ਵੇਰਵੇ ਵੇਖੋ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "VIEW_DETAILS ",
+            "message": "ਬਿਲ ਦੇ ਵੇਰਵੇ ਵੇਖੋ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WATER_CALCULATION_EXCEPTION",
+            "message": "ਗਣਨਾ ਪ੍ਰਤੀਕਿਰਿਆ ਪਾਰਸ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ !!!",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WATER_FILESTORE_PDF_EXCEPTION",
+            "message": "ਪੀ ਡੀਐਫ ਦੇ ਜਵਾਬ ਨੂੰ ਪਾਰਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ !!!",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WHATSAPP_TEXT_HOUSEHOLD",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਹਾਉਸਹੋਲਡ ਰਜਿਸਟਰ ਨੂੰ <Date> ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਲਈ ਨੱਥੀ ਲਿੰਕ ਲੱਭੋ <link>",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_10101",
+            "message": "ਮੌਜੂਦਾ ਖਰਚੇ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_10101",
+            "message": "ਮੌਜੂਦਾ ਖਰਚੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_10102",
+            "message": "ਬਕਾਏ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_10102 ",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚੇ - ਬਕਾਏ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_CHARGE",
+            "message": "ਪਾਣੀ ਦੇ ਖਰਚੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_METERED",
+            "message": "ਮੀਟਰ ਕੀਤਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WS_NON_METERED",
+            "message": "ਗੈਰ-ਮੀਟਰਡ ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "YES",
+            "message": "ਹਾਂ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "all",
+            "message": "ਸਾਰੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "connectionNumber",
+            "message": "ਨਵੀਂ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "dashboard_amountPaid",
+            "message": "ਅਦਾਇਗੀ ਕੀਤੀ ਰਕਮ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "dashboard_amountUnpaid",
+            "message": "ਅਦਾਇਗੀ ਦੀ ਰਕਮ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "dashboard_totalExpenditure",
+            "message": "ਕੁੱਲ ਖਰਚਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.Consumer.DownloadReceipt",
+            "message": "ਪਿਆਰੇ {ownername}, ਰੁਪਏ {amountpaid} ਦਾ ਭੁਗਤਾਨ ਖਪਤਕਾਰ ਆਈਡੀ {consumercode} ਦੇ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਲਈ ਕੀਤਾ ਗਿਆ ਹੈ। ਬਕਾਇਆ ਰਾਸ਼ੀ ਰੁਪਏ {pendingamount} ਹੈ।  ਰਸੀਦ ਡਾ ਦਾਊਂਲੋੜ ਕਰਨ ਲਈ {RECEIPT_LINK} 'ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.Consumer.NewBill",
+            "message": "ਪਿਆਰੇ {ownername}, ਬਿਲਿੰਗ ਸਾਈਕਲ {Period} ਲਈ ਨਵਾਂ ਪਾਣੀ ਦਾ ਬਿੱਲ ਖਪਤਕਾਰ ਆਈਡੀ {consumerno} ਲਈ {billamount} ਰੁਪਏ ਦਾ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਨਵੀਨਤਮ ਬਿੱਲ ਡਾ ਦਾਊਂਲੋੜ ਕਰਨ ਲਈ {BILL_LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.Consumer.NewBill.N",
+            "message": "ਪਿਆਰੇ {ownername}, ਅਵਧੀ {billingcycle} ਲਈ ਨਵਾਂ ਪਾਣੀ ਦਾ ਬਿੱਲ ਖਪਤਕਾਰ ਆਈਡੀ {consumerno} ਰੁਪਏ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ. {billmaount}. ਨਵੀਨਤਮ ਬਿੱਲ ਨੂੰ ਡਾਨਲੋਡ ਕਰਨ ਲਈ {BILL_LINK} ਤੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.Consumer.PayOnline",
+            "message": "ਪਿਆਰੇ <ਉਪਭੋਗਤਾ>, ਖਪਤਕਾਰ ਆਈਡੀ <ਨਵੇਂ ਉਪਭੋਗਤਾ ਆਈਡੀ> ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੀ ਬਕਾਇਆ ਰਕਮ ਰੁਪਏ ਹੈ. <ਮਾਤਰਾ>. ਆਨਲਾਈਨ ਭੁਗਤਾਨ ਕਰਨ ਲਈ <ਲਿੰਕ> ਤੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.Consumer.TakeSurvey",
+            "message": "ਪਿਆਰੇ {ownername}, ਪਾਣੀ ਦੇ ਖਰਚੇ ਅਦਾ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ। ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਛੋਟਾ ਸਰਵੇਖਣ {SURVEY_LINK} ਲਓ ਅਤੇ {GPWSC} ਤੇ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਬਾਰੇ ਹੋਰ ਜਾਣਨ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GP.MonthlyDemandGenerated",
+            "message": "प्रिय {ownername}, {villagename} के लिए बिलिंग साइकिल {billingcycle} की मांग उत्पन्न की गई है। कृपया इस अवधि के लिए जल प्रभारों के संग्रहण की योजना बनाएं। {LINK} EGOVS",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GP.MonthlyDemandGenerated",
+            "message": "ਪਿਆਰੇ {ownername}, {villagename} ਲਈ ਬਿਲਿੰਗ ਸਾਈਕਲ {billingcycle} ਦੀ ਮੰਗ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਮਿਆਦ ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਉ। {LINK} EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GP.MonthlyDemandGenerated.N",
+            "message": "ਪਿਆਰੇ {ownername}, ਬਿਲਿੰਗ ਸਾਈਕਲ {billingcycle} ਦੀ ਮੰਗ {GPWSC} ਲਈ ਤਿਆਰ ਕੀਤੀ ਗਈ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਮਿਆਦ ਲਈ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਉ. {LINK}",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.CollectionDay",
+            "message": "ਪਿਆਰੇ {ownername}, ਰੁਪਏ. {amount} ਅੱਜ {date} {GPWSC} ਲਈ ਨਕਦ ਵਿੱਚ {no} ਖਪਤਕਾਰਾਂ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.CollectionDayOnline",
+            "message": "ਪਿਆਰੇ {ownername}, ਰੁਪਏ.{amount} ਅੱਜ {date} {GPWSC} ਲਈ {no} ਖਪਤਕਾਰਾਂ ਦੀ ਐਨਲਾਈਨ ਤੋਂ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.CollectionReminder",
+            "message": "ਪਿਆਰੇ {ownername}, {Date} ਤੇ {GPWSC} ਵਿਖੇਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਰੁਪਏ {amount} ਦੀ ਉਗਰਾਹੀ ਬਾਕੀ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.CollectionReminder.N",
+            "message": "ਪਿਆਰੇ {ownername}, ਰੁਪਏ. {amount} {GPWSC} ਤੇ {Date} ਦੇ ਅਨੁਸਾਰ ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ ਉਗਰਾਹੀ ਬਕਾਇਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {PENDING_COL_LINK} ਤੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.EnterExpense",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ {GPWSC} ਲਈ ਨਵੇਂ ਖਰਚਿਆਂ ਦੇ ਬਿੱਲ ਆਨਲਾਈਨ ਦਾਖਲ ਕਰੋ। ਹੁਣੇ ਖਰਚੇ ਦੀ ਐਂਟਰੀ ਕਰਨ ਲਈ {NEW_EXP_LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.MarkExpense",
+            "message": "{GPWSC} ਦੇ ਖਰਚੇ ਦੇ ਬਿੱਲ ਭੁਗਤਾਨ ਦੀ ਪੁਸ਼ਟੀ ਦੀ ਉਡੀਕ ਕਰ ਰਹੇ ਹੈ। ਜੇ ਪਹਿਲਾਂ ਹੀ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ {EXP_MRK_LINK} ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਦੀ  ਅਦਾਇਗੀ ਵਜੋਂ ਨਿਸ਼ਾਨਦੇਹੀ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.PreviousMonthSummary",
+            "message": "ਪਿਆਰੇ {user}, ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਦੇ ਵਿਰੁੱਧ {PREVIOUS_MONTH} ਵਿੱਚ {PREVIOUS_MONTH_COLLECTION} ਰੁਪਏ ਇਕੱਠੇ ਕੀਤੇ ਗਏ ਹੈ, ਅਤੇ {GPWSC} ਦੇ ਖਰਚੇ ਵਜੋਂ {PREVIOUS_MONTH_EXPENSE} ਰੁਪਏ ਖਰਚ ਕੀਤੇ ਗਏ ਹੈ। ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {LINK} ਤੇ ਕਲਿਕ ਕਰੋ। EGOVS",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "mGram.GPUser.PreviousMonthSummary.N MONTHLY_SUMMARY_SMS_EN_REMINDER",
+            "message": "ਪਿਆਰੇ {user}, ਰੁਪਏ. {PREVIOUS_MONTH_COLLECTION} {PREVIOUS_MONTH} ਪਾਣੀ ਦੇ ਖਰਚਿਆਂ ਅਤੇ ਰੁਪਏ ਦੇ ਵਿਰੁੱਧ ਇਕੱਠੀ ਕੀਤੀ ਗਈ ਹੈ. {PREVIOUS_MONTH_EXPENSE} ਨੂੰ {GPWSC} ਲਈ ਖਰਚੇ ਵਜੋਂ ਖਰਚ ਕੀਤਾ ਗਿਆ ਹੈ. ਹੋਰ ਵੇਰਵੇ ਦੇਖਣ ਲਈ {link} ਤੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "name",
+            "message": "ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "oldConnectionNumber",
+            "message": "ਪੁਰਾਣੀ ਕਨੈਕਸ਼ਨ ਆਈ.ਡੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb",
+            "message": "ਪੰਜਾਬ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.balewal",
+            "message": "ਬਾਲੇਵਾਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.baruwal",
+            "message": "ਬੜੂਵਾਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.batarla",
+            "message": "ਬਟਾਰਲਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.dabourlower",
+            "message": "ਡਾਬਰ ਘੱਟ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.dabourupper",
+            "message": "ਡਾਬਰ ਉੱਚ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.lalpur",
+            "message": "ਲਾਲਪੁਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.lodhipur",
+            "message": "ਲੋਧੀਪੁਰ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.massewal",
+            "message": "ਮੈਸੇਵਾਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "pb.sukhsal",
+            "message": "ਸੁਖਸਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        }
+    ]
