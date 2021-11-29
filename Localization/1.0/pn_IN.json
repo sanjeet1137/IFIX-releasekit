@@ -3316,5 +3316,83 @@
             "message": "ਬਿਲਿੰਗ ਸਾਈਕਲ ਦੀ ਲੋੜ ਹੈ",
             "module": "mgramseva-bill",
             "locale": "pn_IN"
-        }  
+        },
+        {
+            "code": "GRAM_PANCHAYAT_WATER_SUPPLY_AND_SANITATION",
+            "message": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਜਲ ਸਪਲਾਈ ਅਤੇ ਸੈਨੀਟੇਸ਼ਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "WATER_RECEIPT",
+            "message": "ਪਾਣੀ ਦੀ ਰਸੀਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_GPWSC_NAME",
+            "message": "ਜੀਪੀ ਡਬਲਯੂਐਸਸੀ ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_NO",
+            "message": "ਖਪਤਕਾਰ ਨੰ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_NAME",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_MOBILE_NO",
+            "message": "ਖਪਤਕਾਰ ਮੋਬਾਈਲ ਨੰ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_ADDRESS",
+            "message": "ਖਪਤਕਾਰ ਦਾ ਪਤਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "CONSUMER_RECEIPT_NO.",
+            "message": "ਰਸੀਦ ਨੰ.",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_SERVICE_TYPE",
+            "message": "ਸੇਵਾ ਦੀ ਕਿਸਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_BILL_PERIOD",
+            "message": "ਬਿੱਲ ਦੀ ਮਿਆਦ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_ISSUE_DATE",
+            "message": "ਰਸੀਦ ਜਾਰੀ ਕਰਨ ਦੀ ਮਿਤੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_AMOUNT_PAID",
+            "message": "ਭੁਗਤਾਨ ਕੀਤੀ ਰਕਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_AMOUNT_IN_WORDS",
+            "message": "ਰਕਮ (ਸ਼ਬਦਾਂ ਵਿੱਚ)",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        }
     ]
