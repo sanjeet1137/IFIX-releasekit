@@ -3532,5 +3532,83 @@
             "message": "Billing Cycle is required",
             "module": "mgramseva-bill",
             "locale": "en_IN"
+        },
+        {
+            "code": "GRAM_PANCHAYAT_WATER_SUPPLY_AND_SANITATION",
+            "message": "Gram Panchayat Water Supply and Sanitation",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WATER_RECEIPT",
+            "message": "WATER RECEIPT",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_GPWSC_NAME",
+            "message": "GPWSC Name",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_NO",
+            "message": "Consumer No.",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_NAME",
+            "message": "Consumer Name",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_MOBILE_NO",
+            "message": "Consumer Mobile No.",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_ADDRESS",
+            "message": "Consumer Address",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CONSUMER_RECEIPT_NO.",
+            "message": "Receipt No.",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_SERVICE_TYPE",
+            "message": "Service Type",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_BILL_PERIOD",
+            "message": "Bill Period",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_ISSUE_DATE",
+            "message": "Receipt Issue Date",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_AMOUNT_PAID",
+            "message": "Amount Paid",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_AMOUNT_IN_WORDS",
+            "message": "Amount (in words)",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
     ]
