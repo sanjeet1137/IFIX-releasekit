@@ -3304,5 +3304,17 @@
             "message": "ਸੁਖਸਲ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-        }
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_YEAR_LABEL_REQUIRED",
+            "message": "ਬਿਲਿੰਗ ਸਾਲ ਦੀ ਲੋੜ ਹੈ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL_REQUIRED",
+            "message": "ਬਿਲਿੰਗ ਸਾਈਕਲ ਦੀ ਲੋੜ ਹੈ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+        }  
     ]
