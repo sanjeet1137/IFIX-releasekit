@@ -3436,5 +3436,17 @@
             "message": "सुखसाल",
             "module": "mgramseva-common",
             "locale": "hi_IN"
-        }
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_YEAR_LABEL_REQUIRED",
+            "message": "बिलिंग वर्ष आवश्यक है",
+            "module": "mgramseva-bill",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL_REQUIRED",
+            "message": "बिलिंग चक्र आवश्यक है",
+            "module": "mgramseva-bill",
+            "locale": "hi_IN"
+        }  
     ]
