@@ -3448,5 +3448,83 @@
             "message": "बिलिंग चक्र आवश्यक है",
             "module": "mgramseva-bill",
             "locale": "hi_IN"
-        }  
+        } ,
+        {
+            "code": "GRAM_PANCHAYAT_WATER_SUPPLY_AND_SANITATION",
+            "message": "ग्राम पंचायत जलापूर्ति एवं स्वच्छता",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "WATER_RECEIPT",
+            "message": "जल रसीद",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_GPWSC_NAME",
+            "message": "जीपीडब्ल्यूएससी नाम",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_NO",
+            "message": "उपभोक्ता नं.",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_NAME",
+            "message": "उपभोक्ता का नाम",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_MOBILE_NO",
+            "message": "उपभोक्ता मोबाइल नं.",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_CONSUMER_ADDRESS",
+            "message": "उपभोक्ता का पता",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "CONSUMER_RECEIPT_NO.",
+            "message": "रसीद नं.",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_SERVICE_TYPE",
+            "message": "सेवा प्रकार",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_BILL_PERIOD",
+            "message": "बिल अवधि",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_ISSUE_DATE",
+            "message": "रसीद जारी करने की तिथि",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_AMOUNT_PAID",
+            "message": "राशि का भुगतान",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_AMOUNT_IN_WORDS",
+            "message": "राशि (शब्दों में)",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        }
     ]
