@@ -2161,7 +2161,7 @@
         },
         {
             "code": "NEW_BULK_DEMAND_EVENT",
-            "message": "Demand for {billing cycle} has been generated. {X} bills have been raised and sent to {X/X+Y} households. {Y} bills have to be raised. Click here to see details",
+            "message": "Demand for {billing cycle} has been generated. {X} bills have been raised and sent to {X/X+Y} households. {Y} bills have to be raised.",
             "module": "mgramseva-common",
             "locale": "en_IN"
         },
@@ -2173,7 +2173,7 @@
         },
         {
             "code": "NEW_BULK_DEMAND_EVENT_NM",
-            "message": "Demand for {billing cycle} has been generated. {X} bills have been raised and sent to {X/X} households. Click here to see details.",
+            "message": "Demand for {billing cycle} has been generated. {X} bills have been raised and sent to {X/X} households.",
             "module": "mgramseva-common",
             "locale": "en_IN"
         },
@@ -3519,6 +3519,18 @@
             "code": "pb.sukhsal",
             "message": "Sukhsal",
             "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_YEAR_LABEL_REQUIRED",
+            "message": "Billing Year is required",
+            "module": "mgramseva-bill",
+            "locale": "en_IN"
+        },
+        {
+            "code": "GENERATE_DEMAND_BILLING_CYCLE_LABEL_REQUIRED",
+            "message": "Billing Cycle is required",
+            "module": "mgramseva-bill",
             "locale": "en_IN"
         }
     ]
