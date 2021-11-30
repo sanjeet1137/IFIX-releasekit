@@ -3526,5 +3526,12 @@
             "message": "राशि (शब्दों में)",
             "module": "mgramseva-common",
             "locale": "hi_IN"
+        },
+        {
+            "code": "NO_CONNECTIONS_TO_GENERATE_DEMANDS",
+            "message": "कोई नई मांग उत्पन्न नहीं हुई। सभी कनेक्शनों में पहले से ही इस समयावधि की मांग है।",
+            "module": "mgramseva-bill",
+            "locale": "hi_IN"
         }
+
     ]
