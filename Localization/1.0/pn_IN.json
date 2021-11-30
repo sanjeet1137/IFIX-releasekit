@@ -3394,5 +3394,11 @@
             "message": "ਰਕਮ (ਸ਼ਬਦਾਂ ਵਿੱਚ)",
             "module": "mgramseva-common",
             "locale": "pn_IN"
+        },
+        {
+            "code": "NO_CONNECTIONS_TO_GENERATE_DEMANDS",
+            "message": "ਕੋਈ ਨਵੀਂ ਮੰਗ ਪੈਦਾ ਨਹੀਂ ਹੋਈ। ਸਾਰੇ ਕੁਨੈਕਸ਼ਨਾਂ ਦੀ ਪਹਿਲਾਂ ਹੀ ਇਸ ਸਮੇਂ ਦੀ ਮੰਗ ਹੈ।",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
         }
     ]
