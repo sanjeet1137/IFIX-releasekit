@@ -3610,5 +3610,12 @@
             "message": "Amount (in words)",
             "module": "mgramseva-common",
             "locale": "en_IN"
+        },
+         {
+            "code": "NO_CONNECTIONS_TO_GENERATE_DEMANDS",
+            "message": "No new Demand generated. All connections already have Demand for this Time Period.",
+            "module": "mgramseva-bill",
+            "locale": "en_IN"
         }
+
     ]
