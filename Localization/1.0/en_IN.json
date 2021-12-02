@@ -913,7 +913,7 @@
         },
         {
             "code": "CORE_EXPENSE_BILL_DATE",
-            "message": "Bill Date",
+            "message": "Bill registered Date",
             "module": "mgramseva-expenses",
             "locale": "en_IN"
         },
@@ -955,7 +955,7 @@
         },
         {
             "code": "CORE_EXPENSE_PART_BILL_DATE",
-            "message": "Party Bill Date",
+            "message": "Vendor Bill Date",
             "module": "mgramseva-expenses",
             "locale": "en_IN"
         },
