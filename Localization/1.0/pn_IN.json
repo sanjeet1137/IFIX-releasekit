@@ -859,7 +859,7 @@
         },
         {
             "code": "CORE_EXPENSE_BILL_DATE",
-            "message": "ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
+            "message": "ਬਿੱਲ ਰਜਿਸਟਰਡ ਮਿਤੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
         },
@@ -883,7 +883,7 @@
         },
         {
             "code": "CORE_EXPENSE_PART_BILL_DATE",
-            "message": "ਪਾਰਟੀ ਬਿੱਲ ਦੀ ਤਾਰੀਖ",
+            "message": "ਵਿਕਰੇਤਾ ਬਿੱਲ ਦੀ ਮਿਤੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
         },
