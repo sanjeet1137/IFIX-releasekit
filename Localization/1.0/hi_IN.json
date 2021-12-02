@@ -931,7 +931,7 @@
         },
         {
             "code": "CORE_EXPENSE_BILL_DATE",
-            "message": "बिल की तिथि",
+            "message": "बिल पंजीकृत तिथि",
             "module": "mgramseva-expenses",
             "locale": "hi_IN"
         },
@@ -949,7 +949,7 @@
         },
         {
             "code": "CORE_EXPENSE_PART_BILL_DATE",
-            "message": "पार्टी के बिल की तिथि",
+            "message": "विक्रेता बिल की तारीखि",
             "module": "mgramseva-expenses",
             "locale": "hi_IN"
         },
