@@ -3628,6 +3628,11 @@
             "message": "*Note*: Bill will be payable within 10 days of generation",
             "module": "mgramseva-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "CONSUMER_RECEIPT_PRINT",
+            "message": "Print mini receipt",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
-
     ]
