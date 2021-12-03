@@ -3538,6 +3538,12 @@
             "message": "Powered by DIGIT",
             "module": "mgramseva-common",
             "locale": "hi_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WS_BILL_NOTE",
+            "message": "ध्यान दें: - बिल का भुगतान जनरेशन की तारीख से 10 दिनों के भीतर किया जाना चाहिए।",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
         }
 
     ]
