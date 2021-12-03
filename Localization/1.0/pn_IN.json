@@ -3412,5 +3412,11 @@
             "message": "ਨੋਟ:- ਬਿਲ ਤਿਆਰ ਹੋਣ ਦੀ ਮਿਤੀ ਤੋਂ 10 ਦਿਨਾਂ ਦੇ ਅੰਦਰ-ਅੰਦਰ ਅਦਾ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-        }
+        },
+        {
+            "code": "CONSUMER_RECEIPT_PRINT",
+            "message": "ਮਿੰਨੀ ਰਸੀਦ ਪ੍ਰਿੰਟ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+       }
     ]
