@@ -1189,7 +1189,7 @@
         },
         {
             "code": "ENTER_OTP_SENT_TO",
-            "message": "<ਨੰਬਰ> ਤੇ ਭੇਜੇ ਗਏ ਓ ਟੀ ਪੀ ਨੂੰ ਦਾਖਲ ਕਰੋ",
+            "message": "ਭੇਜੀ ਗਈ ਓ ਟੀ ਪੀ ਦਰਜ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
         },
