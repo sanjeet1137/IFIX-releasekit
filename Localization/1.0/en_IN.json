@@ -3622,6 +3622,12 @@
             "message": "Powered by DIGIT",
             "module": "mgramseva-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "PDF_STATIC_LABEL_WS_BILL_NOTE",
+            "message": "*Note*: Bill will be payable within 10 days of generation",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
 
     ]
