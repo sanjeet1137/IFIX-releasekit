@@ -3532,6 +3532,12 @@
             "message": "कोई नई मांग उत्पन्न नहीं हुई। सभी कनेक्शनों में पहले से ही इस समयावधि की मांग है।",
             "module": "mgramseva-bill",
             "locale": "hi_IN"
+        },
+        {
+            "code": "RECEIPT_FOOTER",
+            "message": "Powered by DIGIT",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
         }
 
     ]
