@@ -3400,5 +3400,11 @@
             "message": "ਕੋਈ ਨਵੀਂ ਮੰਗ ਪੈਦਾ ਨਹੀਂ ਹੋਈ। ਸਾਰੇ ਕੁਨੈਕਸ਼ਨਾਂ ਦੀ ਪਹਿਲਾਂ ਹੀ ਇਸ ਸਮੇਂ ਦੀ ਮੰਗ ਹੈ।",
             "module": "mgramseva-bill",
             "locale": "pn_IN"
+        },
+        {
+            "code": "RECEIPT_FOOTER",
+            "message": "Powered by DIGIT",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
         }
     ]
