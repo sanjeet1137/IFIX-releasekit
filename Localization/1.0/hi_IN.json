@@ -3544,6 +3544,12 @@
             "message": "ध्यान दें: - बिल का भुगतान जनरेशन की तारीख से 10 दिनों के भीतर किया जाना चाहिए।",
             "module": "mgramseva-common",
             "locale": "hi_IN"
-        }
+        },
+         {
+            "code": "CONSUMER_RECEIPT_PRINT",
+            "message": "मिनी रसीद प्रिंट करें",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+      }
 
     ]
