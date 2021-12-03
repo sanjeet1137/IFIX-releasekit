@@ -3616,6 +3616,12 @@
             "message": "No new Demand generated. All connections already have Demand for this Time Period.",
             "module": "mgramseva-bill",
             "locale": "en_IN"
+        },
+        {
+            "code": "RECEIPT_FOOTER",
+            "message": "Powered by DIGIT",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
 
     ]
