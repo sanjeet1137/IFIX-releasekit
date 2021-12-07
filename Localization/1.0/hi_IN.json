@@ -1471,7 +1471,7 @@
         },
         {
             "code": "GENERATE_DEMAND_EN_REMINDER",
-            "message": "प्रिय उपयोगकर्ता, <month> के लिए स्वचालित मांग सृजन विफल हो गया है। कृपया मैन्युअल रूप से उत्पन्न करने के लिए यहां क्लिक करें",
+            "message": "प्रिय उपयोगकर्ता, {BILLING_CYCLE} के लिए स्वचालित मांग सृजन विफल हो गया है। कृपया मैन्युअल रूप से उत्पन्न करने के लिए यहां क्लिक करें",
             "module": "mgramseva-common",
             "locale": "hi_IN"
         },
@@ -2659,7 +2659,7 @@
         },
         {
             "code": "PENDING_COLLECTION_EN_REMINDER",
-            "message": "{TODAY DATE} के अनुसार {X} रुपये का संग्रह लंबित है। डैशबोर्ड देखने के लिए यहां क्लिक करें",
+            "message": "{TODAY_DATE} के अनुसार {PENDING_COLLECTION} रुपये का संग्रह लंबित है। डैशबोर्ड देखने के लिए यहां क्लिक करें",
             "module": "mgramseva-common",
             "locale": "hi_IN"
         },
