@@ -67,7 +67,7 @@
         },
         {
             "code": "ARREARS",
-            "message": "ਬਕਾਏ",
+            "message": "ਪਿਛਲਾ ਬਕਾਇਆ",
             "module": "mgramseva-payments",
             "locale": "pn_IN"
         },
@@ -415,7 +415,7 @@
         },
         {
             "code": "CONSUMER_DOOR_NO",
-            "message": "ਦਰਵਾਜ਼ਾ ਨੰਬਰ",
+            "message": "ਮਕਾਨ ਨੰਬਰ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
         },
@@ -439,7 +439,7 @@
         },
         {
             "code": "CONSUMER_FATHER_SPOUSE_NAME",
-            "message": "ਜੀਵਨ ਸਾਥੀ/ਮਾਪਿਆਂ ਦਾ ਨਾਮ",
+            "message": "ਪਿਤਾ/ਪਤੀ ਦਾ ਨਾਮ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
         },
@@ -529,7 +529,7 @@
         },
         {
             "code": "CONSUMER_PROPERTY_TYPE",
-            "message": "ਰਿਹਾਇਸ਼ੀ",
+            "message": "ਕੁਨੈਕਸ਼ਨ ਦੀ ਕਿਸਮ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
         },
@@ -577,7 +577,7 @@
         },
         {
             "code": "CONSUMER_SERVICE_TYPE",
-            "message": "ਗੈਰ-ਮੀਟਰਡ",
+            "message": "ਪਾਣੀ ਦੀ ਸਪਲਾਈ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
         },
@@ -727,7 +727,7 @@
         },
         {
             "code": "CORE_COMMON_GENDER_FEMALE",
-            "message": "ਰਤ",
+            "message": "ਔਰਤ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
         },
@@ -883,7 +883,7 @@
         },
         {
             "code": "CORE_EXPENSE_PART_BILL_DATE",
-            "message": "ਵਿਕਰੇਤਾ ਬਿੱਲ ਦੀ ਮਿਤੀ",
+            "message": "ਪ੍ਰਾਪਤ ਕਰਤਾ ਦੇ ਬਿੱਲ ਦੀ ਮਿਤੀੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
         },
@@ -913,7 +913,7 @@
         },
         {
             "code": "CORE_EXPENSE_VENDOR_NAME",
-            "message": "ਵਿਕਰੇਤਾ ਦਾ ਨਾਮ",
+            "message": "ਪ੍ਰਾਪਤ ਕਰਤਾ ਦਾ ਨਾਮ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
         },
