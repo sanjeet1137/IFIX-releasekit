@@ -1405,7 +1405,7 @@
         },
         {
             "code": "GENERATE_DEMAND_EN_REMINDER",
-            "message": "ਪਿਆਰੇ ਉਪਭੋਗਤਾ, <month> ਲਈ ਆਟੋਮੈਟਿਕ ਮੰਗ ਬਣਾਉਣਾ ਅਸਫਲ ਹੋ ਗਿਆ ਹੈ। ਹੱਥੀਂ ਬਣਾਉਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ",
+            "message": "ਪਿਆਰੇ ਉਪਭੋਗਤਾ, {BILLING_CYCLE} ਲਈ ਆਟੋਮੈਟਿਕ ਮੰਗ ਬਣਾਉਣਾ ਅਸਫਲ ਹੋ ਗਿਆ ਹੈ। ਹੱਥੀਂ ਬਣਾਉਣ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
         },
@@ -2587,7 +2587,7 @@
         },
         {
             "code": "PENDING_COLLECTION_EN_REMINDER",
-            "message": "Rs.{X} {TODAY_DATE} ਦੇ ਅਨੁਸਾਰ ਸੰਗ੍ਰਹਿ ਲਈ ਬਕਾਇਆ ਹੈ. ਡੈਸ਼ਬੋਰਡ ਦੇਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
+            "message": "Rs.{PENDING_COLLECTION} {TODAY_DATE} ਦੇ ਅਨੁਸਾਰ ਸੰਗ੍ਰਹਿ ਲਈ ਬਕਾਇਆ ਹੈ. ਡੈਸ਼ਬੋਰਡ ਦੇਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
         },
