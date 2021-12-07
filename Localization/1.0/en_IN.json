@@ -457,7 +457,7 @@
         },
         {
             "code": "CONSUMER_DOOR_NO",
-            "message": "Door Number",
+            "message": "House Number",
             "module": "mgramseva-consumer",
             "locale": "en_IN"
         },
@@ -475,7 +475,7 @@
         },
         {
             "code": "CONSUMER_FATHER_SPOUSE_NAME",
-            "message": "Spouse/Parent's Name",
+            "message": "Father/Husband Name",
             "module": "mgramseva-consumer",
             "locale": "en_IN"
         },
@@ -559,7 +559,7 @@
         },
         {
             "code": "CONSUMER_PROPERTY_TYPE",
-            "message": "Property Type",
+            "message": "Type of Connection",
             "module": "mgramseva-consumer",
             "locale": "en_IN"
         },
@@ -601,7 +601,7 @@
         },
         {
             "code": "CONSUMER_SERVICE_TYPE",
-            "message": "Service Type",
+            "message": "Type of Water Supply",
             "module": "mgramseva-consumer",
             "locale": "en_IN"
         },
@@ -955,7 +955,7 @@
         },
         {
             "code": "CORE_EXPENSE_PART_BILL_DATE",
-            "message": "Vendor Bill Date",
+            "message": "Payee Bill Date",
             "module": "mgramseva-expenses",
             "locale": "en_IN"
         },
@@ -1009,7 +1009,7 @@
         },
         {
             "code": "CORE_EXPENSE_VENDOR_NAME",
-            "message": "Vendor Name",
+            "message": "Name of Payee",
             "module": "mgramseva-expenses",
             "locale": "en_IN"
         },
@@ -2935,7 +2935,7 @@
         },
         {
             "code": "SEARCH_CONNECTION_LABEL",
-            "message": "Search Connection",
+            "message": "Search Consumer Connection",
             "module": "mgramseva-water-connection",
             "locale": "en_IN"
         },
@@ -2959,7 +2959,7 @@
         },
         {
             "code": "SEARCH_CONNECTION_OWNER_MOB_NUM",
-            "message": "Owner Mobile Number",
+            "message": "Consumer Mobile Number",
             "module": "mgramseva-water-connection",
             "locale": "en_IN"
         },
