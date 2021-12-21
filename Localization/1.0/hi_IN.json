@@ -3550,6 +3550,12 @@
             "message": "मिनी रसीद प्रिंट करें",
             "module": "mgramseva-common",
             "locale": "hi_IN"
-      }
+      },
+      {
+            "code": "CANNOT_BE_EMPTY",
+            "message": "खाली नहीं हो सकता",
+            "module": "mgramseva-payments",
+            "locale": "hi_IN"
+        }
 
     ]
