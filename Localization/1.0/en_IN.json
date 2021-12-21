@@ -3634,5 +3634,11 @@
             "message": "Print mini receipt",
             "module": "mgramseva-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "CANNOT_BE_EMPTY",
+            "message": "Cannot be Empty",
+            "module": "mgramseva-payments",
+            "locale": "en_IN"
         }
     ]
