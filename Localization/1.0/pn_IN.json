@@ -3418,5 +3418,11 @@
             "message": "ਮਿੰਨੀ ਰਸੀਦ ਪ੍ਰਿੰਟ ਕਰੋ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-       }
+       },
+        {
+            "code": "CANNOT_BE_EMPTY",
+            "message": "ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ",
+            "module": "mgramseva-payments",
+            "locale": "pn_IN"
+        }
     ]
