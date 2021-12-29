@@ -3640,5 +3640,12 @@
             "message": "Cannot be Empty",
             "module": "mgramseva-payments",
             "locale": "en_IN"
+        },
+        {
+            "code": "INVALID_BILLING_PERIOD",
+            "message": "Start of the billing period can not be greater than end date",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
+        
     ]
