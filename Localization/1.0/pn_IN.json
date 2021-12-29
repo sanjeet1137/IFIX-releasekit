@@ -3424,5 +3424,11 @@
             "message": "ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ",
             "module": "mgramseva-payments",
             "locale": "pn_IN"
-        }
+       },
+       {
+           "code": "INVALID_BILLING_PERIOD",
+           "message": "ਬਿਲਿੰਗ ਮਿਆਦ ਦੀ ਸ਼ੁਰੂਆਤ ਸਮਾਪਤੀ ਮਿਤੀ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+           "module": "mgramseva-common",
+           "locale": "pn_IN"
+       }
     ]
