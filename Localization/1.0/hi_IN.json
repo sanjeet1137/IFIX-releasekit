@@ -3556,6 +3556,12 @@
             "message": "खाली नहीं हो सकता",
             "module": "mgramseva-payments",
             "locale": "hi_IN"
-        }
+      },
+      {
+            "code": "INVALID_BILLING_PERIOD",
+            "message": "बिलिंग अवधि का प्रारंभ समाप्ति तिथि से अधिक नहीं हो सकता",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+       }
 
     ]
