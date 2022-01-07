@@ -1,0 +1,405 @@
+[
+        {
+            "code": "SESSION_EXPIRED",
+            "message": "ਲੌਗਇਨ ਸੈਸ਼ਨ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "OK",
+            "message": "ਠੀਕ ਹੈ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "ALERT",
+            "message": "ਚੇਤਾਵਨੀ!!!",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "ALL_DEMANDS_REVERSED",
+            "message": "ਸਾਰੀਆਂ ਮੰਗਾਂ ਉਲਟਾ ਕਰ ਦਿੱਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "TOTAL",
+            "message": "ਕੁੱਲ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "Jan",
+            "message": "ਜਨਵਰੀ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "Feb",
+            "message": "ਫਰਵਰੀ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "Mar",
+            "message": "ਮਾਰਚ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "Apr",
+            "message": "ਅਪ੍ਰੈਲ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "May",
+            "message": "ਮਈ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "Jun",
+            "message": "ਜੂਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "Jul",
+            "message": "ਜੁਲਾਈ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "Sep",
+            "message": "ਸਤੰਬਰ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "Oct",
+            "message": "ਅਕਤੂਬਰ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "Nov",
+            "message": "ਨਵੰਬਰ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "Dec",
+            "message": "ਦਸੰਬਰ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "CONSUMER_AADHAR_NUMBER",
+            "message": "ਆਧਾਰ ਨੰਬਰ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "CONSUMER_CATEGORY",
+            "message": "ਸ਼੍ਰੇਣੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "CONSUMER_SUBCATEGORY",
+            "message": "ਉਪ ਸ਼੍ਰੇਣੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "GENERAL",
+            "message": "ਆਮ ਸ਼੍ਰੇਣੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "SC",
+            "message": "ਐਸਸੀ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "ST",
+            "message": "ਸੇਂਟ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "APL",
+            "message": "ਗਰੀਬੀ ਰੇਖਾ ਤੋਂ ਉਪਰ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "BPL",
+            "message": "ਗਰੀਬੀ ਰੇਖਾ ਤੋਂ ਹੇਠਾਂ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "NOTE",
+            "message": "ਨੋਟ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "REVENUE_NOTE",
+            "message": "ਚੁਣੇ ਹੋਏ ਮਹੀਨੇ ਦੇ ਸੰਗ੍ਰਹਿ ਅਤੇ ਖਰਚਿਆਂ ਦੇ ਵੇਰਵੇ ਦੇਖਣ ਲਈ ਵਿਅਕਤੀਗਤ ਸੈੱਲਾਂ ਤੇ ਕਲਿਕ ਕਰੋ.",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "ANNUAL_SHARE_MSG_WEB",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਵਿੱਤੀ ਸਾਲ {year-year} ਲਈ mGramSeva ਦੀ ਸਾਲਾਨਾ ਸੰਖੇਪ ਰਿਪੋਰਟ ਡਾ ਡਾਊਨਲੋਡ ਨਲੋਡ ਕਰਨ ਲਈ ਲਿੰਕ ਲੱਭੋ {link}",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "ANNUAL_SHARE_MSG_MOBILE",
+            "message": "ਨੱਥੀ ਚਿੱਤਰ ਵਿੱਤੀ ਸਾਲ {year-year} ਲਈ mGramSeva ਦੀ ਸਾਲਾਨਾ ਸੰਖੇਪ ਰਿਪੋਰਟ ਹੈ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "YEAR_TOOL_TIP_MESSAGE",
+            "message": "ਸਾਲ ਦੇ ਸੰਖੇਪ ਨੂੰ ਦੇਖਣ ਲਈ ਰੇਡੀਓ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ. ਮਹੀਨੇ ਦੀ ਚੋਣ ਕਰਨ ਅਤੇ ਦੇਖਣ ਲਈ ਸਾਲ 'ਤੇ ਕਲਿਕ ਕਰੋ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "REVENUE_EXPENDITURE_TREND",
+            "message": "ਮਾਲੀਆ ਅਤੇ ਖਰਚੇ ਦਾ ਰੁਝਾਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "TREND_LINE",
+            "message": "ਟ੍ਰੈਂਡ ਲਾਈਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "REVENUE",
+            "message": "ਮਾਲੀਆ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		 {
+            "code": "MONTH",
+            "message": "ਮਹੀਨਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "SURPLUS_DEFICIT",
+            "message": "ਵਾਧੂ / ਘਾਟਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "DEMAND_ARREARS",
+            "message": "Demand (Arrears)",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "DEMAND_ARREARS",
+            "message": "ਮੰਗ (ਬਕਾਏ)",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "PENIDNG_COLLECTIONS",
+            "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "ACTUAL_COLLECTIONS",
+            "message": "ਅਸਲ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "PENDING_EXPENDITURE",
+            "message": "ਬਕਾਇਆ ਖਰਚਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "ACTUAL_PAYMENT",
+            "message": "ਅਸਲ ਭੁਗਤਾਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "VIEW_ALL",
+            "message": "ਸਾਰੇ ਵੇਖੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "CONSUMER_RECORDS",
+            "message": "ਖਪਤਕਾਰ ਰਿਕਾਰਡ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "PDF_SUB_TEXT_BELOW_LIST",
+            "message": "ਹੇਠਾਂ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ ਜੋ  <selectedTab> ਅਤੇ ਨਾਮ/ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <search> ਸ਼ਾਮਲ ਹੈ, ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਪਾਣੀ ਦੀ ਚਾਰਜਿਜ਼  <date> ਤੱਕ ਦਿਖਾਈ ਦੇ ਰਹੇ ਹਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "all",
+            "message": "ਸਾਰੇ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "PAID",
+            "message": "ਦਾ ਭੁਗਤਾਨ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "PENDING",
+            "message": "ਬਕਾਇਆ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "WHATSAPP_TEXT_HOUSEHOLD",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਹਾਉਸਹੋਲਡ ਰਜਿਸਟਰ ਨੂੰ <Date> ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਲਈ ਨੱਥੀ ਲਿੰਕ ਲੱਭੋ  <link>",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "NO_OF_RECORDS",
+            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: <n>",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "ALL_NOTIFICATIONS",
+            "message": "ਸਾਰੀਆਂ ਸੂਚਨਾਵਾਂ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "DAY_AGO",
+            "message": "ਦਿਨ ਪਹਿਲਾਂ",
+            "module": "mgramseva-bill",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "DASHBOARD_WATER_QUALITY_GOOD",
+            "message": "ਗੁਣਵੱਤਾ ਵਾਲੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "DASHBOARD_HAPPY_WATER_SUPPLY",
+            "message": "ਉਪਭੋਗਤਾ ਦੀ ਸੰਤੁਸ਼ਟੀ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "DASHBOARD_WATER_SUPPLY_REGULAR",
+            "message": "ਪਾਣੀ ਦੀ ਲੋੜੀਂਦੀ ਸਪਲਾਈ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code":"USER_GAVE_FEEDBACK",
+            "message": "ਫੀਡਬੈਕ <n> ਖਪਤਕਾਰਾਂ ਦੁਆਰਾ <date> ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "DASHBOARD_WATER_SUPPLY_REGULAR",
+            "message": "ਪਾਣੀ ਦੀ ਲੋੜੀਂਦੀ ਸਪਲਾਈ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "USER_GAVE_FEEDBACK",
+            "message": "ਫੀਡਬੈਕ <n> ਖਪਤਕਾਰਾਂ ਦੁਆਰਾ <date> ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "dashboard_demand",
+            "message": "ਮੰਗ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "dashboard_pendingCollection",
+            "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+	   {
+            "code": "dashboard_actualCollection",
+            "message": "ਅਸਲ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "dashboard_totalExpenditure",
+            "message": "ਕੁੱਲ ਖਰਚਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "dashboard_amountUnpaid",
+            "message": "ਅਦਾਇਗੀ ਦੀ ਰਕਮ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "dashboard_amountPaid",
+            "message": "ਅਦਾਇਗੀ ਕੀਤੀ ਰਕਮ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		
+		{
+            "code": "MONTHLY_REPORT_MESSAGE",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ <Month-Year> ਲਈ ਐਮਗ੍ਰਾਮਸੇਵਾ ਦੀ ਮਾਸਿਕ ਸੰਖੇਪ ਰਿਪੋਰਟ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਲਿੰਕ ਲੱਭੋ <link>",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "NUMBER_OF_RECORDS",
+            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: <n>",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "EXPENDITURE_BILLS",
+            "message": "ਖਰਚੇ ਦੇ ਬਿੱਲ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "EXPENDITURE_DESC",
+            "message": "ਹੇਠਾਂ <Pending Or Paid> ਦੀ ਸਥਿਤੀ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਬਿੱਲਾਂ ਦੀ ਸੂਚੀ ਹੈ ਅਤੇ ਬਿੱਲ ਆਈਡੀ / ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਪਾਠ ਜਿਸ ਵਿੱਚ <Time period> ਲਈ <text> ਸ਼ਾਮਲ ਹੈ.",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "COLLECTION_DESC",
+            "message": "ਹੇਠਾਂ ਪ੍ਰਾਪਰਟੀ ਦੀ ਕਿਸਮ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ <Residential or Commercial> ਅਤੇ ਨਾਮ/ ਖਪਤਕਾਰ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <text> ਹੈ.",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        }
+]	  

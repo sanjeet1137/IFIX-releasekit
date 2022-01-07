@@ -1,0 +1,399 @@
+[
+        {
+            "code": "SESSION_EXPIRED",
+            "message": "Login Session Expired",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "TOTAL",
+            "message": "Total",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "ALL_DEMANDS_REVERSED",
+            "message": "All the demands are reversed",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		{
+            "code": "OK",
+            "message": "OK",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "ALERT",
+            "message": "Alert!!!",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Jan",
+            "message": "Jan",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Feb",
+            "message": "Feb",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Mar",
+            "message": "Mar",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Apr",
+            "message": "Apr",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "May",
+            "message": "May",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "Jun",
+            "message": "Jun",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Jul",
+            "message": "Jul",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+		{
+            "code": "Aug",
+            "message": "Aug",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Sep",
+            "message": "Sep",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "Oct",
+            "message": "Oct",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "Nov",
+            "message": "Nov",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		  {
+            "code": "Dec",
+            "message": "Dec",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "YTD",
+            "message": "YTD",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "NOTE",
+            "message": "Note",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "REVENUE_NOTE",
+            "message": "Click on individual cells to see details of collections and expenditure for the selected month.",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "ANNUAL_SHARE_MSG_WEB",
+            "message": "Please find link to download Annual Summary Report of mGramSeva for the financial year {year-year} {link} ",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "ANNUAL_SHARE_MSG_MOBILE",
+            "message": "Attached Image is the Annual Summary Report of mGramSeva for the financial year {year-year}.",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "YEAR_TOOL_TIP_MESSAGE",
+            "message": "Select the radio button to view the year summary. Click on the year to select and view the months",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "CONSUMER_AADHAR_NUMBER",
+            "message": "Aadhar Number",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "CONSUMER_CATEGORY",
+            "message": "Category",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		{
+            "code": "CONSUMER_SUBCATEGORY",
+            "message": "Sub-Category",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		{
+            "code": "GENERAL",
+            "message": "General",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		{
+            "code": "SC",
+            "message": "SC",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "ST",
+            "message": "ST",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "APL",
+            "message": "APL",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		{
+            "code": "BPL",
+            "message": "BPL",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
+        },
+		{
+            "code": "REVENUE_EXPENDITURE_TREND",
+            "message": "Revenue and Expenditure Trend",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "TREND_LINE",
+            "message": "Trend Line",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "REVENUE",
+            "message": "Revenue",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "MONTH",
+            "message": "Month",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "SURPLUS_DEFICIT",
+            "message": "Surplus / Deficit",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "DEMAND_ARREARS",
+            "message": "Demand (Arrears)",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		 {
+            "code": "PENIDNG_COLLECTIONS",
+            "message": "Pending Collections",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "ACTUAL_COLLECTIONS",
+            "message": "Actual Collections",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "PENDING_EXPENDITURE",
+            "message": "Pending Expenditure",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "ACTUAL_PAYMENT",
+            "message": "ਅਸਲ ਭੁਗਤਾਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+		{
+            "code": "VIEW_ALL",
+            "message": "View All",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "CONSUMER_RECORDS",
+            "message": "Consumer Records",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "PDF_SUB_TEXT_BELOW_LIST",
+            "message": "Below are list of all consumers matching with status as <selectedTab> and Name/Connection ID containing <search> showing Pending Water Charges till <date>",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "all",
+            "message": "All",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "PAID",
+            "message": "Paid",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "PENDING",
+            "message": "Pending",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "WHATSAPP_TEXT_HOUSEHOLD",
+            "message": "Please find attached link to download the HouseHold Register updated on <Date> <link>",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "NO_OF_RECORDS",
+            "message": "Number of Records: <n>",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "ALL_NOTIFICATIONS",
+            "message": "All Notifications",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "DAY_AGO",
+            "message": "day ago",
+            "module": "mgramseva-bill",
+            "locale": "en_IN"
+        },
+		{
+            "code": "DASHBOARD_WATER_QUALITY_GOOD",
+            "message": "Quality water supply",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "DASHBOARD_HAPPY_WATER_SUPPLY",
+            "message": "User satisfaction",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "DASHBOARD_WATER_SUPPLY_REGULAR",
+            "message": "Sufficient water supply",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "USER_GAVE_FEEDBACK",
+            "message": "Feedback provided by <n> consumers in <date>",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "dashboard_demand",
+            "message": "Demand",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+       },
+	   {
+            "code": "dashboard_pendingCollection",
+            "message": "Pending Collection",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "dashboard_actualCollection",
+            "message": "Actual Collection",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "dashboard_totalExpenditure",
+            "message": "Total Expenditure",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "dashboard_amountUnpaid",
+            "message": "Amount Unpaid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "dashboard_amountPaid",
+            "message": "Amount Paid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "NO_OF_RECORDS",
+            "message": "Number of Records: <n>",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+		{
+            "code": "MONTHLY_REPORT_MESSAGE",
+            "message": "Please find link to download Monthly Summary Report of mGramSeva for <Month-Year> <link>",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "EXPENDITURE_BILLS",
+            "message": "Expenditure Bills",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "EXPENDITURE_DESC",
+            "message": "Below are list of all bills matching with status as <Pending Or Paid> and Bill ID / Vendor Name text containing <text> for the time period <Time period>.",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		{
+            "code": "COLLECTION_DESC",
+            "message": "Below are list of all consumers matching with property type as <Residential or Commercial> and Name/ Consumer ID containing <text>.",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        }
+
+]		
