@@ -394,6 +394,47 @@
             "message": "Below are list of all consumers matching with property type as <Residential or Commercial> and Name/ Consumer ID containing <text>.",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
+        },	
+        {
+            "code": "EXPENSE_START_DATE",
+            "message": "Expense From Date",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENSE_END_DATE",
+            "message": "Expense To Date",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENSE_START_DATE_MANDATORY",
+            "message": "Expense From Date is mandatory",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENSE_END_DATE_MANDATORY",
+            "message": "Expense To Date is mandatory",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EXPENSE_END_START_DATE_VALIDATION",
+            "message": "End date cannot be before the start date",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FROM_DATE_CANNOT_BE_AFTER_BILL_DATE",
+            "message": "From date should not be higher than the bill date",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TO_DATE_CANNOT_BE_AFTER_BILL_DATE",
+            "message": "To date should not be higher than the bill date",
+            "module": "mgramseva-expenses",
+            "locale": "en_IN"
         }
-
 ]		
