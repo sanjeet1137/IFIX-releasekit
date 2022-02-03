@@ -27,7 +27,7 @@
             "code": "OK",
             "message": "ठीक है",
             "module": "mgramseva-common",
-            "locale": "en_IN"
+            "locale": "hi_IN"
         },
 		 {
             "code": "Jan",
@@ -405,6 +405,49 @@
             "code": "COLLECTION_DESC",
             "message": "नीचे उन सभी उपभोक्ताओं की सूची है जो संपत्ति के प्रकार <Residential or Commercial> और नाम या उपभोक्ता आई.डी <text> के रूप से मेल खाते है।",
             "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+	
+        {
+            "code": "EXPENSE_START_DATE",
+            "message": "व्यय प्रारंभ तिथि",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENSE_END_DATE",
+            "message": "व्यय समाप्ति तिथि",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENSE_START_DATE_MANDATORY",
+            "message": "व्यय प्रारंभ तिथि अनिवार्य है",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENSE_END_DATE_MANDATORY",
+            "message": "व्यय समाप्ति तिथि अनिवार्य है",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "EXPENSE_END_START_DATE_VALIDATION",
+            "message": "खत्म होने की तारीख, शुरू होने की तारीख से पहले की नहीं हो सकती",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "FROM_DATE_CANNOT_BE_AFTER_BILL_DATE",
+            "message": "दिनांक से बिल दिनांक से अधिक नहीं होना चाहिए",
+            "module": "mgramseva-expenses",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "TO_DATE_CANNOT_BE_AFTER_BILL_DATE",
+            "message": "आज तक की तारीख बिल की तारीख से अधिक नहीं होनी चाहिए",
+            "module": "mgramseva-expenses",
             "locale": "hi_IN"
         }
 ]
