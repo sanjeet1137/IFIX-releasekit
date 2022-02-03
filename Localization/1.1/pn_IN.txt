@@ -401,5 +401,48 @@
             "message": "ਹੇਠਾਂ ਪ੍ਰਾਪਰਟੀ ਦੀ ਕਿਸਮ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ <Residential or Commercial> ਅਤੇ ਨਾਮ/ ਖਪਤਕਾਰ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <text> ਹੈ.",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
+        },
+	
+        {
+            "code": "EXPENSE_START_DATE",
+            "message": "ਖਰਚਾ ਸ਼ੁਰੂ ਹੋਣ ਦੀ ਮਿਤੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_END_DATE",
+            "message": "ਖਰਚੇ ਦੀ ਸਮਾਪਤੀ ਮਿਤੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_START_DATE_MANDATORY",
+            "message": "ਖਰਚੇ ਦੀ ਸ਼ੁਰੂਆਤ ਦੀ ਮਿਤੀ ਲਾਜ਼ਮੀ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_END_DATE_MANDATORY",
+            "message": "ਖਰਚੇ ਦੀ ਸਮਾਪਤੀ ਮਿਤੀ ਲਾਜ਼ਮੀ ਹੈ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "EXPENSE_END_START_DATE_VALIDATION",
+            "message": "ਸਮਾਪਤੀ ਮਿਤੀ ਸ਼ੁਰੂਆਤੀ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "FROM_DATE_CANNOT_BE_AFTER_BILL_DATE",
+            "message": "ਮਿਤੀ ਤੋਂ ਬਿੱਲ ਦੀ ਮਿਤੀ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TO_DATE_CANNOT_BE_AFTER_BILL_DATE",
+            "message": "ਅੱਜ ਦੀ ਮਿਤੀ ਬਿਲ ਦੀ ਮਿਤੀ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ",
+            "module": "mgramseva-expenses",
+            "locale": "pn_IN"
         }
 ]	  
