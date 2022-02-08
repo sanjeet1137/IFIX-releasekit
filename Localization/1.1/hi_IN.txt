@@ -329,79 +329,97 @@
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
+	{
             "code": "DASHBOARD_WATER_SUPPLY_REGULAR",
             "message": "पर्याप्त जल आपूर्ति",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
-            "code": "dashboard_demand",
-            "message": "मांग",
-            "module": "mgramseva-dashboard",
-            "locale": "hi_IN"
-        },
-		{
-            "code": "dashboard_pendingCollection",
-            "message": "लंबित संग्रह",
-            "module": "mgramseva-dashboard",
-            "locale": "hi_IN"
-       },
-	   {
-            "code": "dashboard_actualCollection",
-            "message": "वास्तविक संग्रह",
-            "module": "mgramseva-dashboard",
-            "locale": "hi_IN"
-       },
-	   {
-            "code": "dashboard_totalExpenditure",
+	{
+            "code": "DASHBOARD_TOTALEXPENDITURE",
             "message": "कुल खर्च",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
-       },
-	   {
-            "code": "dashboard_amountUnpaid",
+        },
+       {
+            "code": "DASHBOARD_AMOUNTUNPAID",
             "message": "बकाया राशि",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
-            "code": "dashboard_amountPaid",
+        {
+            "code": "DASHBOARD_AMOUNTPAID",
             "message": "भुगतान की गयी राशि",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
+        {
+            "code": "DASHBOARD_TOTALBILLS",
+            "message": "कुल बिल",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_BILLSPAID",
+            "message": "भुगतान किए गए बिल",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_PENDINGBILLS",
+            "message": "लंबित बिल",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+       {
+            "code": "DASHBOARD_ELECTRICITYBILL",
+            "message": "बिजली का बिल",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_OMMISC",
+            "message": "ओ.एंड.एम. और विविध",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_SALARY",
+            "message": "वेतन",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },	
+	{
             "code": "NO_OF_RECORDS",
             "message": "रिकॉर्ड्स की संख्या: <n>",
             "module": "mgramseva-common",
             "locale": "hi_IN"
         },
-		{
+	{
             "code": "MONTHLY_REPORT_MESSAGE",
             "message": "कृपया <Month-Year> के लिए mGramSeva की मासिक सारांश रिपोर्ट डाउनलोड करने के लिए लिंक खोजें <link>",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
+	{
             "code": "NUMBER_OF_RECORDS",
             "message": "अभिलेखों की संख्या: <n>",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
+	{
             "code": "EXPENDITURE_BILLS",
             "message": "व्यय बिल्स",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
+	{
             "code": "EXPENDITURE_DESC",
             "message": "नीचे उन सभी बिलों की सूची है जो स्थिति <Pending Or Paid> और बिल आई.डी / विक्रेता का नाम <text> के रूप से मेल खाते हैं और समय अवधि <Time period> के दौरान के हैं ।",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
-		{
+	{
             "code": "COLLECTION_DESC",
             "message": "नीचे उन सभी उपभोक्ताओं की सूची है जो संपत्ति के प्रकार <Residential or Commercial> और नाम या उपभोक्ता आई.डी <text> के रूप से मेल खाते है।",
             "module": "mgramseva-dashboard",
