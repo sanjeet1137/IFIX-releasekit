@@ -438,6 +438,12 @@
             "locale": "hi_IN"
         },
 	{
+            "code": "DASHBOARD_DEMAND",
+            "message": "मांग",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+	{
             "code": "NO_OF_RECORDS",
             "message": "रिकॉर्ड्स की संख्या: <n>",
             "module": "mgramseva-common",
