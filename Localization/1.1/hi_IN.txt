@@ -388,7 +388,55 @@
             "message": "वेतन",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
-        },	
+        },
+	{
+            "code": "DASHBOARD_ACTUALCOLLECTION",
+            "message": "वास्तविक संग्रह",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_PENDINGCOLLECTION",
+            "message": "लंबित संग्रह",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+       {
+            "code": "DASHBOARD_RESIDETIALCOLLLECTION",
+            "message": "आवासीय से संग्रह",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_COMERCIALCOLLECTION",
+            "message": "व्यावसायिक से संग्रह",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_RESIDENTIALSCOUNT",
+            "message": "आवासीय भुगतान",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+        {
+            "code": "DASHBOARD_OTHERSCOLLECTION",
+            "message": "अन्य से संग्रह",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+       {
+            "code": "DASHBOARD_TOTALAPPLICATIONSCOUNT",
+            "message": "उपभोक्ताओं ने भुगतान किया",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
+       {
+            "code": "DASHBOARD_COMERCIALSCOUNT",
+            "message": "व्यावसायिक भुगतान",
+            "module": "mgramseva-dashboard",
+            "locale": "hi_IN"
+        },
 	{
             "code": "NO_OF_RECORDS",
             "message": "रिकॉर्ड्स की संख्या: <n>",
