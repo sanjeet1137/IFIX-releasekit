@@ -335,68 +335,140 @@
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
        },
-	   {
-            "code": "dashboard_demand",
-            "message": "ਮੰਗ",
-            "module": "mgramseva-dashboard",
-            "locale": "pn_IN"
-       },
-	   {
-            "code": "dashboard_pendingCollection",
-            "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ",
-            "module": "mgramseva-dashboard",
-            "locale": "pn_IN"
-       },
-	   {
-            "code": "dashboard_actualCollection",
-            "message": "ਅਸਲ ਸੰਗ੍ਰਹਿ",
-            "module": "mgramseva-dashboard",
-            "locale": "pn_IN"
-        },
-		{
-            "code": "dashboard_totalExpenditure",
+	{
+            "code": "DASHBOARD_TOTALEXPENDITURE",
             "message": "ਕੁੱਲ ਖਰਚਾ",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
-        },
-		{
-            "code": "dashboard_amountUnpaid",
+       },
+       {
+            "code": "DASHBOARD_AMOUNTUNPAID",
             "message": "ਅਦਾਇਗੀ ਦੀ ਰਕਮ",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
-		{
-            "code": "dashboard_amountPaid",
+        {
+            "code": "DASHBOARD_AMOUNTPAID",
             "message": "ਅਦਾਇਗੀ ਕੀਤੀ ਰਕਮ",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
+         {
+            "code": "DASHBOARD_TOTALBILLS",
+            "message": "ਕੁੱਲ ਬਿੱਲ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_BILLSPAID",
+            "message": "ਭੁਗਤਾਨ ਕੀਤੇ ਬਿੱਲ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_PENDINGBILLS",
+            "message": "ਅਦਾਇਗੀ ਕੀਤੀ ਰਕਮ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_ELECTRICITYBILL",
+            "message": "ਬਿਜਲੀ ਦਾ ਬਿੱਲ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_OMMISC",
+            "message": "ਓ ਐਂਡ ਐਮ ਅਤੇ ਵਿਭਿੰਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+         {
+            "code": "DASHBOARD_SALARY",
+            "message": "ਤਨਖਾਹ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+	{
+        "code": "DASHBOARD_PENDINGCOLLECTION",
+        "message": "ਬਕਾਇਆ ਸੰਗ੍ਰਹਿ",
+         "module": "mgramseva-dashboard",
+         "locale": "pn_IN"
+     },
+     {
+            "code": "DASHBOARD_ACTUALCOLLECTION",
+            "message": "ਅਸਲ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+     },
+     {
+            "code": "DASHBOARD_RESIDETIALCOLLLECTION",
+            "message": "ਰਿਹਾਇਸ਼ੀ ਤੋਂ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+       },
+      {
+            "code": "DASHBOARD_RESIDENTIALSCOUNT",
+            "message": "ਰਿਹਾਇਸ਼ੀ ਭੁਗਤਾਨ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+      {
+            "code": "DASHBOARD_COMERCIALCOLLECTION",
+            "message": "ਵਪਾਰਕ ਤੋਂ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_OTHERSCOLLECTION",
+            "message": "ਦੂਜਿਆਂ ਤੋਂ ਸੰਗ੍ਰਹਿ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_TOTALAPPLICATIONSCOUNT",
+            "message": "ਖਪਤਕਾਰਾਂ ਨੇ ਭੁਗਤਾਨ ਕੀਤਾ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "DASHBOARD_COMERCIALSCOUNT",
+            "message": "ਵਪਾਰਕ ਅਦਾਇਗੀ ਕੀਤੀ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
+	{
+            "code": "DASHBOARD_DEMAND",
+            "message": "ਮੰਗ",
+            "module": "mgramseva-dashboard",
+            "locale": "pn_IN"
+        },
 		
-		{
+	{
             "code": "MONTHLY_REPORT_MESSAGE",
             "message": "ਕਿਰਪਾ ਕਰਕੇ <Month-Year> ਲਈ ਐਮਗ੍ਰਾਮਸੇਵਾ ਦੀ ਮਾਸਿਕ ਸੰਖੇਪ ਰਿਪੋਰਟ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਲਿੰਕ ਲੱਭੋ <link>",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
-		{
+	{
             "code": "NUMBER_OF_RECORDS",
             "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: <n>",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
-		{
+	{
             "code": "EXPENDITURE_BILLS",
             "message": "ਖਰਚੇ ਦੇ ਬਿੱਲ",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
-		{
+	{
             "code": "EXPENDITURE_DESC",
             "message": "ਹੇਠਾਂ <Pending Or Paid> ਦੀ ਸਥਿਤੀ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਬਿੱਲਾਂ ਦੀ ਸੂਚੀ ਹੈ ਅਤੇ ਬਿੱਲ ਆਈਡੀ / ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਪਾਠ ਜਿਸ ਵਿੱਚ <Time period> ਲਈ <text> ਸ਼ਾਮਲ ਹੈ.",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
-		{
+	{
             "code": "COLLECTION_DESC",
             "message": "ਹੇਠਾਂ ਪ੍ਰਾਪਰਟੀ ਦੀ ਕਿਸਮ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ <Residential or Commercial> ਅਤੇ ਨਾਮ/ ਖਪਤਕਾਰ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <text> ਹੈ.",
             "module": "mgramseva-dashboard",
