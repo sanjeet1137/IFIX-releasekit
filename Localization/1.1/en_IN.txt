@@ -329,43 +329,116 @@
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
         },
-		{
-            "code": "dashboard_demand",
-            "message": "Demand",
-            "module": "mgramseva-dashboard",
-            "locale": "en_IN"
-       },
-	   {
-            "code": "dashboard_pendingCollection",
-            "message": "Pending Collection",
-            "module": "mgramseva-dashboard",
-            "locale": "en_IN"
-        },
-		{
-            "code": "dashboard_actualCollection",
-            "message": "Actual Collection",
-            "module": "mgramseva-dashboard",
-            "locale": "en_IN"
-        },
-		{
-            "code": "dashboard_totalExpenditure",
+	{
+            "code": "DASHBOARD_TOTALEXPENDITURE",
             "message": "Total Expenditure",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
-        },
-		{
-            "code": "dashboard_amountUnpaid",
-            "message": "Amount Unpaid",
-            "module": "mgramseva-dashboard",
-            "locale": "en_IN"
-        },
-		{
-            "code": "dashboard_amountPaid",
+   },
+   {
+            "code": "DASHBOARD_AMOUNTPAID",
             "message": "Amount Paid",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
+     },
+     {
+            "code": "DASHBOARD_AMOUNTUNPAID",
+            "message": "Amount Unpaid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+      },
+     {
+            "code": "DASHBOARD_TOTALBILLS",
+            "message": "Total Bills",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+     },
+      {
+            "code": "DASHBOARD_BILLSPAID",
+            "message": "Bills Paid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+      },
+     {
+            "code": "DASHBOARD_PENDINGBILLS",
+            "message": "Pending Bills",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+      },
+      {
+            "code": "DASHBOARD_ELECTRICITYBILL",
+            "message": "Electricity Bill",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
         },
-		{
+       {
+            "code": "DASHBOARD_SALARY",
+            "message": "Salary",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+       },
+       {
+            "code": "DASHBOARD_OMMISC",
+            "message": "O&M & Misc",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+	{
+            "code": "DASHBOARD_DEMAND",
+            "message": "Demand",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+},
+{
+            "code": "DASHBOARD_PENDINGCOLLECTION",
+            "message": "Pending Collection",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+ },
+ {
+            "code": "DASHBOARD_ACTUALCOLLECTION",
+            "message": "Actual Collection",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+  },
+  {
+            "code": "DASHBOARD_RESIDETIALCOLLLECTION",
+            "message": "Collection from Residential",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+   },
+   {
+            "code": "DASHBOARD_COMERCIALCOLLECTION",
+            "message": "Collection from Commercial",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+     },
+    {
+            "code": "DASHBOARD_RESIDENTIALSCOUNT",
+            "message": "Residentials Paid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+    },
+     {
+            "code": "DASHBOARD_OTHERSCOLLECTION",
+            "message": "Collection from Others",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+       {
+            "code": "DASHBOARD_TOTALAPPLICATIONSCOUNT",
+            "message": "Consumers Paid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+      {
+            "code": "DASHBOARD_COMERCIALSCOUNT",
+            "message": "Commercials Paid",
+            "module": "mgramseva-dashboard",
+            "locale": "en_IN"
+        },
+		
+        {
             "code": "NO_OF_RECORDS",
             "message": "Number of Records: <n>",
             "module": "mgramseva-common",
