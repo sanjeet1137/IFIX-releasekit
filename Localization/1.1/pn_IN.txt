@@ -516,5 +516,11 @@
             "message": "ਅੱਜ ਦੀ ਮਿਤੀ ਬਿਲ ਦੀ ਮਿਤੀ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣੀ ਚਾਹੀਦੀ",
             "module": "mgramseva-expenses",
             "locale": "pn_IN"
+        },
+	{
+            "code": "INVALID_Vendor",
+            "message": "ਅਵੈਧ ਵਿਕਰੇਤਾ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
         }
 ]	  
