@@ -509,5 +509,13 @@
             "message": "To date should not be higher than the bill date",
             "module": "mgramseva-expenses",
             "locale": "en_IN"
+        },
+        {
+            "code": "INVALID_Vendor",
+            "message": "Invalid Vendor",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
+  
+}
 ]		
