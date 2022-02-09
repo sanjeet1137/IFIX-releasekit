@@ -521,5 +521,11 @@
             "message": "आज तक की तारीख बिल की तारीख से अधिक नहीं होनी चाहिए",
             "module": "mgramseva-expenses",
             "locale": "hi_IN"
+        },
+	{
+            "code": "INVALID_Vendor",
+            "message": "अमान्य विक्रेता",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
         }
 ]
