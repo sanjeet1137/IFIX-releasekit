@@ -38,7 +38,7 @@
 		{
             "code": "Feb",
             "message": "Feb",
-            "module": "mgramseva-dashboard",
+            "module": "mgramseva-common",
             "locale": "en_IN"
         },
 		{
@@ -62,19 +62,19 @@
 		 {
             "code": "Jun",
             "message": "Jun",
-            "module": "mgramseva-dashboard",
+            "module": "mgramseva-common",
             "locale": "en_IN"
         },
 		{
             "code": "Jul",
             "message": "Jul",
-            "module": "mgramseva-dashboard",
+            "module": "mgramseva-common",
             "locale": "hi_IN"
         },
 		{
             "code": "Aug",
             "message": "Aug",
-            "module": "mgramseva-dashboard",
+            "module": "mgramseva-common",
             "locale": "en_IN"
         },
 		{
