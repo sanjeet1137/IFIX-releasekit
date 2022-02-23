@@ -522,5 +522,18 @@
             "message": "ਅਵੈਧ ਵਿਕਰੇਤਾ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
-        }
+        },
+	{
+            "code": "CONSUMER_ACTUAL_DUE_AMOUNT",
+            "message": "ਅਸਲ ਬਕਾਇਆ ਰਾਸ਼ੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        },
+	{
+            "code": "CONSUMER_PENDING_AMOUNT",
+            "message": "ਅਸਲ ਬਕਾਇਆ ਰਾਸ਼ੀ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+  }
+	
 ]	  
