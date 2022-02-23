@@ -515,7 +515,20 @@
             "message": "Invalid Vendor",
             "module": "mgramseva-common",
             "locale": "en_IN"
+        },
+	{
+            "code": "CONSUMER_ACTUAL_DUE_AMOUNT",
+            "message": "Actual Due amount",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        },
+	{
+            "code": "CONSUMER_PENDING_AMOUNT",
+            "message": "Pending Amount",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
+	
   
 }
 ]		
