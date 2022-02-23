@@ -527,5 +527,17 @@
             "message": "अमान्य विक्रेता",
             "module": "mgramseva-common",
             "locale": "hi_IN"
-        }
+        },
+	{
+            "code": "CONSUMER_ACTUAL_DUE_AMOUNT",
+            "message": "वास्तविक देय राशि",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+       },
+       {
+            "code": "CONSUMER_PENDING_AMOUNT",
+            "message": "बकाया राशि",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+      }
 ]
