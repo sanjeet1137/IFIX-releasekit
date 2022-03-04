@@ -241,7 +241,7 @@
         },
 		{
             "code": "ACTUAL_PAYMENT",
-            "message": "ਅਸਲ ਭੁਗਤਾਨ",
+            "message": "Actual Payment",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
