@@ -151,7 +151,7 @@
         },
 		{
             "code": "REVENUE_EXPENDITURE_TREND",
-            "message": "राजस्व और व्यय प्रवृत्ति",
+            "message": "राजस्व और व्यय प्रवृत्ति (₹)",
             "module": "mgramseva-dashboard",
             "locale": "hi_IN"
         },
