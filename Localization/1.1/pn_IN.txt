@@ -175,7 +175,7 @@
         },
 		 {
             "code": "REVENUE_EXPENDITURE_TREND",
-            "message": "ਮਾਲੀਆ ਅਤੇ ਖਰਚੇ ਦਾ ਰੁਝਾਨ",
+            "message": "ਮਾਲੀਆ ਅਤੇ ਖਰਚੇ ਦਾ ਰੁਝਾਨ (₹)",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
