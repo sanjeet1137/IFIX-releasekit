@@ -259,7 +259,7 @@
         },
 		{
             "code": "PDF_SUB_TEXT_BELOW_LIST",
-            "message": "Below are list of all consumers matching with status as <selectedTab> and Name/Connection ID containing <search> showing Pending Water Charges till <date>",
+            "message": "Below are list of all consumers matching with status as {selectedTab} and Name/Connection ID containing {search} showing Pending Water Charges till {date}",
             "module": "mgramseva-common",
             "locale": "en_IN"
         },
@@ -283,13 +283,13 @@
         },
 		{
             "code": "WHATSAPP_TEXT_HOUSEHOLD",
-            "message": "Please find attached link to download the HouseHold Register updated on <Date> <link>",
+            "message": "Please find attached link to download the HouseHold Register updated on {Date} {link}",
             "module": "mgramseva-common",
             "locale": "en_IN"
         },
 		{
             "code": "NO_OF_RECORDS",
-            "message": "Number of Records: <n>",
+            "message": "Number of Records: {n}",
             "module": "mgramseva-common",
             "locale": "en_IN"
         },
@@ -325,7 +325,7 @@
         },
 		{
             "code": "USER_GAVE_FEEDBACK",
-            "message": "Feedback provided by <n> consumers in <date>",
+            "message": "Feedback provided by {n} consumers in {date}",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
         },
@@ -440,13 +440,13 @@
 		
         {
             "code": "NO_OF_RECORDS",
-            "message": "Number of Records: <n>",
+            "message": "Number of Records: {n}",
             "module": "mgramseva-common",
             "locale": "en_IN"
         },
 		{
             "code": "MONTHLY_REPORT_MESSAGE",
-            "message": "Please find link to download Monthly Summary Report of mGramSeva for <Month-Year> <link>",
+            "message": "Please find link to download Monthly Summary Report of mGramSeva for {Month-Year} {link}",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
         },
@@ -458,13 +458,13 @@
         },
 		{
             "code": "EXPENDITURE_DESC",
-            "message": "Below are list of all bills matching with status as <Pending Or Paid> and Bill ID / Vendor Name text containing <text> for the time period <Time period>.",
+            "message": "Below are list of all bills matching with status as {Pending Or Paid} and Bill ID / Vendor Name text containing {text} for the time period {Time period}.",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
         },
 		{
             "code": "COLLECTION_DESC",
-            "message": "Below are list of all consumers matching with property type as <Residential or Commercial> and Name/ Consumer ID containing <text>.",
+            "message": "Below are list of all consumers matching with property type as {Residential or Commercial} and Name/ Consumer ID containing {text}.",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
         },	
