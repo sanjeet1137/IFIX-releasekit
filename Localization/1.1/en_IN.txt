@@ -187,7 +187,7 @@
         },
 		{
             "code": "REVENUE_EXPENDITURE_TREND",
-            "message": "Revenue and Expenditure Trend",
+            "message": "Revenue and Expenditure Trend (₹)",
             "module": "mgramseva-dashboard",
             "locale": "en_IN"
         },
