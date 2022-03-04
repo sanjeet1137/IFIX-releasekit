@@ -253,7 +253,7 @@
         },
 		{
             "code": "PDF_SUB_TEXT_BELOW_LIST",
-            "message": "ਹੇਠਾਂ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ ਜੋ  <selectedTab> ਅਤੇ ਨਾਮ/ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <search> ਸ਼ਾਮਲ ਹੈ, ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਪਾਣੀ ਦੀ ਚਾਰਜਿਜ਼  <date> ਤੱਕ ਦਿਖਾਈ ਦੇ ਰਹੇ ਹਨ",
+            "message": "ਹੇਠਾਂ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ ਜੋ  {selectedTab} ਅਤੇ ਨਾਮ/ਕਨੈਕਸ਼ਨ ਆਈਡੀ ਜਿਸ ਵਿੱਚ {search} ਸ਼ਾਮਲ ਹੈ, ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਪਾਣੀ ਦੀ ਚਾਰਜਿਜ਼  {date} ਤੱਕ ਦਿਖਾਈ ਦੇ ਰਹੇ ਹਨ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
         },
@@ -277,13 +277,13 @@
        },
 	   {
             "code": "WHATSAPP_TEXT_HOUSEHOLD",
-            "message": "ਕਿਰਪਾ ਕਰਕੇ ਹਾਉਸਹੋਲਡ ਰਜਿਸਟਰ ਨੂੰ <Date> ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਲਈ ਨੱਥੀ ਲਿੰਕ ਲੱਭੋ  <link>",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ ਹਾਉਸਹੋਲਡ ਰਜਿਸਟਰ ਨੂੰ {Date} ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਲਈ ਨੱਥੀ ਲਿੰਕ ਲੱਭੋ  {link}",
             "module": "mgramseva-common",
             "locale": "pn_IN"
        },
 	   {
             "code": "NO_OF_RECORDS",
-            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: <n>",
+            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: {n}",
             "module": "mgramseva-common",
             "locale": "pn_IN"
        },
@@ -319,7 +319,7 @@
        },
 	   {
             "code":"USER_GAVE_FEEDBACK",
-            "message": "ਫੀਡਬੈਕ <n> ਖਪਤਕਾਰਾਂ ਦੁਆਰਾ <date> ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ",
+            "message": "ਫੀਡਬੈਕ {n} ਖਪਤਕਾਰਾਂ ਦੁਆਰਾ {date} ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
        },
@@ -331,7 +331,7 @@
        },
 	   {
             "code": "USER_GAVE_FEEDBACK",
-            "message": "ਫੀਡਬੈਕ <n> ਖਪਤਕਾਰਾਂ ਦੁਆਰਾ <date> ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ",
+            "message": "ਫੀਡਬੈਕ {n} ਖਪਤਕਾਰਾਂ ਦੁਆਰਾ {date} ਵਿੱਚ ਦਿੱਤਾ ਗਿਆ",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
        },
@@ -446,13 +446,13 @@
 		
 	{
             "code": "MONTHLY_REPORT_MESSAGE",
-            "message": "ਕਿਰਪਾ ਕਰਕੇ <Month-Year> ਲਈ ਐਮਗ੍ਰਾਮਸੇਵਾ ਦੀ ਮਾਸਿਕ ਸੰਖੇਪ ਰਿਪੋਰਟ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਲਿੰਕ ਲੱਭੋ <link>",
+            "message": "ਕਿਰਪਾ ਕਰਕੇ {Month-Year} ਲਈ ਐਮਗ੍ਰਾਮਸੇਵਾ ਦੀ ਮਾਸਿਕ ਸੰਖੇਪ ਰਿਪੋਰਟ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ ਲਿੰਕ ਲੱਭੋ {link}",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
 	{
             "code": "NUMBER_OF_RECORDS",
-            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: <n>",
+            "message": "ਰਿਕਾਰਡਾਂ ਦੀ ਗਿਣਤੀ: {n}",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
@@ -464,13 +464,13 @@
         },
 	{
             "code": "EXPENDITURE_DESC",
-            "message": "ਹੇਠਾਂ <Pending Or Paid> ਦੀ ਸਥਿਤੀ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਬਿੱਲਾਂ ਦੀ ਸੂਚੀ ਹੈ ਅਤੇ ਬਿੱਲ ਆਈਡੀ / ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਪਾਠ ਜਿਸ ਵਿੱਚ <Time period> ਲਈ <text> ਸ਼ਾਮਲ ਹੈ.",
+            "message": "ਹੇਠਾਂ {Pending Or Paid} ਦੀ ਸਥਿਤੀ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਬਿੱਲਾਂ ਦੀ ਸੂਚੀ ਹੈ ਅਤੇ ਬਿੱਲ ਆਈਡੀ / ਵਿਕਰੇਤਾ ਦੇ ਨਾਮ ਦਾ ਪਾਠ ਜਿਸ ਵਿੱਚ {Time period} ਲਈ {text} ਸ਼ਾਮਲ ਹੈ.",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
 	{
             "code": "COLLECTION_DESC",
-            "message": "ਹੇਠਾਂ ਪ੍ਰਾਪਰਟੀ ਦੀ ਕਿਸਮ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ <Residential or Commercial> ਅਤੇ ਨਾਮ/ ਖਪਤਕਾਰ ਆਈਡੀ ਜਿਸ ਵਿੱਚ <text> ਹੈ.",
+            "message": "ਹੇਠਾਂ ਪ੍ਰਾਪਰਟੀ ਦੀ ਕਿਸਮ ਦੇ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਸਾਰੇ ਖਪਤਕਾਰਾਂ ਦੀ ਸੂਚੀ ਹੈ {Residential or Commercial} ਅਤੇ ਨਾਮ/ ਖਪਤਕਾਰ ਆਈਡੀ ਜਿਸ ਵਿੱਚ {text} ਹੈ.",
             "module": "mgramseva-dashboard",
             "locale": "pn_IN"
         },
