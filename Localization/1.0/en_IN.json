@@ -3646,6 +3646,12 @@
             "message": "Start of the billing period can not be greater than end date",
             "module": "mgramseva-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "SHARE_BILL_PDF",
+            "message": "Share Bill",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
         }
         
     ]
