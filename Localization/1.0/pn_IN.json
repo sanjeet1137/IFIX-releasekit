@@ -3430,5 +3430,11 @@
            "message": "ਬਿਲਿੰਗ ਮਿਆਦ ਦੀ ਸ਼ੁਰੂਆਤ ਸਮਾਪਤੀ ਮਿਤੀ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦੀ",
            "module": "mgramseva-common",
            "locale": "pn_IN"
-       }
+       },
+        {
+            "code": "SHARE_BILL_PDF",
+            "message": "ਬਿੱਲ ਸਾਂਝਾ ਕਰੋ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        }
     ]
