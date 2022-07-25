@@ -1,0 +1,146 @@
+[
+  {
+    "code": "CORE_PENALTY",
+    "message": "Penalty (₹)",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADVANCE",
+    "message": "Advance",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_ADVANCE_ADJUSTED",
+    "message": "Advance adjusted amount",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_PAID_AFTER",
+    "message": "if paid after {dueDate}",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_NET_DUE_AMOUNT",
+    "message": "Net due Amount",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_CHANGE_THE_AMOUNT",
+    "message": "Please change the amount based on the customer payment.",
+    "module": "mgramseva-payments",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_AMOUNT_CONFIRMATION",
+    "message": "Confirm if the amount entered is correct.",
+    "module": "mgramseva-payments",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_CANCEL",
+    "message": "Cancel",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_GO_BACK",
+    "message": "Go Back",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CONSUMER_WALKTHROUGH_AMOUNT_TYPE_MESSAGE",
+    "message": "Select the radio button to enter \"Advance amount\" or \"Arrears with Penalty\" as of the selected billing cycle or billing date",
+    "module": "mgramseva-consumer",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_TOTAL_BILL_AMOUNT",
+    "message": "Total Bill Amount",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_NET_AMOUNT_DUE",
+    "message": "Net Amount Due",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_ADVANCE_RUPEE",
+    "message": "Advance (₹)",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_CONFIRM",
+    "message": "Confirm",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_NET_DUE_AMOUNT_WITH_PENALTY",
+    "message": "Net Amount Due with Penalty",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_TOTAL_BILL_AMOUNT",
+    "message": "Total Bill Amount",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_ADVANCE_ADJUSTED_AMOUNT",
+    "message": "Advance Adjusted Amount",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_NET_AMOUNT_DUE",
+    "message": "Net Amount Due",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_PENALTY_AFTER_DUE_DATE",
+    "message": "Penalty if paid after",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_NET_AMOUNT_DUE_WITH_PENALTY",
+    "message": "Net Amount due with Penalty (if paid after due date)",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_I_AGREE_TO_THE",
+    "message": "I agree to the",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TERMS_N_CONDITIONS",
+    "message": "Terms and Conditions",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WS_10201",
+    "message": "Penalty",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADVANCE_AVAILABLE",
+    "message": "Advance available",
+    "module": "mgramseva-common",
+    "locale": "en_IN"
+  }
+]

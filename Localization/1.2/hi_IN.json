@@ -1,0 +1,146 @@
+[
+  {
+    "code": "CORE_PENALTY",
+    "message": "जुर्माना (₹)",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ADVANCE",
+    "message": "अग्रिम",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_ADVANCE_ADJUSTED",
+    "message": "अग्रिम समायोजित राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_PAID_AFTER",
+    "message": "यदि {dueDate} के बाद भुगतान किया जाता है",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_NET_DUE_AMOUNT",
+    "message": "शुद्ध देय राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_CHANGE_THE_AMOUNT",
+    "message": "कृपया उपभोक्ता द्वारा किए गए भुगतान के आधार पर राशि बदलें",
+    "module": "mgramseva-payments",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_AMOUNT_CONFIRMATION",
+    "message": "पुष्टि करें कि दर्ज की गई राशि सही है या नहीं",
+    "module": "mgramseva-payments",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_CANCEL",
+    "message": "रद्द करें",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_GO_BACK",
+    "message": "वापिस",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CONSUMER_WALKTHROUGH_AMOUNT_TYPE_MESSAGE",
+    "message": "चुने गए बिलिंग चक्र या बिलिंग दिनांक के रूप में \"अग्रिम राशि\" या \"जुर्माना के साथ बकाया\" दर्ज करने के लिए रेडियो बटन का चयन करें",
+    "module": "mgramseva-consumer",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_TOTAL_BILL_AMOUNT",
+    "message": "कुल बिल राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_NET_AMOUNT_DUE",
+    "message": "शुद्ध देय  राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_ADVANCE_RUPEE",
+    "message": "अग्रिम (₹)",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_CONFIRM",
+    "message": "पुष्टि करें",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_NET_DUE_AMOUNT_WITH_PENALTY",
+    "message": "जुर्माने के साथ कुल बकाया राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_TOTAL_BILL_AMOUNT",
+    "message": "कुल बिल राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_ADVANCE_ADJUSTED_AMOUNT",
+    "message": "अग्रिम समायोजित राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_NET_AMOUNT_DUE",
+    "message": "देय शुद्ध राशि",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_PENALTY_AFTER_DUE_DATE",
+    "message": "जुर्माना अगर भुगतान के बाद",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_NET_AMOUNT_DUE_WITH_PENALTY",
+    "message": "शास्ति के साथ देय शुद्ध राशि (यदि नियत तारीख के बाद भुगतान किया जाता है)",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "CORE_I_AGREE_TO_THE",
+    "message": "मैं इसके लिए सहमत हूँ",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "TERMS_N_CONDITIONS",
+    "message": "नियम और शर्ते",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "WS_10201",
+    "message": "जुर्माना",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  },
+  {
+    "code": "ADVANCE_AVAILABLE",
+    "message": "अग्रिम उपलब्ध",
+    "module": "mgramseva-common",
+    "locale": "hi_IN"
+  }
+]
