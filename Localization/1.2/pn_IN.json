@@ -1,0 +1,152 @@
+[
+  {
+    "code": "CORE_PENALTY",
+    "message": "ਜੁਰਮਾਨਾ (₹)",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "ADVANCE",
+    "message": "ਪੇਸ਼ਗੀ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_ADVANCE_ADJUSTED",
+    "message": "ਅਡਜੱਸਟ ਕੀਤੀ ਗਈ ਐਡਵਾਂਸ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_PAID_AFTER",
+    "message": "ਜੇਕਰ {dueDate} ਤੋਂ ਬਾਅਦ ਭੁਗਤਾਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_NET_DUE_AMOUNT",
+    "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_CHANGE_THE_AMOUNT",
+    "message": "ਕਿਰਪਾ ਕਰਕੇ ਖਪਤਕਾਰ ਦੁਆਰਾ ਕੀਤੇ ਭੁਗਤਾਨ ਦੇ ਆਧਾਰ 'ਤੇ ਰਕਮ ਬਦਲੋ",
+    "module": "mgramseva-payments",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_AMOUNT_CONFIRMATION",
+    "message": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਦਾਖਲ ਕੀਤੀ ਰਕਮ ਸਹੀ ਹੈ ਜਾਂ ਨਹੀਂ",
+    "module": "mgramseva-payments",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_CANCEL",
+    "message": "ਰੱਦ ਕਰੋ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_GO_BACK",
+    "message": "ਵਾਪਸ  ਜਾਓ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CONSUMER_WALKTHROUGH_AMOUNT_TYPE_MESSAGE",
+    "message": "ਚੁਣਿੰਦਾ ਬਿੱਲਿੰਗ ਚੱਕਰ ਜਾਂ ਬਿੱਲ ਬਣਾਉਣ ਦੀ ਤਾਰੀਖ਼ ਤੱਕ \"ਅਗਾਊਂ ਰਕਮ\" ਜਾਂ \"ਜੁਰਮਾਨੇ ਦੇ ਨਾਲ ਬਕਾਏ\" ਦਾਖਲ ਕਰਨ ਲਈ ਰੇਡੀਓ ਬਟਨ ਦੀ ਚੋਣ ਕਰੋ",
+    "module": "mgramseva-consumer",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_TOTAL_BILL_AMOUNT",
+    "message": "ਕੁੱਲ ਬਿੱਲ ਦੀ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_NET_AMOUNT_DUE",
+    "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_ADVANCE_RUPEE",
+    "message": "ਪੇਸ਼ਗੀ (₹)",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_CONFIRM",
+    "message": "ਪੁਸ਼ਟੀ ਕਰੋ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_NET_DUE_AMOUNT_WITH_PENALTY",
+    "message": "ਜੁਰਮਾਨੇ ਦੇ ਨਾਲ ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_TOTAL_BILL_AMOUNT",
+    "message": "ਕੁੱਲ ਬਿੱਲ ਦੀ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_ADVANCE_ADJUSTED_AMOUNT",
+    "message": "ਐਡਵਾਂਸ ਐਡਜਸਟ ਕੀਤੀ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_NET_AMOUNT_DUE",
+    "message": "ਕੁੱਲ ਬਕਾਇਆ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_PENALTY_AFTER_DUE_DATE",
+    "message": "ਬਾਅਦ ਵਿੱਚ ਅਦਾ ਕਰਨ 'ਤੇ ਜੁਰਮਾਨਾ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_WATER_NET_AMOUNT_DUE_WITH_PENALTY",
+    "message": "ਜੇ ਬਾਅਦ ਵਿੱਚ ਭੁਗਤਾਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਜੁਰਮਾਨੇ ਦੇ ਨਾਲ ਬਕਾਇਆ ਸ਼ੁੱਧ ਰਕਮ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_I_AGREE_TO_THE",
+    "message": "ਮੈਂ ਇਸ ਨਾਲ ਸਹਿਮਤ ਹਾਂ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "TERMS_N_CONDITIONS",
+    "message": "ਨਿਬੰਧਨ ਅਤੇ ਸ਼ਰਤਾਂ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "WS_10201",
+    "message": "ਜੁਰਮਾਨਾ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "ADVANCE_AVAILABLE",
+    "message": "ਅਗਾਊਂ ਉਪਲਬਧ ਹੈ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "CORE_PENALTY_APPLICABLE",
+    "message": "ਜੁਰਮਾਨਾ ਲਾਗੂ ਹੈ",
+    "module": "mgramseva-common",
+    "locale": "pn_IN"
+  }
+]
