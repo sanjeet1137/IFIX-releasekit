@@ -142,5 +142,11 @@
     "message": "Advance available",
     "module": "mgramseva-common",
     "locale": "en_IN"
-  }
+  },
+          {
+            "code": "CORE_FATHER_NAME",
+            "message": "Father Name",
+            "module": "mgramseva-common",
+            "locale": "en_IN"
+        }
 ]
