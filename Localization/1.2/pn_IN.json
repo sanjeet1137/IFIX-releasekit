@@ -148,5 +148,11 @@
     "message": "ਜੁਰਮਾਨਾ ਲਾਗੂ ਹੈ",
     "module": "mgramseva-common",
     "locale": "pn_IN"
-  }
+  },
+          {
+            "code": "CORE_FATHER_NAME",
+            "message": "ਪਿਤਾ ਦਾ ਨਾਮ",
+            "module": "mgramseva-common",
+            "locale": "pn_IN"
+        }
 ]
