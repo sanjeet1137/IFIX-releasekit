@@ -142,5 +142,11 @@
     "message": "अग्रिम उपलब्ध",
     "module": "mgramseva-common",
     "locale": "hi_IN"
-  }
+  },
+          {
+            "code": "CORE_FATHER_NAME",
+            "message": "पिता का नाम",
+            "module": "mgramseva-common",
+            "locale": "hi_IN"
+        }
 ]
