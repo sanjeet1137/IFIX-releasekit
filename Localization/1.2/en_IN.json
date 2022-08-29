@@ -154,5 +154,11 @@
             "message": "Parent's/Spouse Name",
             "module": "mgramseva-consumer",
             "locale": "en_IN"
+        },
+          {
+            "code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
+            "message": "Parent's/Spouse Name is required",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
         }
 ]
