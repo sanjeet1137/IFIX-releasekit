@@ -160,5 +160,11 @@
             "message": "ਮਾਤਾ/ਪਿਤਾ/ਪਤੀ/ਪਤਨੀ ਦਾ ਨਾਮ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
+        },
+          {
+            "code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
+            "message": "ਮਾਤਾ/ਪਿਤਾ/ਪਤੀ/ਪਤਨੀ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
         }
 ]
