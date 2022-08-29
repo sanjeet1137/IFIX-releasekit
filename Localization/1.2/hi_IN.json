@@ -154,5 +154,11 @@
             "message": "माता-पिता/पति/पत्नी का नाम",
             "module": "mgramseva-consumer",
             "locale": "hi_IN"
+        },
+          {
+            "code": "CONSUMER_FATHER_SPOUSE_NAME_REQUIRED",
+            "message": "माता-पिता/पति/पत्नी का नाम आवश्यक है",
+            "module": "mgramseva-consumer",
+            "locale": "hi_IN"
         }
 ]
