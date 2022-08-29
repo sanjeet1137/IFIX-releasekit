@@ -154,5 +154,11 @@
             "message": "ਪਿਤਾ ਦਾ ਨਾਮ",
             "module": "mgramseva-common",
             "locale": "pn_IN"
+        },
+          {
+            "code": "CONSUMER_FATHER_SPOUSE_NAME",
+            "message": "ਮਾਤਾ/ਪਿਤਾ/ਪਤੀ/ਪਤਨੀ ਦਾ ਨਾਮ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
         }
 ]
