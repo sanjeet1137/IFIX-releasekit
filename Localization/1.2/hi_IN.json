@@ -160,5 +160,11 @@
             "message": "माता-पिता/पति/पत्नी का नाम आवश्यक है",
             "module": "mgramseva-consumer",
             "locale": "hi_IN"
+        },
+          {
+            "code": "ADD_ARREAR_FOR_PENALTY",
+            "message": "जुर्माना के लिए बकाया जोड़ें",
+            "module": "mgramseva-consumer",
+            "locale": "hi_IN"
         }
 ]
