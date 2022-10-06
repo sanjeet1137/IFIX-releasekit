@@ -166,5 +166,11 @@
             "message": "ਮਾਤਾ/ਪਿਤਾ/ਪਤੀ/ਪਤਨੀ ਦਾ ਨਾਮ ਲੋੜੀਂਦਾ ਹੈ",
             "module": "mgramseva-consumer",
             "locale": "pn_IN"
+        },
+          {
+            "code": "ADD_ARREAR_FOR_PENALTY",
+            "message": "ਜੁਰਮਾਨੇ ਲਈ ਬਕਾਏ ਜੋੜੋ",
+            "module": "mgramseva-consumer",
+            "locale": "pn_IN"
         }
 ]
