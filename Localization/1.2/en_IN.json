@@ -160,5 +160,11 @@
             "message": "Parent's/Spouse Name is required",
             "module": "mgramseva-consumer",
             "locale": "en_IN"
+        },
+          {
+            "code": "ADD_ARREAR_FOR_PENALTY",
+            "message": "Add Arrears for Penalty",
+            "module": "mgramseva-consumer",
+            "locale": "en_IN"
         }
 ]
