@@ -23765,6 +23765,12 @@
             "message": "City two",
             "module": "rainmaker-common",
             "locale": "en_IN"
+        },
+        {
+            "code": "ACCESSCONTROL_ROLES_ROLES_ORG_VIEWER",
+            "message": "Organization Viewer",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
         }
     ]
 }
