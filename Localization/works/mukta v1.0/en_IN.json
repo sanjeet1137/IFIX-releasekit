@@ -23767,6 +23767,12 @@
             "locale": "en_IN"
         },
         {
+            "code": "ATM_SENTBACKTOCBO",
+            "message": "सीबीओ को वापस भेज दिया",
+            "module": "rainmaker-attendencemgmt",
+            "locale": "hi_IN"
+        },
+        {
             "code": "ACCESSCONTROL_ROLES_ROLES_ORG_VIEWER",
             "message": "Organization Viewer",
             "module": "rainmaker-common",
